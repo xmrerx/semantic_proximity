@@ -26,7 +26,7 @@ const router = new VueRouter({
 Vue.use(VueRouter);
 Vue.use(VueResource);
 
-Vue.http.options.root = 'http://192.168.33.46:5000/';
+Vue.http.options.root = 'http://127.0.0.1:5000/';  // 'http://192.168.33.46:5000/';
 
 new Vue({
   router,
