@@ -1,0 +1,29 @@
+san francisco reuters wikileaks document show us central intelligence agency consider " mission " connected car technology underscore auto industry concern science behind next generation vehicle could turn -PRON-
+cyber security consider key rollout tomorrow ’s selfdriving today ’s connected car resemble computer wheel host communication route hacker could target
+consumer trust smart vehicle -PRON- must deem -PRON- safe attack
+security expert cite terrifying hypothetical example remote attack fully autonomous vehicle steering wheel brake passenger would recourse regain manual control car
+" -PRON- lot car company try design car better suit automation mean -PRON- attractive hacker " say auto consultant roger lanctot strategy analytic
+major strategy automaker reduce number communication gateway crucial system require service offer third party go single secure path
+wikileaks document show cia cite " vehicle system " car operate system qnx blackberry ltd " potential mission area " cia ’s " embed devices branch " consider
+qnx operate system use global automaker provide " comprehensive multilevel policydriven security model mitigate attack " company say statement reuters
+give collection software hardware network component make connected car " security strong -PRON- weak link " -PRON- say
+cia ’s interest car bring widespread attention industry already receive wakeup call car ’ potential hack
+researcher 2015 use wireless connection turn jeep cherokee ’s engine prompt recall 14 million vehicle fiat chrysler automobile
+september last year chinese cyber security researcher hack tesla inc model sedan remotely tap brake pop trunk
+electric carmaker subsequently patch bug use overtheair fix
+tesla respond request comment -PRON- cyber security protocol
+hacking jeep tesla " bring -PRON- home industry even -PRON- improbable -PRON- ’ technically possible " say mark wakefield global cohead automotive practice alixpartner
+car see vulnerable -PRON- " could big brand problem " wakefield say
+hack could also expose private information share car third party credit card number account number password theft
+january survey university michigan ’s transportation research institute find 33 percent respondent say -PRON- " extremely concerned " hacking full selfdrive car cause crash
+number way car proliferate cell phone signal dongle
+one gateway standard obdii port find steering wheel historically use onboard diagnostic
+today hundred aftermarket device use port whether monitor drive insurance need provide convenience like safety alert
+" security device important -PRON- provide attacker means access vehicle system driver datum remotely " warn fbi march 2016 bulletin cyber security risk motor vehicle
+carmaker also build wall noncrucial infotainment system drive control breach block -PRON- could compromise key function like brake
+first step industry tackle intrusion detection say lanctot
+breach detect complicate shut part car could unsafe -PRON- say
+tesla first champion " overtheair " technology wireless software update send remotely car
+although argue update way hacker tesla see -PRON- key protection upgrade security repair vulnerability quickly
+january us lawmaker introduce bill call cyber security standard new car far us regulator issue recommendation rule carmaker shield -PRON- computer system hacker
+industry " year away " solve cyber security problem lanctot say note first generation car build jeep hack include kind detection capability see early 2018

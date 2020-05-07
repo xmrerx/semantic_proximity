@@ -1,0 +1,4 @@
+washington reuters republican -PRON-
+senator ron johnson say -PRON- oppose senate republican tax proposal -PRON- unfairly benefit corporation type business
+" -PRON- pass -PRON- without -PRON- let -PRON- " johnson tell wall street journal interview
+" -PRON- go vote tax package "

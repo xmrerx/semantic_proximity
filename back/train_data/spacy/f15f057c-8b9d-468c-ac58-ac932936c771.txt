@@ -1,0 +1,2 @@
+vcrowvccolumn width 11 tdblocktrendingnow limit 5 tdblockbiggrid sort feature vccolumnvcrowvcrow vccolumn width 23 tdblock5 limit 24 customtitle hot press
+tdfilterdefaulttxt ajaxpagination loadmore bordertop nobordertop vccolumnvccolumn width 13 vcwidgetsidebar sidebarid tddefault vccolumn vcrowvcrowvccolumn width 11 tdblock14 limit 3 customtitle even news tdfilterdefaulttxt ajaxpagination nextprev headercolor 288abf vccolumn vcrow

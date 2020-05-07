@@ -1,0 +1,35 @@
+accord wired hackable security flaw software
+even require hack knock door ask let
+apple macos high sierra second kindon tuesday security researcher disclose bug allow anyone blindingly easy method break operate system security protection
+anyone hit prompt high sierra ask username password log machine multiple user -PRON- simply type root username leave password field blank click unlock twice immediately gain full accessin word bug allow rogue user get slight foothold target computer gain deep level access computer know root privilege
+malware design exploit trick could also fully install -PRON- deep within computer password require
+-PRON- always see malware try escalate privilege get root access say patrick wardle security researcher synack
+best easy way ever get root apple hand -PRON- -PRON- silver platter
+word security vulnerability ripple across twitter social medium security researcher find -PRON- replicate issue capture post video demonstration attack like wardle gif another show security researcher amit serper log loggedout account
+wired also independently confirm bugwatch two incredible video post twitter letting apple know -PRON- huge security issue macos high sierra pictwittercom4tbh5netis patrick wardle patrickwardle november 28 2017just test apple root login bug
+-PRON- log root even machi reboot pictwittercomfthz7nkcup amit serper 0xamit november 28 2017the fact attack could use loggedout account raise possibility someone physical access could exploit -PRON- easily malware point thomas reed applefocuse security researcher malwarebyte
+-PRON- could instance use attack gain root access loggedout machine set root password regain access machine time
+oooh boy doozy say reed
+someone mac sit desk office -PRON- could come back later whatever -PRON- want
+facebook user brian matiash tell mac user -PRON- protect -PRON- mac hack
+-PRON- confirm deny -PRON- advice legit -PRON- simply share -PRON- -PRON-
+matiash give facebook user following advice wonder never cease apple
+painfully obvious bug like make -PRON- -PRON- qa team
+least make default root password password something
+ffs guy
+get -PRON- damned act together
+edit -PRON- would socially responsible -PRON- state fairly easy workaround
+start open terminalapp type follow command sudo passwd u root next enter -PRON- primary user password
+enter new password root retype -PRON- confirm
+
+-PRON- protect
+functiond -PRON- would var js fjs dgetelementsbytagnames0 dgetelementbyidid return js dcreateelement jsid -PRON- would jssrc httpsconnectfacebooknetenussdkjsxfbml1versionv211 fjsparentnodeinsertbeforejs fjsdocument script facebookjssdkwonder never cease apple
+painfully obvious bug like make -PRON- -PRON- qa team
+least make default root password password something
+ffs guy
+get -PRON- damned act togetheredit -PRON- would socially responsible -PRON- state fairly easy workaround
+start open terminalapp type follow commandsudo passwd u rootnext enter -PRON- primary user password
+enter new password root retype -PRON- confirm
+
+-PRON- protectedposte brian matiash tuesday november 28 2017reed also note however researcher confirm -PRON- possible block attack either set password root user disable root access altogether
+-PRON- instal high sierra set root password disabled root access -PRON- -PRON- nowin statement apple confirm problem reiterate shortterm fix promise longerterm software patch -PRON- work software update address issue apple spokesperson write

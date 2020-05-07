@@ -1,0 +1,24 @@
+san francisco reuters us congressional probe impact hack juniper networks inc software examine possibility -PRON- initially alter behest national security agency lawmaker say interview thursday
+house committee oversight government reform month send letter ask two dozen agency provide document show whether -PRON- use juniper device run screenos software
+company say december screenos compromise hacker use socalled back door software
+rep hurd texas republican head committee ’s technology subcommittee formerly work central intelligence agency say -PRON- initial goal pursue probe determine whether government agency many use juniper gear compromise hacker
+hurd key player investigation say committee would also probe origin breach
+-PRON- turn back door include us government agency ’s request -PRON- say help change policy debate
+early juniper back door identify researcher use technique widely attribute nsa
+nsa respond request comment
+juniper decline comment
+us law enforcement intelligence agency long lobby vain legislation would require technology company provide back door equipment use encryption technology
+-PRON- say -PRON- need access conduct authorize wiretap type surveillance
+technology industry fiercely oppose policy argue back door could exploit criminal foreign intelligence service
+debate heat wake recent attack islamic militant make heavy use digital communication network
+" -PRON- understand vulnerability create problem ensure kind thing happen future " hurd say
+" think government request anything weaken security anything use federal government american business " juniper say december -PRON- find two unauthorized piece code insert screenos would allow whoever plant -PRON- read email send supposedly secure connection know virtual private network vpns
+outside researcher pick apart software patch juniper issue fix problem -PRON- conclude one back door insert 2014 one 2012
+2012 version though merely change formulation piece software know random number generator part encryption product
+random number generator use juniper product know dual elliptic curve long suspect security professional contain back door engineer us national security agency
+suspicion largely confirm leak former agency contractor edward snowden
+juniper say month -PRON- would remove dual elliptic curve entirely future version -PRON- product
+juniper say code get first place
+-PRON- sell defense intelligence agency however major customer could request code modify part contract former employee tell reuter month
+dual elliptic curve make -PRON- software kit distribute security company rsa
+nsa logical suspect 2008 code insertion say security researcher nicholas weaver international computer science institute offender 2012 2014 likely country

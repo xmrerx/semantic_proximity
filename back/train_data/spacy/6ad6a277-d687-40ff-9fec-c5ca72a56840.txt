@@ -1,0 +1,12 @@
+washington reuters trump administration monday order federal agency adopt common email security standard effort better protect hacker senior department homeland security official say
+dhs assistant secretary cybersecurity jeanette manfra speak event new york say agency would issue bind directive require implementation two cyber security measure know dmarc starttls intend guard email spoof phishing attack
+new requirement " discrete step scalable broad impact " improve federal government cyber security manfra say
+dmarc domainbase message authentication reporting conformance decadeold popular technical standard help detect block email impersonation hacker may try pose government official agency
+starttls form encryption technology protect email travel server make -PRON- difficult thirdparty intercept
+civilian agency 90 day implement new security measure manfra say
+many agency already use dmarc starttls recent review find protocol use universally across government
+foreign government hacker pilfer million personal record sensitive datum us government recent year
+trump administration make upgrading government agency ' muchmaligne network security top cyber priority
+democratic senator ron wyden earlier year push federal agency adopt security standard widely say statement move " two cheap effective way secure email intercept impersonate bad guy " -PRON- say -PRON- hope decision would compel private sector company upgrade -PRON- email security quickly
+august report global cyber alliance international nonprofit find federal government adoption dmarc rise recent month less 10 percent domain protocol fully implement
+usage dmarc much high consumer level 85 percent inboxe include host alphabet ’s google googlo microsoft msfto support standard accord global cyber alliance
