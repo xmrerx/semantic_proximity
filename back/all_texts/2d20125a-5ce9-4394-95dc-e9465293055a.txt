@@ -1,0 +1,24 @@
+NEW YORK (Reuters) - The technician who helped manage Hillary Clinton’s private email server for her work as secretary of state has given security logs to investigators that he said show no signs of foreign hacking, the New York Times reported on Thursday.
+Bryan Pagliano is cooperating with the Federal Bureau of Investigation’s criminal inquiry into the email setup in exchange for limited immunity by the U.S. Department of Justice, according to the Times, citing unnamed people who know about the investigation.
+With limited immunity, his testimony cannot be used in a prosecution against him, the Times said.
+The investigation has overshadowed Hillary Clinton’s campaign to become the Democratic Party’s candidate in the November presidential election.
+Clinton has apologized for the arrangement but says she did nothing wrong and that she believes the government will vindicate her.
+Pagliano, who helped set up and run the email system in Clinton’s New York home, told investigators that the logs he handed over indicated that no intrusion occurred, the Times said.
+The security logs show who accessed the server and when, though they may not capture more sophisticated hacking, the Times said.
+Pagliano was still working at the State Department’s Bureau of Information Resource Management as recently as last September, but has since left, a department spokesman said on Monday.
+The spokesman declined to say when he left or why.
+The Federal Bureau of Investigation is doing its own analysis of whether the server was attacked, according to media reports.
+FBI agents plan to seek interviews with Clinton’s aides in coming weeks and would like to interview Clinton herself as their investigation enters a new phase, Bloomberg News reported on Thursday, citing two people familiar with the inquiry.
+The interviews would look into how the server was set up and used and what precautions were taken to protect sensitive data, according to the people, who described the matter on condition of anonymity because the investigation is continuing, Bloomberg News said.
+Investigators were almost finished examining computers and other physical evidence as part of the inquiry, which is focused on whether Clinton’s use of private email while serving as the nation’s top diplomat led to the improper handling of classified information, according to the people.
+Pagliano previously worked on Clinton’s failed 2008 presidential campaign, and ended up joining her at the State Department in 2009 as a political appointee, working as a technology specialist and maintaining Clinton’s email server.
+His employment ended with Clinton in February 2013, but he stayed on as a contractor.
+More than 2,000 of Clinton’s emails contain classified information that could harm national security if leaked, according to the State Department.
+The government forbids sending or storing such information outside secure, government-controlled channels, and has prosecuted people for breaches.
+The FBI and the Justice Department have declined to comment on their investigation, including who might be its target, beyond confirming its existence.
+Pagliano’s lawyer did not respond to requests for comment.
+A Clinton spokesman said the campaign is pleased that Pagliano is cooperating, but declined to respond to questions.
+For more on the 2016 presidential race, see the Reuters blog, “Tales from the Trail” (here).
+(Reporting by Jonathan Allen, additional reporting by Mark Hosenball; Editing by David Gregorio and Andrew Hay) This article was funded in part by SAP.
+It was independently created by the Reuters editorial staff.
+SAP had no editorial involvement in its creation or production.

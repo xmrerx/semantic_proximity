@@ -1,0 +1,13 @@
+WASHINGTON (Reuters) - American spy chiefs have told congressmen that a plan to allow the National Security Agency (NSA) to share more raw eavesdropping reports with other agencies will not be unlawful and will protect the privacy rights of U.S. citizens.
+In a letter sent on Monday to two members of Congress and reviewed by Reuters, Director of National Intelligence James Clapper said the NSA’s proposal to give other spy agencies access to “unevaluated signals intelligence” will ensure data is used only for intelligence activities directed at foreigners.
+Last week, U.S.
+Representatives Ted Lieu and Blake Farenthold of the House Oversight Committee asked the NSA to halt the sharing plan, suggesting it would be “unconstitutional and dangerous.” The specifics of the proposal are still secret.
+Lieu, a Democrat from California and Farenthold, a Republican from Texas, wrote in a March 21 letter to NSA Director Michael Rogers that the proposal would violate Fourth Amendment privacy protections because the collected data would not require a warrant before being searched for domestic law enforcement purposes.
+Monday’s reply from the intelligence chief’s office said the plan would not allow the use of communications data for domestic law enforcement.
+Instead, the proposed rules would limit access to raw NSA data to spy agencies, “and only for authorized foreign intelligence and counterintelligence purposes,” said the letter.
+It said it would also not authorize any new collection of private communications.
+Civil liberties advocates have interpreted the proposed change as potentially allowing NSA foreign intelligence data, which sometimes can include collection of communications to, from or about Americans, to be used for domestic policing purposes.
+Under current procedures, NSA analysts are supposed to scrub or black out certain personal information, particularly related to American citizens or residents, before handing any communications data over to other agencies.
+Congress last year passed a law curtailing certain aspects of the NSA’s spying authority, most notably ending its bulk collection of domestic phone records exposed by former NSA contractor Edward Snowden in 2013.
+NSA began that program after the Sept. 11, 2001 attacks on the United States by Islamist militants.
+The NSA has presented the plan to a government advisory committee, the Privacy and Civil Liberties Oversight Board, for review.

@@ -1,0 +1,4 @@
+SAN FRANCISCO (Reuters) - The U.S. National Security Agency chief said on Tuesday it was a “matter of when, not if” a foreign nation-state attempts to launch a cyber attack on the U.S. critical infrastructure, citing the recent hack on Ukraine’s power grid as a cause for concern.
+Speaking at the RSA cyber security conference in San Francisco, Admiral Michael Rogers said he was also worried about data manipulation and potential offensive cyber threats posed by non-nation-state actors such as Islamic State.
+The U.S. government said last week a December blackout in Ukraine that affected 225,000 customers was the result of a cyber attack, supporting what most security researchers had already concluded.
+Some private researchers have linked the incident to a Russian hacking group known as “Sandworm.”

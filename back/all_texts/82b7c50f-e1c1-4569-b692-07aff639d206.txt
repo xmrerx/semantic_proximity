@@ -1,0 +1,9 @@
+WASHINGTON (Reuters) - The U.S. Department of Homeland Security on Friday designated U.S. election infrastructure as critical, widening the options the government has to protect voting machines from cyber attacks.
+The decision, announced in a statement by DHS Secretary Jeh Johnson, followed a 2016 presidential campaign marred by concerns that hackers could disrupt the election.
+Also on Friday, U.S. intelligence agencies released a report accusing Russian President Vladimir Putin of directing a campaign to hack Democratic Party computers in an effort to help Republican Donald Trump win the U.S. presidency.
+U.S. officials determined hackers targeted more than 20 states’ voter registration systems during the election but that there was no evidence tallies were altered when ballots were cast on Nov. 8.
+Elevating election systems to critical infrastructure puts it on par with other sectors eligible to receive prioritized cyber security assistance from DHS, including communication and transportation systems, the banking industry and the energy grid.
+Election infrastructure includes polling places, centralized vote tabulations locations, storage facilities and voter registration databases and voting machines, Johnson said.
+Johnson said he and his staff had consulted with state and local election officials and that he was “aware that many of them are opposed to this designation.” Some conservative states such as Georgia objected when the idea was floated during the presidential campaign, claiming elections have historically been overseen by local officials.
+The classification was not “a federal takeover, regulation, oversight or intrusion concerning elections in this country,” Johnson said in a statement.
+“This designation does nothing to change the role state and local governments have in administering and running elections.”

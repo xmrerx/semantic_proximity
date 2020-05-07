@@ -1,0 +1,68 @@
+LONDON (Reuters) - Low on cash but high on hope, Iran s technology entrepreneurs are learning to live with revived hostility in the United States and growing suspicion - or worse - from hardliners at home.
+Their startups and e-commerce apps are flourishing, driven by government infrastructure support and young Iranians educated both in the country and abroad.
+Some are even drawing foreign investment in a way that Iran s dominant oil industry has yet to achieve since most international sanctions were lifted early last year under a nuclear deal with world powers.
+Life remains tough despite the easing of Iran s international isolation.
+The atmosphere in Washington has soured again, with President Donald Trump signing legislation tightening domestic U.S. sanctions on Iran and threatening to pull out of the nuclear accord.
+On top of this, Google and Apple have withdrawn some services temporarily or indefinitely for Iranian users in recent months for reasons including the U.S. sanctions.
+Still, the absence of U.S. giants such as Amazon and Uber has allowed their Iranian equivalents Digikala and Snapp to grow rapidly.
+Many other local internet firms are following suit.
+Ramin Rabii, chief executive of Turquoise Partners, which facilitates foreign investment in Iran, said Trump s rhetoric could paradoxically help the tech sector.
+If he keeps talking about sanctions, that would increase the risk of investment in Iran, but at the same time it will keep a lot of competition out, he told Reuters in a telephone interview from Tehran.
+Major global players are not here.
+No figures are available on foreign investment in Iranian tech firms.
+Rabii, however, estimated it at hundreds of millions of dollars since the nuclear deal came into force.
+By contrast, an expected rush into Iran s huge energy reserves has yet to materialize.
+French group Total is investing in a gas project but Tehran has yet to seal any major oil deals with international partners.
+Foreign investment in Iranian tech remains modest compared with regional mega-deals such as Amazon s purchase in March of Dubai-based retailer souq.com.
+Amazon did not reveal the price but beat off a rival offer worth $800 million.
+Still, Rabii sees a bright future.
+Many foreign investors ask me what is the best performing sector in Iran for the next decade.
+I always name e-commerce and the tech sector, he said.
+After the relative isolation of the international sanctions era, the tech sector has attracted many young Iranians back from the United States, Canada and Europe.
+They hope to marry their experience of the startup scene with locally-educated talent.
+Reza Arbabian left Canada, where he went as a teenager, to join his family textile business in Iran.
+But in 2012 he launched Sheypoor, the Iranian answer to Craigslist, a U.S. classified advertisements website.
+Sheypoor now employs 200 and recently marked its fifth anniversary.
+Cash, however, remains tight.
+Many foreign companies are still hesitant and Iranian investors don t understand the value in e-commerce.
+They cannot accept that they need to wait for five years for a startup to make profits, said Arbabian.
+Some outside Iran, especially in Europe where the sanctions net is not quite so tight, are nevertheless willing to take the plunge.
+Swedish-based Pomegranate Investment, for instance, has taken a 43 percent stake in Sheypoor.
+On a larger scale, Sarava, Digikala s main shareholder, is 45 percent-owned by foreign investors.
+These include Pomegranate, which raised its stake to 15 percent with a 41 million euro ($48 million) investment in 2016.
+Following the Amazon model, Digikala has grown into Iran s biggest internet company with a market share of 85-90 percent, according to Pomegranate.
+Staff numbers have leapt in the past two years from 800 to more than 2,000.
+Iran came late to mass internet access but has invested heavily under President Hassan Rouhani, hoping to attract foreign cash and create more jobs.
+According to the Measuring Information Society of Iran, a government-linked portal, more than 62 percent of households were connected to the internet by March 2017.
+This was up from only 21 percent in 2013, the year Rouhani took office.
+Smartphone ownership has also rocketed.
+Iran, a country of 80 million people, had only two million smartphone users three years ago but the number hit 40 million in 2016.
+Such developments encouraged Kamran Adle, an Iranian born and raised in London, to move to Tehran last year.
+Iranian infrastructure has dramatically improved in recent of years.
+3G and 4G is much more commonplace than it was a couple of years ago, said Adle, whose firm Ctrl+Tech invests in early stage startups and helps them to develop apps.
+Some Iranian apps are copies of foreign equivalents, made out of the reach of international lawyers.
+But the years of isolation also forced domestic talent to be more innovative, and Adle says there is no shortage of app developers.
+One such is Farshad Khodamoradi, who has designed the app for a job-hunting startup being launched this month.
+Unlike traditional sites, 3sootjobs will use an algorithm-driven matching system to connect candidates with the right employers.
+Khodamoradi complains about difficulties in accessing foreign tech services, many of which are U.S.-based.
+The main problem is that the global services Iranian startups are using can be cut off overnight, he told Reuters from Tehran.
+He cited Google s Firebase, a platform used to generate push notifications - such as messages to passengers that a taxi has arrived to pick them up - without their having to open the app.
+This was unavailable in Iran on a number of occasions in June and July, disrupting startups including taxi hailing apps, he said.
+Google did not respond to Reuters requests for comment.
+Although technology firms can gain exemptions from the sanctions, U.S. corporations appear unwilling to risk involvement in Iran.
+In August, Telecommunications Minister Mohammad Javad Azari Jahromi threatened to take legal action over Apple s removal of Iranian apps from its app stores.
+Apple did not respond to Reuters requests for comment.
+All this seems in contrast to U.S. promises after the nuclear deal.
+In March 2016, in a message to the Iranian people, then President Barack Obama said ending international sanctions would mean more access to cutting-edge technologies, including information technologies that can help Iranian startups .
+Since that message, anti-U.S. Iranian hardliners have followed the growth of startups suspiciously, branding them as vehicles of enemy infiltration.
+Two foreign-based tech investors have also ended up in prison.
+Nizar Zakka, a Lebanese information technology expert with permanent U.S. residency, was jailed in 2016 for 10 years for collaborating against the state.
+He had attended a conference in Tehran the previous year at the invitation of one of Iran s vice presidents, only to be arrested by the Islamic Revolutionary Guards Corps as he was going to the airport to leave the country.
+Iranian-American businessman Siamak Namazi also got 10 years in 2016 on charges of cooperating with the United States.
+While under arrest, Namazi appeared in an Iranian documentary seen by Reuters in which he said his mistake had been to accept money for his startup from an organization linked to the U.S. Chamber of Commerce.
+The Revolutionary Guards, a military force that runs an industrial empire, largely control telecommunications in Iran.
+However, tech entrepreneurs say the environment is generally supportive.
+We haven t come across any of those governmental push-backs, Adle said.
+In the longer term, the sanctions would make using the souq.com model to cash in on Iranian investments much harder.
+But Eddie Kerman, of London-based Indigo Holdings which links retail investors to Iranian tech firms, is optimistic.
+American companies like Amazon might not be able to enter the Iranian market, but there is a significant possibility that European or Asian companies buy the larger Iranian players, he said.

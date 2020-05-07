@@ -1,0 +1,40 @@
+BOSTON (Reuters) - Many opinion polls show Democrat Hillary Clinton leading Republican Donald Trump in a tight race for the Nov. 8 U.S. presidential election, but any one of four factors may make the outcome harder to predict.
+Among the challenges for pollsters: The historic unpopularity of both candidates, the potential Election Day voter response to the polls themselves, the growing abandonment of landlines for cellphones, and the rise of online polling.
+Some high-profile stumbles worldwide - including opinion polls that missed Colombia’s Oct. 2 rejection of a peace deal - underscore how technological, social and cultural shifts have made polling more difficult than ever.
+An average of polls compiled by RealClearPolitics.com shows former Secretary of State Clinton beating Trump, a businessman, by 5.4 percentage points.
+Highlighting the difficulties, the range varies from plus-13 for Clinton to a straight tie.
+Trump has said the election is rigged against him and this week, in a Reuters interview, he accused media organizations of tilting the polls deliberately, but he has yet to offer any widely accepted evidence to back up these claims.
+Voter turnout in the last few presidential elections has been about 60 percent.
+But given both candidates’ low overall popularity, turnout this year may fall to as low as 52 percent, said Cliff Zukin, a professor emeritus of political science at New Jersey’s Rutgers University and a former president of the American Association for Public Opinion Research.
+That makes it hard to guess who might stay home.
+“It’s always been difficult to simulate a likely electorate and I think that’s harder to do in 2016,” Zukin said.
+A second pitfall is the effect of the polling itself on voters.
+Sociologists believe polls can weaken projected winners by making their supporters more confident of the outcome and, therefore, less likely to vote.
+The percentage of Trump supporters who expect him to win has dropped to 49 percent in a Reuters/Ipsos poll conducted from Oct. 20-24, down from 74 percent from Sept. 16-20.
+Clinton supporters’ confidence rose at the same time.
+If that leads to a higher turnout of Trump supporters than of Clinton supporters, it might affect the election outcome.
+Pollsters caution, however, that the effect of polls on the electorate can only go so far.
+“If it were showing Clinton up by 2 points, then it’s certainly possible that it would be within the margin of error that Trump might win,” said Douglas Schwartz, director of the Quinnipiac University Poll.
+“But if you’re finding that all of these high-quality polls are showing Clinton consistently ahead, then I think you can trust them,” he said.
+One of the biggest factors in polling today is the prevalence of cellphones.
+About half of Americans have only a cellphone and no landline, according to Federal Communications Commission data, more than double the number who were wireless-only in 2010.
+This makes it harder and more expensive for pollsters to gather a truly random sample of opinions because U.S. law prohibits computerized auto-dialing (also known as robocalls) to cellphones and there is no central directory for cellphones.
+Polling cellphones can costs 30 to 50 percent more than polling land lines due to requirements that the numbers be dialed manually, according to Pew Research Center estimates.
+This has led polling outfits to generally rely on lower sample sizes to come up with results.
+Calls to cellphones are also more easily screened by their users, and as a result pollsters say they connect with just 10 percent of people they try to contact, down from 80 percent a few decades ago.
+But Courtney Kennedy, director of survey research at Pew said, “In terms of data, the quality is better.” Many respondents on cellphones are young and racially diverse, she said.
+Others, such as Reuters/Ipsos, conduct surveys online.
+This allows them to reach large numbers of people at lower cost.
+But because participants are volunteers in many cases, rather than selected at random, segments of the electorate may be left out.
+The lower or skewed response in both cellphone and online polls can pose a challenge with pollsters having to adjust results to match the real world.
+To accomplish this, they weight more heavily the opinions of types of voters under-represented in their surveys.
+Pollsters use population statistics, experience and intuition to do this.
+For instance, if the proportion of men who respond to a survey is lower than their proportion of the overall population, the pollster will adjust the finding to try to even that out.
+“Then you’ve built in an assumption that the males that didn’t respond are like the males that responded.
+And that’s an unknowable fact,” said Robert Groves, provost of Georgetown University, a social statistician and author of seven books on polling who served as director of the U.S. Census Bureau from 2009 through 2012.
+But such modeling can work well in some cases.
+A study by Columbia University statisticians, published in 2014 in the International Journal of Forecasting, showed that a poll of users of Microsoft Corp’s Xbox gaming system could be used to accurately predict the election’s outcome.
+The gamers were far younger, whiter and more male than the U.S. electorate and predicted a sweeping victory for Republican Mitt Romney in 2012.
+But when the results were weighted according to voters who turned out in 2008, they predicted President Barack Obama’s 2012 re-election.
+Getting the weightings right this time could be a tougher job because Trump has attracted many supporters who historically have voted erratically, or not at all.
+“We can’t apply 2008 and 2012 models to 2016,” said Ashley Koning, director of the Eagleton Center for Public Interest Polling at Rutgers University.

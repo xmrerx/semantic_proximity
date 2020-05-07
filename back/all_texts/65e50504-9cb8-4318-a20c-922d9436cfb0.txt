@@ -1,0 +1,33 @@
+WASHINGTON/ SAN FRANCISCO (Reuters) - After a rampage that left 14 people dead in San Bernardino, key U.S. lawmakers pledged to seek a law requiring technology companies to give law enforcement agencies a “back door” to encrypted communications and electronic devices, such as the iPhone used by one of the shooters.
+Now, only months later, much of the support is gone, and the push for legislation dead, according to sources in congressional offices, the administration and the tech sector.
+Draft legislation that Senators Richard Burr and Dianne Feinstein, the Republican and Democratic leaders of the Intelligence Committee, had circulated weeks ago likely will not be introduced this year and, even if it were, would stand no chance of advancing, the sources said.
+Key among the problems was the lack of White House support for legislation in spite of a high-profile court showdown between the Justice Department and Apple Inc over the suspect iPhone, according to Congressional and Obama Administration officials and outside observers.
+“They’ve dropped anchor and taken down the sail,” former NSA and CIA director Michael Hayden said.
+For years, the Justice Department lobbied unsuccessfully for a way to unmask suspects who “go dark,” or evade detection through coded communications in locked devices.
+When the Federal Bureau of Investigation took Apple to court in February to try to open the iPhone in its investigation of the San Bernardino slayings, the cause gained traction in Washington.
+The political landscape had shifted - or so it seemed.
+The short life of the push for legislation illustrates the intractable nature of the debate over digital surveillance and encryption, which has been raging in one form or another since the 1990s.
+Tech companies, backed by civil liberties groups, insist that building law enforcement access into phones and other devices would undermine security for everyone-including the U.S. government itself.
+Law enforcement agencies maintain they need a way to monitor phone calls, emails and text messages, along with access to encrypted data.
+Polls show the public is split on whether the government should have access to all digital data.
+The legal battle between the FBI and Apple briefly united many around the idea that Congress - not the courts - should decide the issue.
+But the consensus was fleeting.
+Feinstein’s Democratic colleagues on the Intelligence Committee - along with some key Republicans - backed away.
+The House never got on board.
+The CIA and NSA were ambivalent, according to several current and former intelligence officials, in part because officials in the agencies feared any new law would interfere with their own encryption efforts.
+Even supporters worried that if a bill were introduced but failed, it would give Apple and other tech companies another weapon to use in future court battles.
+Burr had said repeatedly that legislation was imminent.
+But last week, he and Feinstein told Reuters there was no timeline for the bill.
+Feinstein said she planned to talk to more tech stakeholders, and Burr said, “be patient.” In the meantime, tech companies have accelerated encryption efforts in the wake of the Apple case.
+The court showdown ended with a whimper when the FBI said it had found a way to get into the phone, and subsequently conceded privately it had found nothing of value.
+A week after the San Bernardino attack, Burr told Reuters passing encryption legislation was urgent because “if we don’t, we will be reading about terrorist attacks on a more frequent basis.” FBI Director James Comey told the Senate Intelligence Committee soon after that encryption was “overwhelmingly affecting” the investigation of murders, drug trafficking and child pornography.
+A week later, the Justice Department persuaded a judge to issue a sweeping order demanding Apple write software to open an iPhone used by San Bernardino suspect Sayeed Farook, who died in a shootout with law enforcement.
+Apple fought back, arguing, among other things, that only Congressional legislation could authorize what the court was demanding.
+Many saw the Justice Department’s move as a way to bring pressure on Congress to act.
+President Obama appeared to tacitly support Comey’s court fight and the idea that there should be limits on criminal suspects’ ability to hide behind encryption.
+But even as the drive for legislation seemed to be gaining momentum, consensus was dissipating.
+Senator Lindsey Graham, an influential Republican, withdrew support in a sudden about-face.
+“I was all with you until I actually started getting briefed by the people in the intel community,” Graham told Attorney General Loretta Lynch during a hearing in March.
+“I’m a person that’s been moved by the arguments of the precedent we set and the damage we may be doing to our own national security.” On the Democratic side, Senator Ron Wyden vowed to filibuster what he called a “dangerous proposal,” that “would leave Americans more vulnerable to stalkers, identity thieves, foreign hackers and criminals.” Senator Mark Warner advanced a competing bill to form a commission to study the issue.
+A half dozen people familiar with the White House deliberations said they were hamstrung by a long-standing split within the Obama Administration, pitting Comey and the DOJ against technology advisors and other agencies including the Commerce and State Departments.
+[L2N16C1UC] They also said there was reluctance to take on the tech industry in an election year.

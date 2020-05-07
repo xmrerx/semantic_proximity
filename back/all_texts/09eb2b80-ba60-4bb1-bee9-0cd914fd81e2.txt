@@ -1,0 +1,19 @@
+BERLIN (Reuters) - Germany may need to change its constitution to allow it to strike back at hackers who target private computer networks and it hopes to complete any legal reforms next year, a top Interior Ministry official said on Monday.
+The plan could include disarming servers used in attacks and reflects growing concern about the frequency and intensity of such attacks.
+Industry is also raising pressure on government to respond to the barrage, which ultimately could hurt Europe s leading economy.
+State Secretary Klaus Vitt told Reuters the government believed significant legal changes would be needed to allow such hack back actions.
+A constitutional change may be needed since this is such a critical issue, Vitt said on the sidelines of a cyber conference organized by the Handelsblatt newspaper.
+The goal is to get it done by the end of next year at the latest.
+Vitt said much would depend on the outcome of coalition talks in Germany of which cyber capabilities formed a part.
+Experts say it may be easier to enact the legal changes under a right-center-left coalition, which has ruled for the past four years, than under a three-way coalition with smaller parties that Chancellor Angela Merkel initially tried to forge.
+Top German intelligence officials told parliament last month they needed greater legal authority to strike back in the event of cyber attacks from foreign powers.
+Vitt told the conference that changing threats and new modes of attack required different responses from government agencies including more offensive capabilities.
+We must assume that purely preventative measures will not be sufficient to counter future attacks, Vitt said.
+He said no one would question the need for police to enter a house and disarm a sniper shooting at innocent people.
+But what about servers that are used to launch cyber attacks that paralyze the IT (information technology) of hospitals or utilities, affecting hundreds of thousands of people?
+Andreas Jambor, chief information security officer for RWE Generation SE, a unit of German energy giant RWE (RWEG.DE), welcomed the moves.
+There s a war underway on the internet .... We want things to be sorted out, Jambor said.
+Other countries are doing it and we should do it here as well.
+Andreas Ebert, head of security for German carmaker Volkswagen (VOWG_p.DE) said any offensive action should be taken by the government.
+Arne Schoenbohm, president of Germany s BSI federal cyber protection agency, declined to give details about the legal concepts being developed.
+He said the need to target servers would likely make up just 0.01 percent of all cases.

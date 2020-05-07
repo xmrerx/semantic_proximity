@@ -1,0 +1,17 @@
+NEW YORK (Reuters) - An equally divided federal appeals court refused to reconsider its landmark decision forbidding the U.S. government from forcing Microsoft Corp and other companies to turn over customer emails stored on servers outside the United States.
+Tuesday’s 4-4 vote by the 2nd U.S.
+Circuit Court of Appeals in Manhattan let stand a July 14 decision that was seen as a victory for privacy advocates, and for technology companies offering cloud computing and other services worldwide.
+But the dissenting judges said that decision by a three-judge panel could hamstring law enforcement, and called on the U.S. Supreme Court or Congress to reverse it.
+“The panel majority’s decision does not serve any serious, legitimate, or substantial privacy interest,” Circuit Judge Jose Cabranes wrote in dissent.
+Peter Carr, a U.S. Department of Justice spokesman, said: “We are reviewing the decision and its multiple dissenting opinions and considering our options.” Microsoft had no immediate comment.
+In the July decision, Circuit Judge Susan Carney ruled that Microsoft could not be forced to turn over emails sought for a narcotics case, but stored on a server in Dublin, Ireland.
+Though Microsoft is based in Washington state, Carney said the emails were beyond the reach of domestic search warrants issued under the federal Stored Communications Act, a 1986 law.
+Microsoft was thought to be the first U.S. company to challenge a domestic search warrant seeking data held outside the country.
+The case attracted significant attention from technology and media companies concerned that a ruling for the government could jeopardize the privacy of customers, and make them less likely to use cloud services if they thought data could be seized.
+Microsoft’s position was supported by dozens of technology and media companies including Amazon.com, Apple, CNN, Fox News Network and Verizon Communications, as well as the American Civil Liberties Union and U.S. Chamber of Commerce.
+But Tuesday’s dissenters said it should not matter where the emails were stored because Microsoft was a U.S. company.
+They also said the panel did not properly address the challenges that electronic data storage poses for law enforcement.
+“It has substantially burdened the government’s legitimate law enforcement efforts; created a roadmap for the facilitation of criminal activity; and impeded programs to protect the national security of the United States and its allies,” Cabranes wrote.
+The judge expressed hope that the panel’s view of the 1986 law “can be rectified as soon as possible by a higher judicial authority or by the Congress.” The case is Microsoft v U.S., 2nd U.S.
+Circuit Court of Appeals, No.
+14-2985.

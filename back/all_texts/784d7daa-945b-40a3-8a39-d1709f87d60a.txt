@@ -1,0 +1,12 @@
+WASHINGTON (Reuters) - The top technology official at the U.S. Office of Personnel Management announced her retirement on Monday amid calls for her ouster by some Republican lawmakers.
+Donna Seymour, chief information officer, said in an email to her colleagues that was seen by Reuters that leaving was a “very tough decision.” She added that she felt it was in the “agency’s best interest that my presence does not distract from the great work this team does every single day.” House Oversight Chairman Jason Chaffetz had repeatedly called for Seymour’s resignation, lodging complaints that her mistakes helped lead to the OPM data breach disclosed last year that exposed the personal information of 22 million individuals.
+In response to the sudden announcement, Chaffetz’s panel canceled a hearing scheduled for Wednesday to examine the breach.
+In a statement, Chaffetz called the retirement “good news” but said he was disappointed she would no longer testify.
+“On her watch, whether through negligence or incompetence, millions of Americans lost their privacy and personal data,” Chaffetz said.
+Representative Elijah Cummings, the top Democrat on the oversight panel, countered that Republican efforts to blame Seymour for the hack were “unfair and inaccurate” and would discourage qualified technical professionals from pursuing public service.
+Seymour is the second high-ranking official to leave OPM since the breach was disclosed.
+Katherine Archuleta, the agency’s director, resigned in July.
+Earlier this month, Chaffetz subpoenaed OPM for documents related to the hack, which intelligence officials have privately blamed on China.
+The Utah Republican has accused the agency of not acting in good faith with the committee because it has only provided partially redacted versions of the files, which were described by Seymour as “outdated security documents” in testimony she gave in June 2015.
+Chaffetz has expressed concern that the manuals could be used to launch another cyber attack.
+Beth Cobert, the acting head of OPM, praised Seymour’s 37-year career in federal government in a statement and lauded her for helping to modernize the agency’s information technology over the past year.

@@ -1,0 +1,50 @@
+SAN FRANCISCO (Reuters) - An international group of cryptography experts has forced the U.S. National Security Agency to back down over two data encryption techniques it wanted set as global industry standards, reflecting deep mistrust among close U.S. allies.
+In interviews and emails seen by Reuters, academic and industry experts from countries including Germany, Japan and Israel worried that the U.S. electronic spy agency was pushing the new techniques not because they were good encryption tools, but because it knew how to break them.
+The NSA has now agreed to drop all but the most powerful versions of the techniques - those least likely to be vulnerable to hacks - to address the concerns.
+The dispute, which has played out in a series of closed-door meetings around the world over the past three years and has not been previously reported, turns on whether the International Organization of Standards should approve two NSA data encryption techniques, known as Simon and Speck.
+The U.S. delegation to the ISO on encryption issues includes a handful of NSA officials, though it is controlled by an American standards body, the American National Standards Institute (ANSI).
+The presence of the NSA officials and former NSA contractor Edward Snowden s revelations about the agency s penetration of global electronic systems have made a number of delegates suspicious of the U.S. delegation s motives, according to interviews with a dozen current and former delegates.
+A number of them voiced their distrust in emails to one another, seen by Reuters, and in written comments that are part of the process.
+The suspicions stem largely from internal NSA documents disclosed by Snowden that showed the agency had previously plotted to manipulate standards and promote technology it could penetrate.
+Budget documents, for example, sought funding to insert vulnerabilities into commercial encryption systems.
+More than a dozen of the experts involved in the approval process for Simon and Speck feared that if the NSA was able to crack the encryption techniques, it would gain a back door into coded transmissions, according to the interviews and emails and other documents seen by Reuters.
+I don t trust the designers, Israeli delegate Orr Dunkelman, a computer science professor at the University of Haifa, told Reuters, citing Snowden s papers.
+There are quite a lot of people in NSA who think their job is to subvert standards.
+My job is to secure standards.
+The NSA, which does not confirm the authenticity of any Snowden documents, told Reuters it developed the new encryption tools to protect sensitive U.S. government computer and communications equipment without requiring a lot of computer processing power.
+NSA officials said via email they want commercial technology companies that sell to the government to use the techniques, and that is more likely to happen when they have been designated a global standard by the ISO.
+Asked if it could beat Simon and Speck encryption, the NSA officials said: We firmly believe they are secure.
+ISO, an independent organization with delegations from 162 member countries, sets standards on everything from medical packaging to road signs.
+Its working groups can spend years picking best practices and technologies for an ISO seal of approval.
+As the fight over Simon and Speck played out, the ISO twice voted to delay the multi-stage process of approving them.
+In oral and written comments, opponents cited the lack of peer-reviewed publication by the creators, the absence of industry adoption or a clear need for the new ciphers, and the partial success of academics in showing their weaknesses.
+Some ISO delegates said much of their skepticism stemmed from the 2000s, when NSA experts invented a component for encryption called Dual Elliptic Curve and got it adopted as a global standard.
+ISO s approval of Dual EC was considered a success inside the agency, according to documents passed by Snowden to the founders of the online news site The Intercept, which made them available to Reuters.
+The documents said the agency guided the Dual EC proposal through four ISO meetings until it emerged as a standard.
+In 2007, mathematicians in private industry showed that Dual EC could hide a back door, theoretically enabling the NSA to eavesdrop without detection.
+After the Snowden leaks, Reuters reported that the U.S. government had paid security company RSA $10 million to include Dual EC in a software development kit that was used by programmers around the world.
+The ISO and other standards groups subsequently retracted their endorsements of Dual EC.
+The NSA declined to discuss it.
+In the case of Simon and Speck, the NSA says the formulas are needed for defensive purposes.
+But the official who led the now-disbanded NSA division responsible for defense, known as the Information Assurance Directorate, said his unit did not develop Simon and Speck.
+There are probably some legitimate questions around whether these ciphers are actually needed, said Curtis Dukes, who retired earlier this year.
+Similar encryption techniques already exist, and the need for new ones is theoretical, he said.
+ANSI, the body that leads the U.S. delegation to the ISO, said it had simply forwarded the NSA proposals to the organization and had not endorsed them.
+When the United States first introduced Simon and Speck as a proposed ISO standard in 2014, experts from several countries expressed reservations, said Shin ichiro Matsuo, the head of the Japanese encryption delegation.
+Some delegates had no objection.
+Chris Mitchell, a member of the British delegation, said he supported Simon and Speck, noting that no one has succeeded in breaking the algorithms.
+He acknowledged, though, that after the Dual EC revelations, trust, particularly for U.S. government participants in standardization, is now non-existent.
+At a meeting in Jaipur, India, in October 2015, NSA officials in the American delegation pushed back against critics, questioning their expertise, witnesses said.
+A German delegate at the Jaipur talks, Christian Wenzel-Benner, subsequently sent an email seeking support from dozens of cryptographers.
+He wrote that all seven German experts were very concerned about Simon and Speck.
+How can we expect companies and citizens to use security algorithms from ISO standards if those algorithms come from a source that has compromised security-related ISO standards just a few years ago?
+Wenzel-Benner asked.
+Such views helped delay Simon and Speck again, delegates said.
+But the Americans kept pushing, and at an October 2016 meeting in Abu Dhabi, a majority of individual delegates approved the techniques, moving them up to a country-by-country vote.
+There, the proposal fell one vote short of the required two-thirds majority.
+Finally, at a March 2017 meeting in Hamilton, New Zealand, the Americans distributed a 22-page explanation of its design and a summary of attempts to break them - the sort of paper that formed part of what delegates had been seeking since 2014.
+Simon and Speck, aimed respectively at hardware and software, each have robust versions and more lightweight variants.
+The Americans agreed in Hamilton to compromise and dropped the most lightweight versions.
+Opponents saw that as a major if partial victory, and it paved the way to compromise.
+In another nation-by-nation poll last month, the sturdiest versions advanced to the final stage of the approval process, again by a single vote, with Japan, Germany and Israel remaining opposed.
+A final vote takes place in February.

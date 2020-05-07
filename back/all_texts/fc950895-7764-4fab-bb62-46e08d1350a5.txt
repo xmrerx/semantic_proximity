@@ -1,0 +1,20 @@
+MOSCOW (Reuters) - A Russian hacker arrested in Spain on a U.S. warrant said on Thursday he previously worked for President Vladimir Putin s United Russia party and feared he would be tortured and killed if extradited, RIA news agency reported.
+Peter Levashov was arrested while on holiday in Barcelona in April.
+U.S. prosecutors later charged him with hacking offences, accusing him of operating a network of tens of thousands of infected computers used by cyber criminals.
+Levashov s comments offered a rare glimpse into the relationship between cyber criminals and the Russian state.
+U.S. officials say Russian authorities routinely shield hackers from prosecution abroad before recruiting them for espionage work.
+Russian hackers have been under intense scrutiny since U.S. intelligence officials accused Moscow of interfering in last year s U.S. presidential election.
+The Kremlin has repeatedly denied the allegations.
+U.S. prosecutors are seeking a 52-year jail sentence and Levashov, who denies the charges against him, is fighting his extradition from Spain.
+He told a court in Madrid on Thursday that he had worked for the United Russia party for the last 10 years.
+I collected different information about opposition parties and delivered it to the necessary people at the necessary time, RIA quoted him as saying.
+Levashov provided no further details about his work for the party, RIA reported, though said he was an officer in the Russian army with access to classified information.
+It was unclear if Levashov was a serving officer or an army reservist having completed mandatory military service.
+He also told the court investigators in the United States would torture him for information about his political work if he was sent there to face the charges against him.
+If I go to the U.S., I will die in a year.
+They want to get information of a military nature and about the United Russia party, RIA quoted him as saying.
+I will be tortured, within a year I will be killed, or I will kill myself.
+Levashov has long been seen by cyber security investigators to be the person behind an online persona known as Peter Severa.
+Severa spent years listed among the world s 10 most prolific spammers, according to spam-tracking group Spamhaus.
+U.S. prosecutors have accused Levashov of running the infamous Kelihos botnet, a network of more than 100,000 infected devices used by cyber criminals to distribute viruses, ransomware, phishing emails and other spam attacks.
+Russia lodged its own request for Levashov s extradition last week, RIA reported.

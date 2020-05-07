@@ -1,0 +1,15 @@
+WASHINGTON (Reuters) - The government is offering to help states protect the Nov. 8 U.S. election from hacking or other tampering, in the face of allegations by Republican Party presidential candidate Donald Trump that the system is open to fraud.
+Homeland Security Secretary Jeh Johnson told state officials in a phone call on Monday that federal cyber security experts could scan for vulnerabilities in voting systems and provide other resources to help protect against infiltration, his office said in a statement.
+Trump has questioned the integrity of U.S. election systems in recent weeks, but his allegations have been vague and unsubstantiated.
+The attempts to sow doubts about the 2016 election results coincided with Trump’s slide in opinion polls against Democratic Party candidate Hillary Clinton and missteps in his campaign.
+His complaints have focused on fears of voter fraud - that people will vote more than once - rather than election rigging.
+“I mean people are going to walk in, they’re going to vote 10 times maybe.
+Who knows?
+They’re going to vote 10 times.
+So I am very concerned and I hope the Republicans are going to be very watchful,” Trump said in an Aug. 3 interview.
+President Barack Obama dismissed the claims as “ridiculous.” “Of course the elections will not be rigged.
+What does that mean?” Obama said at a news conference the next day.
+In his phone call, Johnson encouraged the state officials to comply with federal cyber recommendations, such as making sure electronic voting machines are not connected to the internet while voting is taking place, the department said.
+Concerns in both parties about manipulation of electronic electoral systems are not new.
+Hackers can wreak havoc in myriad ways, from hijacking a candidate’s website to hacking voting machines or deleting or changing election records.
+An Electronic Privacy Information Center report this week said 32 of the 50 states would allow voting by insecure email, fax and internet portals in this election cycle.

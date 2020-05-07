@@ -1,0 +1,24 @@
+SAN FRANCISCO (Reuters) - A U.S. congressional probe into the impact of a hack of Juniper Networks Inc software will examine the possibility that it was initially altered at the behest of the National Security Agency, a lawmaker said in an interview on Thursday.
+The House Committee on Oversight and Government Reform this month sent letters asking some two dozen agencies to provide documents showing whether they used Juniper devices running ScreenOS software.
+The company said in December ScreenOS had been compromised by hackers using a so-called back door in the software.
+Rep. Will Hurd, a Texas Republican who heads the committee’s technology subcommittee and formerly worked for the Central Intelligence Agency, said his initial goal in pursuing the probe was to determine whether government agencies, many of which use Juniper gear, had been compromised by the hackers.
+But Hurd, a key player in the investigation, said the committee would also probe the origins of the breach.
+If it turns out that a back door was included at a U.S. government agency’s request, he said, that should help change the policy debate.
+The earliest Juniper back door identified by researchers used a technique widely attributed to the NSA.
+The NSA did not respond to a request for comment.
+Juniper declined to comment.
+U.S. law enforcement and intelligence agencies have long lobbied in vain for legislation that would require technology companies to provide back doors in equipment that use encryption technology.
+They say they need such access to conduct authorized wiretaps and other types or surveillance.
+The technology industry has fiercely opposed any such policy, arguing that back doors could be exploited by criminals or foreign intelligence services.
+The debate has heated up in the wake of recent attacks by Islamic militants, who make heavy use of digital communications networks.
+“How do we understand the vulnerabilities that created this problem and ensure this kind of thing doesn’t happen in the future?” Hurd said.
+“I don’t think the government should be requesting anything that weakens the security of anything that is used by the federal government or American businesses.” Juniper said in December it had found two unauthorized pieces of code inserted into ScreenOS that would have allowed whoever planted them to read email sent over supposedly secure connections known as virtual private networks, or VPNs.
+After outside researchers picked apart the software patches Juniper issued to fix the problem, they concluded that one back door had been inserted in 2014 and one in 2012.
+The 2012 version, though, merely changed the formulation of a piece of software known as a random number generator, which is part of most encryption products.
+The random number generator used in the Juniper products, known as Dual Elliptic Curve, has long been suspected by security professionals of containing a back door engineered by the U.S. National Security Agency.
+Those suspicions were largely confirmed by leaks from former agency contractor Edward Snowden.
+Juniper said this month it would remove Dual Elliptic Curve entirely in future versions of its products.
+Juniper has not said how the code got there in the first place.
+It sells into defense and intelligence agencies, however, and major customers could have requested that the code be modified as part of a contract, former employees told Reuters this month.
+That is how Dual Elliptic Curve made it into a software kit distributed by security company RSA.
+The NSA is a logical suspect for the 2008 code insertion, said security researcher Nicholas Weaver of the International Computer Science Institute, while the offenders in both 2012 and 2014 are more likely to have been other countries.

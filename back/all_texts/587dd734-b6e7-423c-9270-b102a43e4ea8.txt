@@ -1,0 +1,17 @@
+(Reuters) - As facts emerge about Omar Mateen, the gunman who killed 49 people at a gay nightclub in Orlando, Florida, on Sunday, questions have arisen about how well-known he was to U.S. intelligence agencies.
+Federal Bureau of Investigation Director James Comey said on Monday that Mateen was on a watchlist between May 2013 and March 2014 while he was under investigation after claiming a connection to or support for multiple Islamist extremist groups, including al Qaeda, Hezbollah, al-Nusra and Islamic State.
+The FBI maintains three watchlists and the Office of the Director of National Intelligence runs one database.
+People are placed on a watchlist according to the threat level they are believed to pose.
+Comey did not specify which watchlist named Mateen.
+Democratic presidential candidate Hilary Clinton has supported stricter gun laws and said on Monday she would push for laws that would prevent people on a no-fly list from buying guns.
+Republican presidential candidate Donald Trump, who has embraced gun rights, said he would meet with the leading U.S. gun rights group about preventing people on a government watchlist from buying guns.
+The U.S. government maintains the following databases: Terrorist Watchlist or Terrorist Screening Database (about 420,000 names): Established after the Sept. 11, 2001, attacks, the Terrorist Watchlist is intended “to positively identify known or suspected terrorists trying to obtain visas, enter the U.S, board aircraft, or engage in other activity.” Prior to 2001, intelligence agencies maintained dozens of individual lists.
+The Terrorist Watchlist is run by the FBI’s Terrorist Screening Center with the goal of consolidating the U.S. government’s watchlists into a single database.
+No-Fly List (about 16,000 names): A subset of the Terrorist Screening Database, the No-Fly List prohibits people known or suspected of terrorism from boarding a plane that departs from or arrives in the United States.
+Selectee List (about 16,000 names): A subset of the Terrorist Watchlist, the Selectee List includes individuals who are permitted to fly, but receive more intensive screening.
+In addition to the thousands of records updated daily from federal, state and local law enforcement, the Selectee List provides an additional level of screening for individuals thought to present a greater threat.
+Terrorist Identities Datamart Environment, or TIDE, database (about 1.1 million names): Run by the National Counterterrorism Center, part of the Office of the National Director of Intelligence, the TIDE Database shares information with the FBI’s watchlists.
+As of December 2013, it contained about 1.1 million people, about 25,000 of them U.S. citizens.
+Unlike the FBI’s database, TIDE is viewable only by counterterrorism professionals in the U.S. intelligence community and is not shared with local law enforcement.
+Federal agencies propose people for inclusion on the TIDE database based on an evaluation of the threat they pose.
+Reasons someone may be added to the TIDE database include committing terrorist activity, preparing or planning a terrorist activity or providing support, such as funds or housing, for a terrorist organization.

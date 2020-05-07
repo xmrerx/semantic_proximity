@@ -1,0 +1,12 @@
+SEOUL (Reuters) - North Korea probably stole South Korean warship blueprints after hacking into Daewoo Shipbuilding & Marine Engineering Co Ltd s (042660.KS) database in April last year, a South Korean opposition lawmaker said on Tuesday.
+North Korea has often been implicated in cyber attacks in South Korea and elsewhere but Pyongyang has either ignored or denied accusations of hacking.
+We are almost 100 percent certain that North Korean hackers were behind the hacking and stole the company s sensitive documents, Kyung Dae-soo of the main opposition Liberty Korea Party told Reuters by telephone.
+Daewoo Shipbuilding has built several South Korean warships, including an Aegis-class vessel and submarines.
+It was most likely North Korea had obtained blueprints for these, he said.
+The hacking was discovered by a division under South Korea s Ministry of Defence in charge of investigating cases of cybercrime, said Kyung, who received a briefing on the investigation.
+How sensitive and classified the seized documents were was not known as that was not disclosed by the investigative team, he added.
+A spokeswoman for Daewoo Shipbuilding said she was unaware of the issue until early Tuesday and the company was in the process of confirming the details of Kyung s remarks.
+The investigative team came to the conclusion North Korea had hacked Daewoo Shipbuilding because the hacking method was very similar to other attacks that North Korea was thought to be behind, Kyung said.
+Hackers in North Korea are believed to have been responsible for a recent cyber heist in Taiwan - the latest in a string of hacks targeting the global SWIFT messaging system.
+Earlier this month, another South Korean lawmaker had said North Korean hackers had stolen a large number of classified military documents, including South Korea-U.S. wartime operational plans.
+And British authorities said last week they believed North Korea was behind the WannaCry ransomware attack in May that disrupted businesses and government services worldwide, including the National Health Service in England.

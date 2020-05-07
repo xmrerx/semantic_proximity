@@ -1,0 +1,20 @@
+WASHINGTON (Reuters) - The Federal Bureau of Investigation has found breaches in Illinois and Arizona’s voter registration databases and is urging states to increase computer security ahead of the Nov. 8 presidential election, according to a U.S. official familiar with the probe.
+The official, speaking on condition of anonymity, said on Monday that investigators were also seeking evidence of whether other states may have been targeted.
+The FBI warning in an Aug. 18 flash alert from the agency’s Cyber Division did not identify the intruders or the two states targeted.
+Reuters obtained a copy of the document after Yahoo News first reported the story Monday.
+Accessing information in a voter database, much of which is publicly accessible, does not necessarily suggest an effort to manipulate the votes themselves.
+When registering, voters typically provide their names, home addresses, driver’s license or identification numbers, and party affiliations.
+But U.S. intelligence officials have become increasingly worried that hackers sponsored by Russia or other countries may attempt to disrupt the presidential election.
+Officials and cyber security experts say recent breaches at the Democratic National Committee and elsewhere in the Democratic Party were likely carried out by people within the Russian government.
+Kremlin officials have denied that.
+An FBI spokeswoman would not comment on the alerts but said the agency “routinely advises” on “various cyber threat indicators observed during the course of our investigations.” The intrusions come amid repeated unsubstantiated claims by Republican presidential candidate Donald Trump that the U.S. election system is “rigged.” Trump has cited emails leaked from the DNC that indicated the party leadership favored Hillary Clinton over rival candidate Bernie Sanders as reason to cast doubt on the electoral process in general.
+David Kennedy, chief executive officer of information security consulting company TrustedSec, said the attacks referenced in the FBI alert appeared to be largely exploratory and not especially sophisticated.
+“It could be a precursor to a larger attack,” he added.
+Citing a state election board official, Yahoo News said the Illinois voter registration system was shut down for 10 days in late July after hackers downloaded personal data on up to 200,000 voters.
+State voter systems are often targeted by hackers, and 200,000 is a relatively small number compared to other recent incidents.
+An independent computer security researcher uncovered in December of last year a database on 191 million voters that was exposed on the open Internet due to an incorrect configuration.
+The Arizona attack was more limited and involved introducing malicious software into one state employee’s computer, said Matt Roberts, communications director for the Arizona secretary of state’s office.
+That office publicly reported a cyber incident in June after being contacted by the FBI, which led to it temporarily shutting down its election site to deal with the potential threat.
+Roberts said he was uncertain if the FBI advisory was in reference to that same June incident, during which investigators found no evidence of any data exfiltration.
+In that episode, the FBI told Arizona officials the hackers were believed to be Russian and described it as an “eight out of 10” on a threat severity scale, Roberts said.
+Arizona will hold Republican and Democratic primaries for congressional races on Tuesday.

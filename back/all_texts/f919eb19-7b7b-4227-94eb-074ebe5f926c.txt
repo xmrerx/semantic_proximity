@@ -1,0 +1,31 @@
+NEW YORK (Reuters) - Yahoo Inc YHOO.O came under renewed scrutiny by federal investigators and lawmakers on Thursday after disclosing the largest known data breach in history, prompting Verizon Communications Inc (VZ.N) to demand better terms for its planned purchase of Yahoo’s internet business.
+Shares of the Sunnyvale, California-based internet pioneer fell more than 6 percent after it announced the breach of data belonging to more than 1 billion users late on Wednesday, following another large hack reported in September.
+Verizon, which agreed to buy Yahoo’s core internet business in July for $4.8 billion, is now trying to persuade Yahoo to amend the terms of the acquisition agreement to reflect the economic damage from the two hacks, according to people familiar with the matter.
+The U.S. No.
+1 wireless carrier still expects to go through with the deal, but is looking for “major concessions” in light of the most recent breach, according to another person familiar with the situation.
+Asked about the status of the deal, a Yahoo spokesperson said: “We are confident in Yahoo’s value and we continue to work towards integration with Verizon.” Verizon had already said in October it was reviewing the deal after September’s breach disclosure.
+Late on Wednesday, it said it would “review the impact of this new development before reaching any final conclusions” about whether to proceed.
+The company declined to comment beyond that statement on Thursday.
+Verizon has threatened to go to court to get out of the deal if it is not repriced, citing a material adverse effect, said the people familiar with the matter, who asked not to be identified because the negotiations are confidential.
+No court in Delaware, where Yahoo is incorporated, has ever found that a material adverse effect has occurred that would allow companies to terminate a merger agreement.
+Nevertheless, the threat of a court case on the issue has been successfully used by companies to renegotiate deals, and experts said that some concessions from Yahoo are likely, given the magnitude of the cyber security breaches.
+Renegotiating the deal’s price tag would be the simplest but also least likely scenario because the impact of the data breaches will not be apparent for some time, according to Erik Gordon, a professor at the University of Michigan’s Ross School of Business.
+A more likely concession would be for Yahoo to agree to compensate Verizon after the close of the deal, based on the liabilities that occur.
+The two companies may also agree to extend the close of the deal to allow for more time for information to come in on the impact of the breaches, Gordon suggested.
+Verizon shares rose 0.4 percent to close at $51.81, in line with the S&P 500 Index .SPX.
+Yahoo closed down 6.1 percent at $38.41.
+Yahoo said late on Wednesday that it had uncovered a 2013 cyber attack that compromised data of more than 1 billion user accounts, the largest known breach on record.
+It said the data stolen may have included names, email addresses, telephone numbers, dates of birth, hashed passwords and, in some cases, encrypted or unencrypted security questions and answers.
+The company added that some of its partners were affected.
+One such partner, Europe’s Sky Plc (SKYB.L), said Yahoo provides email services to its 2.1 million Sky.com email account holders, but it was unclear how many of those accounts were affected.
+The announcement followed Yahoo’s disclosure in September of a separate breach that affected over 500 million accounts, which the company said it believed was launched by different hackers.
+The White House said on Thursday the U.S. Federal Bureau of Investigation was probing the breach.
+Several lawsuits seeking class-action status on behalf of Yahoo shareholders have been filed, or are in the works.
+Meanwhile, Democratic Senator Mark Warner of Virginia said he was looking into Yahoo’s cyber security practices.
+“This most-recent revelation warrants a separate follow-up and I plan to press the company on why its cyber defenses have been so weak as to have compromised over a billion users,” he said in a statement.
+Warner, who will become the top Democrat on the Senate Intelligence Committee next year, described the hacks as “deeply troubling.” New York Attorney General Eric Schneiderman urged anyone with a Yahoo account to change their passwords and security questions and said he is examining the breach’s circumstances and the company’s disclosures to law enforcement.
+Germany’s cyber security authority, the Federal Office for Information Security (BSI), advised German consumers to consider switching to safer alternatives for email, and criticized Yahoo for failing to adopt modern encryption techniques to protect users’ personal data.
+“Considering the repeated cases of data theft, users should look more closely at which services they want to use in the future and security should play a part in that decision,” BSI President Arne Schoenbohm said in a statement.
+The latest breach drew widespread criticism from security experts, several advising consumers to close their Yahoo accounts.
+“Yahoo has fallen down on security in so many ways I have to recommend that if you have an active Yahoo email account, either direct with Yahoo of via a partner like AT&T, get rid of it,” Stu Sjouwerman, chief executive of cyber security firm KnowBe4 Inc, said in a broadly distributed email.
+A Yahoo spokesperson, in response to criticism of the company’s security measures, said on Thursday: “We’re committed to keeping our users secure, both by continuously striving to stay ahead of ever-evolving online threats and to keep our users and platforms secure.”

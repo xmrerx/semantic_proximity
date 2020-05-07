@@ -1,0 +1,13 @@
+There are seldom people in life that you can honestly say are solidly good people, but Mark Zuckerberg is one of those few that could fall into that category.
+Not because of his creation of Facebook, which in and of itself is extraordinary, but because of what he says and does.
+His actions, throughout his career, have spoken louder than words.From his $100 million donation to Newark, New Jersey schools, to giving $25 million in the fight against Ebola, to most recently saying this in a Facebook post to his new daughter:Now, in yet another Facebook post, Zuckerberg offered his New Years resolution which included reading two books a month, creating a Jarvis from Iron Man artificial butler for his own personal use, and exploring the future advancement of technology.// < !
+[CDATA[ // < !
+[CDATA[ // < !
+[CDATA[ (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk')); // ]]&gt;Every year, I take on a personal challenge to learn new things and grow outside my work at Facebook.
+My challenges in Posted by Mark Zuckerberg on Sunday, January 3, 2016Your basic range of typical resolutions to that of utter genius, but great resolutions nonetheless.It was in a comment, though, to his post that Zuckerberg showed how fiercely feminist he is.
+When a grandmother commented on his post and said: I keep telling my grand daughters to Date the nerd in school, he may turn out to be a Mark Zuckerberg!
+Thanks for FB, I ve reconnected with family and many old friends and classmates.
+via FacebookHowever, this is how Zuckerberg replied to the comment: Even better would be to encourage them to *be* the nerd in their school so they can be the next successful inventor!
+via FacebookDamn right!
+Don t tell your daughters or teach your daughters to date the nerds, tell them to BE the life-changing geniuses!And while what this woman was saying was all done with a good heart, and good intentions, Zuckerberg s quick shift in thought process, and ability to point out that women are just as capable as men, is pretty damn awesome.Well done, Mark!
+Way to stand up for women everywhere!Featured image: Wikimedia Commons

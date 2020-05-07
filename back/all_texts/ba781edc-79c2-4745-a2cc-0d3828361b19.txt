@@ -1,0 +1,12 @@
+WASHINGTON (Reuters) - Leaders of the congressional committee that investigates data breaches and computer hacking blasted the main U.S. banking regulator on Thursday for possibly jeopardizing the work of its inspector general, an internal watchdog, and hunting out potential whistleblowers.
+Part of the House Science Committee for months has been looking into the theft of thousands of records from the Federal Deposit Insurance Corp, including two breaches in which workers downloaded more than 10,000 sensitive and private records onto portable storage devices before leaving the agency’s employ.
+In a letter to FDIC Chairman Martin Gruenberg, Lamar Smith, the committee’s chairman, and Barry Loudermilk, chairman of the subcommittee on oversight, described an agency slow to cooperate with lawmakers that fails to conduct “good faith” searches for requested information.
+Moreover, the two, both Republicans, said the FDIC had gathered and reviewed internal communications of its inspector general’s office while collecting documents that the committee had requested.
+By law, inspectors general are independent.
+They function as the ethical and legal consciences of federal agencies, rooting out fraud and mismanagement, often with information provided confidentially by employees.
+“Not only is the committee troubled that the FDIC continues to withhold pertinent and responsive information to its cybersecurity posture,” it is “even more concerned by the FDIC’s gathering and review” of the inspector general office’s internal communications, they wrote.
+That could compromise the inspector general’s “ability to conduct its work in a manner uninhibited by the very agency it was created to oversee,” they added.
+The FDIC was not immediately available to comment.
+When the committee received documents from the FDIC earlier this week, the lawmakers said, it noticed a “distinct watermark included on each page.” “Given the committee’s concerns about potential retaliation against whistleblowers discussed in previous letters to the FDIC, the FDIC’s inclusion of a novel watermark raises serious questions about whether the agency it attempting to identify the source of committee materials,” they said.
+They added that some of the watermarked pages covered communications between the inspector general and FDIC employees, raising concerns that the agency is attempting to identify confidential informants.
+The committee is demanding that the FDIC send it information on actions to protect whistleblowers and inspector general communications by Monday, June 13.

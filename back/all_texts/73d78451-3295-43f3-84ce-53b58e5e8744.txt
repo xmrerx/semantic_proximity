@@ -1,0 +1,42 @@
+NEW YORK/WELLINGTON (Reuters) - Erik Duhaime is a passive stock market investor, but he isn’t afraid to short Donald Trump or go long on Hillary Clinton.
+The 28-year-old from Cambridge, Massachusetts, trades on PredictIt, an online political stock market that allows users to wager small amounts of money on “yes” or “no” predictions about whether an event will occur.
+That includes who will win the U.S. presidential election in November.
+“This is probably one of the ways I restrain myself from being active in the stock market,” said Duhaime, a PhD student at Massachusetts Institute of Technology Sloan School of Management, who checks the site a few times a week for fun.
+PredictIt, which was launched in 2014, now has more than 30,000 traders registered, up from 19,000 at the end of 2015, and has received shout-outs from pundits and presidential campaign advisors alike.
+Users must be U.S. residents and registered voters.
+PredictIt says it is not like an online gambling site because it mainly exists to supply its data to universities for academic research, one of the main reasons the U.S. Commodity Futures Trading Commission allows it to operate legally, according to a letter issued by the regulator in 2014.
+It is jointly run by Victoria University in Wellington, New Zealand, and a Washington-based political consulting firm Aristotle International Inc.
+Unlike mainstream financial markets, bets are not big: The CFTC caps each participant’s position at $850 per market, and the average deposit when people sign up is just $100.
+The regulator hasn’t been as friendly to such betting sites in the past.
+In 2012, the CFTC filed a civil complaint against the now defunct Intrade for violating a ban on off-exchange options trading.
+The Ireland-based market also allowed people to wager money on “yes” or “no” questions, but it wasn’t tied to an academic institution and didn’t have a cap on the maximum amount that could be traded.
+Predictions markets like PredictIt and a similar venue run by the University of Iowa have emerged as an alternative to polling for election forecasters.
+PredictIt is bigger than the Iowa Electronic Markets, which has only about 2,000 active traders with access to its political markets.
+“Polling is very expensive,” said David Rothschild, an economist at Microsoft Research who runs a predictions-market aggregator called PredictWise, which draws heavily from PredictIt.
+“It’s a slow process.
+It’s not very flexible.” Knowledge of polls does also feed into betting decisions on PredictIt.
+“Predictions markets translate this and other information into probability,” said Rajiv Sethi, professor of economics at Barnard College.
+“The basic intuition is that it’s a ‘wisdom of crowds’ effect.” For example, Trump’s chances of securing the Republican nomination for the presidential election swung dramatically on the site over the past three months as the primary season progressed.
+A Trump share shot from 30 cents in early February when he lost to rival Ted Cruz in the Iowa primary to 80 cents a month later when Trump dominated on Super Tuesday.
+They then lost half their value by early April as Cruz appeared to regain momentum with a big win in Wisconsin.
+With Cruz and another rival, John Kasich, now out of the race, Trump had risen to 94 cents by Monday.
+For graphic showing Trump's ascendancy on PredictIt during primary season, see tmsnrt.rs/1WmRq For November’s election, though, Trump is trailing on PredictIt with 40 cents against Clinton’s 59 cents.
+While PredictIt’s precision has yet to be closely examined by academics, other predictions markets such as the Iowa Electronic Markets, have proven to be just as accurate as polls, experts who have studied them said.
+PredictIt markets go beyond topics related to U.S. elections.
+Users also put the probability of a North Korea hydrogen bomb test this year at only 29 cents, and a British exit from the European Union by 2017 at just 30 cents.
+The idea for PredictIt was first thought up in the mid-1990s by Lew Evans, professor of economics at the University of Victoria.
+It took until 2008, for the market, called “iPredict” in New Zealand, to get up and running.
+Early on, it focused primarily on New Zealand politics, and research showed iPredict out-performed the majority of polls in predicting the results in two of New Zealand’s last three general elections.
+However, new anti-money laundering laws in New Zealand put an end to iPredict last year after the cost of verifying users’ identities to comply with the rules threatened to blow through iPredict’s shoe-string budget.
+PredictIt attracts everyone from campaign volunteers to political junkies.
+In mid-April, about 30 PredictIt traders gathered at a bar in New York to watch the state’s primary results roll in.
+“I think it’s a good source of collective wisdom,” said Brian Hegarty, who was at the event.
+Hegarty, who worked for Kasich’s campaign, reads political news, but also relied on picking up information through his campaign experience.
+That didn’t always translate to a bet in favor of Kasich.
+He said he put money on Republican candidate Marco Rubio to win the Minnesota caucus because he had overheard someone who was working for the Florida senator express confidence about Rubio’s chances.
+It turned out to be one of the few states Rubio won before dropping out in mid-March.
+Duhaime, the MIT student, said he usually bets against candidates he believes are likely to flame out.
+“For me, Trump was one of those people,” he said.
+“I shorted Trump way back in July, and it hasn’t been fun watching.” After Trump’s win in Indiana in early May, Duhaime was down nearly $1,000, about a third of the money he put into PredictIt.
+“I still think it was a one in a hundred thing,” Duhaime, who doesn’t identify as a Democrat but is a fan of President Barack Obama, said of the Trump phenomenon.
+“Obviously I’m bummed, but I’m sort of more concerned for other reasons.” (This version of the story corrects the spelling of Lew Evans)

@@ -1,0 +1,11 @@
+LONDON (Reuters) - Britain said on Friday it believed North Korea was behind the WannaCry cyber attack in May that disrupted businesses and government services worldwide, including the National Health Service (NHS) in England.
+Security Minister Ben Wallace said Britain believed quite strongly that the ransomware attack came from a foreign state.
+"North Korea was the state that we believe was involved in this worldwide attack on our systems," he told BBC radio.
+We can be as sure as possible - I can t obviously go into the detailed intelligence but it is widely believed in the community and across a number of countries that North Korea had taken this role.
+WannaCry infected more than 300,000 computers in 150 countries in a matter of days, demanding victims pay ransoms starting at $300 to regain access to their machines.
+Cyber security researchers quickly identified a possible link to North Korea.
+More than a third of England s 236 NHS trusts and an estimated 19,000 appointments were affected, Britain s National Audit Office said on Friday in a report on the attack.
+It said WannaCry was a relatively unsophisticated attack that could have been prevented by the NHS had it followed basic IT security best practice.
+No NHS organization paid the ransom but the government does not know how much the disruption to services cost the NHS, it said.
+Wallace said Britain needed to redouble its efforts to strengthen cyber security.
+It s a salient lesson for us all that all of us, from individuals to governments to large organizations, have a role to play in maintaining the security of our networks, he said.

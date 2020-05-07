@@ -1,0 +1,23 @@
+After examining the data Reuters used to make their bold prediction, we noticed they hadn t given any consideration to the high probability that Democrats will likely find a way to give illegal aliens the opportunity to cast their ballots in 2016.
+Illegal alien voters aside, here is Reuters interesting (and somewhat hopeful) study Elections are not mysterious events subject to the whimsy of unpredictable candidates and voters.
+They re actually highly predictable, with a set of variables that influence outcomes in familiar ways.Because of that, we can say, with reasonable confidence, that a Republican will be moving into the White House in 2017.That conclusion is based on the results of a data model we created, and is primarily the result of two factors, both related to the challenges faced by successor candidates candidates from the same party as the incumbent.
+First, a Republican will win because voters typically shy away from the party currently in power when an incumbent isn t running.
+In fact, a successor candidate is three times less likely to win.
+Second, President Barack Obama s approval ratings are too low to suggest a successor candidate will take the White House.Why are we so confident, especially when opinion poll data now gives Hillary Clinton the edge over most Republican opponents?
+The simple answer is that we re relying on models, not polls.At this point in the election cycle, poll data asking the horserace question ( Who will you vote for in November 2016? )
+can be very misleading.
+This far from Election Day, published poll data is off by an average of 8 percentage points compared with the true election outcome.
+That s an enormous number when we re used to elections where candidates win by two to three points.Time Before Election Average error of polls (compared to final results)One week 1.7%One month 2.7%Two months 3.8%Three months 4.8%Six months 5.8%Nine months 6.9%Twelve months 7.9%Source: Ipsos analysis of 300 polls across 40 markets from 1980 through currentModeling results is a simple concept: look at past data, identify patterns, and use those patterns to make predictions.
+So we begin by aggregating data from past U.S. presidential elections, but are immediately hampered by the fact that there aren t very many elections to work from 25 if we go back 100 years.So we created a much larger database of elections by looking beyond the United States to hundreds of presidential and parliamentary elections in democratic countries around the world.
+This exercise gave us far more data to work with: a sample size of more than 450 elections from 35 countries.The most important finding from our model is the power of incumbency: if you already hold the office you seek, you are far more likely than not to retain it.
+Our model showed that incumbents have a threefold greater chance of beating their opponent.
+When no incumbent is running, successor candidates (in this case, Democrats) are three times less likely to win.Our model proves the power of presidential approval ratings.
+It determines that in order for a successor candidate to have better than even chances of winning, the sitting president must have an approval rating of above 55 percent.
+Because Barack Obama s average approval rating is now at 45 percent, a successor candidate (i.e.
+Democrat) is unlikely to win.President (Govt) approval rating INCUMBENT probability of victorySUCCESSOR probability of victory40% 55%6%45% 78%14%50% 90%28%55% 96%49%60% 98%71%Source: Ipsos analysis of over 450 elections since 1938Our model works on the basis of probabilities, and is focused at the party level rather than the candidate level.
+It seeks only to predict the likelihood of a change to the party in power.
+It has an 85 percent predictive ability, so it s right most but not all of the time.
+Things that could confound the model include rapid changes to Obama s approval rating, or unusually high or low turnout (which can be driven by wild card candidates or other factors).In the coming months, Obama s approval ratings may tick up.
+But they would have to pass the 55 point mark to give the Democrats even odds of keeping the White House.
+This is extremely unlikely, given the fact that presidential approval typically declines over time, and Obama s ratings are no exception.Some will argue that Hillary Clinton is special; that her chances are significantly better because, given her popularity and status as a legacy candidate, she seems more like an incumbent.
+But if we go along with that hypothesis and run it through our model, at Obama s current approval ratings, Clinton s chances of winning the general election are still less than half.The Democrats have quite a mountain to summit to retain power past 2016.Via: Reuters

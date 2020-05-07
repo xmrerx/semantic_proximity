@@ -1,0 +1,4 @@
+(Reuters) - A hack at global accounting firm Deloitte [DLTE.UL] disclosed in September compromised a server with emails of some 350 clients, including U.S. government agencies and large corporations, the Guardian reported on Tuesday, citing unnamed sources.
+Deloitte disputed the story, saying very few clients were affected in a statement emailed to Reuters.
+We take any attack on our systems very seriously, the statement said.
+We are confident that we know what information was targeted and what the hacker actually did.

@@ -1,0 +1,29 @@
+SAN FRANCISCO (Reuters) - WikiLeaks documents showing the U.S. Central Intelligence Agency considered a “mission” against connected car technology underscores auto industry concern that the science behind the next generation of vehicles could be turned against them.
+Cyber security is considered key to the rollout of tomorrow’s self-driving and today’s connected cars, which resemble computers on wheels with a host of communications routes that hackers could target.
+If consumers are to trust smart vehicles, they must deem them safe from attack.
+Security experts cite the terrifying hypothetical example of a remote attack on a fully autonomous vehicle with no steering wheel or brakes, in which the passenger would have no recourse to regain manual control of the car.
+“You have a lot of car companies trying to design cars to be better suited to automation, which means they’re more attractive to hackers,” said auto consultant Roger Lanctot of Strategy Analytics.
+A major strategy for automakers is to reduce the number of communications gateways to crucial systems and to require services offered by third parties to go through a single secure path.
+WikiLeaks documents show the CIA citing “vehicle systems” and a car operating system from QNX, owned by Blackberry Ltd, as “potential mission areas” for the CIA’s “Embedded Devices Branch” to consider.
+The QNX operating system, which is used by most global automakers, provides a “a comprehensive, multi-level, policy-driven security model ... to mitigate attacks,” the company said in a statement to Reuters.
+But given the collection of software, hardware and network components that make up a connected car, “security is only as strong as its weakest link,” it said.
+While the CIA’s interest in cars brought widespread attention, the industry has already received wakeup calls about cars’ potential to be hacked.
+Researchers in 2015 used a wireless connection to turn off a Jeep Cherokee’s engine, prompting a recall of 1.4 million vehicles by Fiat Chrysler Automobiles.
+In September last year, Chinese cyber security researchers hacked a Tesla Inc Model S sedan, remotely tapping the brakes and popping the trunk.
+The electric carmaker subsequently patched the bugs using an over-the-air fix.
+Tesla did not respond to a request for comment on its cyber security protocol.
+The hacking of the Jeep and the Tesla “brought it home to the industry that even if its improbable it’s technically possible,” said Mark Wakefield, global co-head of the automotive practice at AlixPartners.
+If a car was seen as vulnerable, it “could be a big brand problem,” Wakefield said.
+Hacks could also expose private information shared between car and third parties - credit card numbers, account numbers or passwords - to theft.
+A January survey by the University of Michigan’s Transportation Research Institute found that 33 percent of respondents said they were “extremely concerned” over hacking of full self-driving cars to cause crashes.
+The number of ways into cars has proliferated, from cell phone signals to dongles.
+One such gateway is the standard OBD-II port found under the steering wheel historically used for onboard diagnostics.
+Today, hundreds of after-market devices use the port, whether to monitor driving for insurance needs or provide conveniences like safety alerts.
+“The security of these devices is important, as it can provide an attacker with a means of accessing vehicle systems and driver data remotely,” warned the FBI in a March 2016 bulletin on cyber security risks to motor vehicles.
+Carmakers are also building walls between non-crucial infotainment systems and driving controls so that any breach is blocked before it could compromise key functions like brakes.
+The first step the industry is tackling is intrusion detection, said Lanctot.
+But what to do when a breach is detected is complicated, because shutting off parts of a car could be unsafe, he said.
+Tesla was first to champion “over-the-air” technology in which wireless software updates are sent remotely to cars.
+Although some have argued such updates are a way in for hackers, Tesla and others see them a key protection to upgrade security and repair vulnerabilities quickly.
+In January, U.S. lawmakers introduced a bill calling for cyber security standards for new cars but so far U.S. regulators have issued recommendations, not rules, on how carmakers should shield their computer systems from hackers.
+The industry is “years away” from solving the cyber security problem, Lanctot said, noting that the first generation of cars built after the Jeep hack that include some kind of detection capabilities will not be seen until early in 2018.

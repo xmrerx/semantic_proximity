@@ -1,0 +1,32 @@
+SAN FRANCISCO (Reuters) - Even as the Department of Justice battles Apple in court over access to encrypted data, the Obama administration remains split over backing requirements that tech manufacturers provide law enforcement with a “back door” into their products, according to a dozen people familiar with the internal debate.
+FBI Director James Comey and the DOJ - who are fighting to access an iPhone tied to the San Bernardino attacks – have long tried and failed to convince other departments to join the broader battle against unbreakable encryption, the current and former government officials said.
+Federal justice officials argue that strong encryption makes it harder to track criminals, a central contention in the iPhone case.
+But officials in other departments - including Commerce, State and the White House Office of Science and Technology Policy - counter that encryption is integral to protecting U.S. secrets and the technology industry.
+The issue has been discussed in meetings of the interagency National Security Council and elsewhere.
+Some government officials also worry that confronting the tech sector on the issue could heighten distrust of American products overseas and drive terrorists and top criminals to seek foreign-made encryption.
+Several key officials in the National Security Agency and the Department of Homeland Security opposed the fight with Apple based on those concerns, the sources said.
+Luke Dembosky - until recently the deputy assistant attorney general for national security and the senior cybersecurity prosecutor on some of the biggest hacking cases in recent years - cast the broader disagreements over encryption as “very healthy.” “It’s a very big government, and everyone is trying to do the right thing,” said Dembosky, who last week joined the law firm Debevoise & Plimpton LLP.
+“There are countries where they don’t have these debates.” NSA Director Michael Rogers has taken a middle ground, saying that strong encryption is important but compromise is desirable.
+Years of interagency debates over encryption have left the Obama administration lacking a cohesive policy stance on the issue, many tech industry leaders have said.
+The Justice Department last month persuaded a federal judge to order Apple Inc (AAPL.O) to write software to help unlock an iPhone used by shooter Rizwan Farook in the December attack in San Bernardino.
+Apple is fighting the order, calling the case an overreach by prosecutors that threatens the security of all iPhones.
+A hearing on the matter is scheduled for later this month.
+As is customary in such cases, the decision to take action against Apple was made without consulting the White House, said two sources familiar with the matter.
+“The DOJ and FBI pursue all such matters independent of the White House,” a senior administration official said.
+The official added that the White House does not intend to seek legislation mandating back doors.
+In an interview, John Carlin, assistant attorney general for national security, dismissed suggestions that some administration officials did not support the Justice Department’s action in the Apple case.
+The effort was never intended to settle the encryption debate, he said, but rather to assist San Bernardino County, which asked for help in unlocking Farook’s county-owned iPhone 5c.
+The tech industry has united behind Apple, with more than 40 companies this week submitting legal briefs arguing that compliance with the judge’s order would undermine encryption and public trust in Internet security.
+By contrast, the division among government agencies has left some administration officials in an awkward position of publicly supporting the Justice Department’s case against Apple while also acknowledging the need for strong encryption.
+They have been more vocal about their concerns behind closed doors, according to four people who have spoken with them or their subordinates.
+“Just to cut to the chase, I’m not a believer in back doors or a single technical approach,” Defense Secretary Ash Carter told a largely pro-Apple crowd at the RSA security conference on Wednesday.
+“I don’t think we ought to let one case drive a single solution.” Congress is also divided on the issue, with liberal Democrats joining libertarian Republicans in opposing government back doors.
+The lack of consensus prompted the White House last year to abandon a push for legislation that would require U.S. technology firms to provide law enforcement a way around encryption.
+Privately, however, President Obama sought a compromise, asking large telecommunications and technology firms, including Apple and Microsoft, to work toward an “exceptional access” agreement that would provide investigators access to content that is typically encrypted, said two sources with knowledge of the discussion.
+An Apple spokesman said that the company never seriously considered installing a back door and tried to shift the discussion to a broader conversation about law enforcement cooperation.
+Either way, Apple CEO Tim Cook lambasted the White House for not publicly affirming support for strong encryption at a January summit in San Jose, Calif. between technology executives and senior national security officials convened largely to discuss online extremism, sources familiar with the meeting said.
+Cook’s comments aggravated White House Chief of Staff Denis McDonough, who thought the iPhone maker was backtracking on its earlier commitment to work collaboratively on resolving law enforcement’s encryption concerns, according to one person with knowledge of the situation.
+That confrontation helps explain why, after months of apparent respectful disagreement in public and private pursuit of compromise, both sides suddenly came to battle heavily armed.
+Amid the hostilities between Apple and the FBI, some have called for President Obama to weigh in to help resolve the standoff.
+“I’m waiting to hear what the president has to say about it,” Democratic Senator Ron Wyden, who supports Apple, said in an interview.
+“I know [White House Press Secretary] Josh Earnest has said he is for the Justice Department, [but] I want to hear from the president.”

@@ -1,0 +1,3 @@
+While researching for a wrap-up on the June 7 Presidential Primaries, we discovered evidence that Google may be manipulating autocomplete recommendations in favor of Hillary Clinton.
+If true, this would mean that Google Searches aren t objectively reflecting what the majority of Internet searches are actually looking for, possibly violating Google s algorithm.
+According to a research paper cited in this video, that kind of search result manipulation has the potential to substantially influence the outcome of actual elections.

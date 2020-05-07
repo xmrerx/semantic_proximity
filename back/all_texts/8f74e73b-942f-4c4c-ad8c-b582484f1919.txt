@@ -1,0 +1,15 @@
+(Reuters) - The U.S. agency charged with ensuring that voting machines meet security standards was itself penetrated by a hacker after the November elections, according to a security firm working with law enforcement on the matter.
+The security firm, Recorded Future, was monitoring underground electronic markets where hackers buy and sell wares and discovered someone offering log-on credentials for access to computers at the U.S. Election Assistance Commission, company executives said.
+Posing as a potential buyer, the researchers engaged in a conversation with the hacker, said Levi Gundert, vice president of intelligence at the company, and Andrei Barysevich, director of advanced collection.
+Eventually they discovered that the Russian-speaking hacker had obtained the credentials of more than 100 people at the election commission after exploiting a common database vulnerability, the researchers said.
+The hacker was trying to sell information about the vulnerability to a Middle Eastern government for several thousand dollars, but the researchers alerted law enforcement and said Thursday that the hole had been patched.
+The Election Assistance Commission said in a statement late Thursday that it had become aware of a “potential intrusion” and was “working with federal law enforcement agencies to investigate the potential breach and its effects.” “The FBI is currently conducting an ongoing criminal investigation,” the statement added.
+The election commission certifies voting systems and develops standards for technical guidelines and best practices for election officials across the country.
+The researchers said the hacker had an unusual business model, scanning for ways to break into all manner of businesses and other entities and then moving rapidly to sell that access, rather than stealing the data himself.
+“We don’t think he actually works for any government or is super sophisticated,” Barysevich said.
+In the case of the election commission, the hacker used methods including an SQL injection, a well known and preventable flaw, obtaining a list of user names and obfuscated passwords, which he was then able to crack.
+Though much of the commission’s work is public, the hacker gained access to non-public reports on flaws in voting machines.
+In theory, someone could have used knowledge of such flaws to attack specific machines, said Matt Blaze, an electronic voting expert and professor at the University of Pennsylvania.
+The researchers were confident that the hacker moved to sell his access soon after getting it, meaning that he was not inside the system before election day.
+The U.S. voting process is decentralized and there were no reports of widespread fraud in November.
+The Election Assistance Commission was created by the Help America Vote Act of 2002 and is led by presidential appointees.

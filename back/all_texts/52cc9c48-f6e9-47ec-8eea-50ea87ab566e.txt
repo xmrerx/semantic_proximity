@@ -1,0 +1,13 @@
+WASHINGTON (Reuters) - President Barack Obama on Tuesday sought a surge in funding to counter cyber security threats, as his top intelligence official warned Congress that computer attacks were among the most imminent security challenges facing the United States.
+In his fiscal 2017 budget proposal, Obama asked for $19 billion for cyber security across the U.S. government, an increase of $5 billion over this year While the White House’s overall fiscal plan faces tough going in the Republican-controlled Congress, increased cyber security funding has won bipartisan support of lawmakers in the past.
+The request comes as the Obama administration has struggled to address the growing risk posed by criminals and nation states in the digital world.
+In Congress, Obama’s director of national intelligence, James Clapper, warned that cyber threats “could lead to widespread vulnerabilities in civilian infrastructures and U.S. government systems.” The Obama initiative calls for a more than one-third increase from the $14 billion appropriated this year and would include $3.1 billion for technology modernization at various federal agencies.
+Cyber threats are “among the most urgent dangers to America’s economic and national security,” Obama said in a Wall Street Journal op-ed published on Tuesday.
+The request for a cash infusion is the latest signal that the White House intends to make cyber security a priority in the last year of Obama’s presidency.
+It follows a series of high-profile hacks against the government and companies like Sony Pictures (6758.T) and Target (TGT.N) that were largely met with legislative inaction and administrative uncertainty on how best to address evolving cyber threats.
+Those difficulties played out publicly last year when the Office of Personnel Management announced it had fallen victim to a hack that lifted sensitive information on roughly 22 million individuals from its databases.
+The White House issued an executive order setting up a presidential commission on cyber security, which would make recommendations for strengthening defenses over the next decade.
+A new position of federal chief information security officer also would be established.
+A government watchdog report last month concluded the government’s cyber defense system, known as Einstein, is ineffective at combating hackers.
+Obama also signed another executive order creating a permanent Federal Privacy Council, which aims to connect privacy officials across the government to develop comprehensive guidelines for how personal data is collected and stored.
+The president’s budget proposal also called for $62 million to expand efforts to attract and retain qualified cyber professionals working for the government.

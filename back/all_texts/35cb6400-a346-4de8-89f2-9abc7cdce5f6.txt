@@ -1,0 +1,31 @@
+WASHINGTON (Reuters) - A U.S. senator seen by Silicon Valley as one of the technology industry’s main foes in Congress is fighting for his political life as Donald Trump’s slumping poll numbers threaten to damage Republican candidates across the board.
+Senator Richard Burr from North Carolina, the chairman of the Senate Intelligence Committee, is facing a strong and unexpected challenge from Democrat Deborah Ross.
+Though tech policy is unlikely to decide the race, a Burr defeat would remove from the scene a lawmaker who has feuded with U.S. tech companies over digital privacy and encryption.
+Ross, a former head of the state’s chapter of the American Civil Liberties Union, is fighting an uphill battle.
+North Carolina has voted Republican in every presidential election from 1980 until 2008, when it backed Barack Obama by a thin margin.
+The state went for Republican Mitt Romney in 2012.
+Burr, 60, was not expected to face a challenge this year, in what he has said will be his last congressional campaign.
+But Republican presidential candidate Trump’s numbers have slumped nationwide and in North Carolina, a battleground state in the Nov. 8 presidential election.
+Declining support for Trump, a property developer and television personality who has never held elected office, has put Burr, who endorsed Trump, and other Republicans in jeopardy, said Carter Wrenn, a Republican consultant in North Carolina.
+“We’re not sure it’s a wave here for Democrats, but it’s beginning to look that way,” Wrenn said.
+“Any Republican running down here ought to be very concerned about Trump’s impact.” A poll from NBC News/Wall Street Journal/Marist in early August showed Ross leading Burr 46 percent to 44 percent, though other polls have given Burr a narrow edge.
+Burr has been in Congress for more than 20 years and is distantly related to Aaron Burr, U.S. vice president in the early 1800s.
+If Burr were to lose, Democrats would be one seat closer to reclaiming a Senate majority from Republicans.
+The concerns of companies such as Apple Inc, Google and Facebook are not a key issue for North Carolina voters, but the race’s outcome could affect future handling of data encryption and privacy matters.
+For a year, Burr has been crafting legislation that would force Apple and other companies to weaken the security of their products in a way that would give U.S. law enforcement access to encrypted devices and communications.
+[uL2N18L28M] The FBI has said that the growth of strong default encryption makes it more difficult for investigators to access communications of criminal suspects, even with a warrant.
+Silicon Valley, cyber security experts and civil liberties advocates say strong encryption is essential to ward off hackers and maintain the overall security of the Internet.
+The encryption debate is decades old, but it boiled over earlier this year due to a dispute between Apple and the FBI over unlocking an iPhone linked to one of the shooters in a San Bernardino, Calif., rampage in 2015.
+Several U.S. tech companies and privacy groups, asking not to be named because they do not typically take public positions on candidates, told Reuters they are eager to see Burr lose.
+His efforts to require encryption backdoors in U.S. technology products are the main reason.
+While other lawmakers have been critical of Silicon Valley in the encryption debate, none has been as antagonistic as Burr, the sources said.
+Andrew McLaughlin, a former White House technology official who now is head of content at the publishing site Medium, tweeted in May: “Trump’s win endangers GOP Senators.
+America’s tech community should rally to defeat Richard Burr, for his idiotic war on Internet security.” McLaughlin declined an interview request from Reuters.
+Burr spokeswoman Becca Glover Watkins said the senator had worked closely with California Senator Dianne Feinstein, the top Democrat on the intelligence panel on the encryption issue.
+She said the two had worked on a “number of bipartisan national security issues including their encryption proposal” and Burr planned to continue engaging with tech companies “on the challenges posed by encryption and cyber threats.” Ross, a lawyer and former state legislator, has not clarified whether she sides with Apple in its dispute with the FBI.
+In a statement to Reuters, she said that “protecting our law abiding citizens’ privacy doesn’t mean sacrificing our security.” Tech interests, so far, have not donated sizeable amounts of money to Ross, according to a review of contributions.
+However, Laurene Powell Jobs, the widow of Apple co-founder Steve Jobs, in June made an unspecified donation to Ross, according to U.S. Federal Election Commission records.
+The political action committee that supports Oregon Senator Ron Wyden, a Democrat, vocal defender of encryption and frequent opponent of Burr, gave $5,000 to Ross this year.
+Burr’s PAC later gave $5,000 to Wyden’s Republican challenger in Oregon.
+At a national level, Apple CEO Tim Cook and other tech executives have helped raise money for Democratic presidential candidate Hillary Clinton.
+Silicon Valley has almost universally shunned Trump, troubled largely by his rhetoric on immigration and his stated desire to shut down the Internet to fight extremists.

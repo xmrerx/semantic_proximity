@@ -1,0 +1,13 @@
+// <!
+[CDATA[ (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&#038;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk')); // ]]> We re here because we re tired of the lies in the social media.
+Our federal government has run amuk.
+Everybody has guns.
+Just because you have guns, doesn t mean that you re violent.
+Oregon rancher asking for our help!Posted by Bundy Ranch on Sunday, 3 January 2016// <!
+[CDATA[ (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&#038;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk')); // ]]>Come help the ranchers in Oregon gain back their rights!Posted by Bundy Ranch on Monday, 4 January 2016 // <!
+[CDATA[ (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&#038;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk')); // ]]>Oregon rancher asking for our help!Posted by Bundy Ranch on Sunday, 3 January 2016This rancher traveled from Michigan to show his support for the ranchers.
+He s calling for a peaceful resolution to this issue:// <!
+[CDATA[ (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&#038;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk')); // ]]>Calling all to come and help the people of Harney CountyKen Rhoads, (71) calling all to come and help the people of Harney County.
+Come to the Malheur Wildlife Refuge 30 mile from Burns Oregon.
+We have a warm place for you to lay your head and food to eat.
+We need you to make this happen without violence.Posted by Bundy Ranch on Sunday, 3 January 2016

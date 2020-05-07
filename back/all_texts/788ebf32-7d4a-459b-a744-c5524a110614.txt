@@ -1,0 +1,13 @@
+WASHINGTON (Reuters) - U.S. Senate Majority Leader Mitch McConnell set up a vote late on Monday to expand the Federal Bureau of Investigation’s authority to use a secretive surveillance order without a warrant to include email metadata and some browsing history information.
+The move, made via an amendment to a criminal justice appropriations bill, is an effort by Senate Republicans to respond to last week’s mass shooting in an Orlando nightclub after a series of measures to restrict guns offered by both parties failed on Monday.
+“In the wake of the tragic massacre in Orlando, it is important our law enforcement have the tools they need to conduct counterterrorism investigations,” Senator John McCain, an Arizona Republican and sponsor of the amendment, said in a statement.
+The bill is also supported by Republican Senators John Cornyn, Jeff Sessions and Richard Burr, who chairs the Senate Intelligence Committee.
+Privacy advocates denounced the effort, saying it seeks to exploit a mass shooting in order to expand the government’s digital spying powers.
+Senator Ron Wyden, an Oregon Democrat, criticized a similar effort last month as one that “takes a hatchet to important protections for Americans’ liberty.” The amendment would broaden the FBI’s authority to use so-called National Security Letters to include electronic communications transaction records such as time stamps of emails and the emails’ senders and recipients.
+The Obama administration for years has lobbied for a change to how NSLs can be used, after a 2008 legal memo from the Justice Department said the law limits them largely to phone billing records.
+FBI Director James Comey has said the change essentially corrects a typo and is a top legislative priority for his agency.
+NSLs do not require a warrant and are almost always accompanied by a gag order preventing the service provider from sharing the request with a targeted user.
+The letters have existed since the 1970s, though the scope and frequency of their use expanded greatly after the Sept. 11, 2001, attacks on the United States.
+The amendment filed Monday would also make permanent a provision of the USA Patriot Act that allows the intelligence community to conduct surveillance on “lone wolf” suspects who do not have confirmed ties to a foreign terrorist group.
+That provision, which the Justice Department said last year had never been used, is currently set to expire in December 2019.
+A vote is expected no later than Wednesday, McConnell’s office said.

@@ -1,0 +1,26 @@
+WASHINGTON (Reuters) - Russian government-backed hackers stole highly classified U.S. cyber secrets in 2015 from the National Security Agency after a contractor put information on his home computer, two newspapers reported on Thursday.
+As reported first by The Wall Street Journal, citing unidentified sources, the theft included information on penetrating foreign computer networks and protecting against cyber attacks and is likely to be viewed as one of the most significant security breaches to date.
+In a later story, The Washington Post said the employee had worked at the NSA s Tailored Access Operations unit for elite hackers before he was fired in 2015.
+The NSA declined to comment, citing agency policy never to comment on our affiliates or personnel issues.
+Reuters was not able to independently verify the reports.
+If confirmed, the hack would mark the latest in a series of breaches of classified data from the secretive intelligence agency, including the 2013 leaks of data on classified U.S. surveillance programs by contractor Edward Snowden.
+Another contractor, Harold Martin, is awaiting trial on charges that he took classified NSA material home.
+The Washington Post reported that Martin was not involved in the newly disclosed case.
+Republican U.S.
+Senator Ben Sasse, a member of the Senate Armed Services Committee, said in a statement responding to the Journal report that, if true, the details were alarming.
+The NSA needs to get its head out of the sand and solve its contractor problem, Sasse said.
+Russia is a clear adversary in cyberspace and we can t afford these self-inflicted injuries.
+Tensions are already high in Washington over U.S. allegations of a surge in hacking of American targets by Russians, including the targeting of state election agencies and the hacking of Democratic Party computers in a bid to sway the outcome of the 2016 presidential election in favor of Republican Donald Trump.
+Citing unidentified sources, both the Journal and the Post also reported that the contractor used antivirus software from Moscow-based Kaspersky Lab, the company whose products were banned from U.S. government networks last month because of suspicions they help the Kremlin conduct espionage.
+Kaspersky Lab has strongly denied those allegations.
+Russian government officials could have used flaws in Kaspersky software to hack into the machine in question, security experts told Reuters.
+They could also have intercepted traffic from the machine to Kaspersky computers.
+Kaspersky said in a statement on Thursday that it found itself caught in the middle of a geopolitical fight.
+Kaspersky Lab has not been provided any evidence substantiating the company s involvement in the alleged incident reported by the Wall Street Journal, it said.
+It is unfortunate that news coverage of unproven claims continue to perpetuate accusations about the company.
+The Department of Homeland Security on Sept. 13 banned Kaspersky products in federal networks, and the U.S. Senate approved a bill to ban them from use by the federal government, citing concerns the company may be a pawn of the Kremlin and poses a national security risk.
+James Lewis, a cyber expert with the Washington-based Center for Strategic and International Studies, said the report of the breach sounded credible, though he did not have firsthand information on what had transpired.
+The baffling parts are that he was able to get stuff out of the building and that he was using Kaspersky, despite where he worked, Lewis said.
+He said that intelligence agencies have considered Kaspersky products to be a source of risk for years.
+Democratic Senator Jeanne Shaheen, who led calls in Congress to purge Kaspersky Lab products from government networks, on Thursday called on the Trump administration to declassify information about threats posed by Kaspersky Lab.
+It s a disservice to the public and our national security to continue withholding this information, Shaheen said in a statement.

@@ -1,0 +1,17 @@
+WASHINGTON (Reuters) - The Trump administration does not want to reform an internet surveillance law to address privacy concerns, a White House official told Reuters on Wednesday, saying it is needed to protect national security.
+The announcement could put President Donald Trump on a collision course with Congress, where some Republicans and Democrats have advocated curtailing the Foreign Intelligence Surveillance Act, or FISA, parts of which are due to expire at the end of the year.
+“We support the clean reauthorization and the administration believes it’s necessary to protect the security of the nation,” the official said on condition of anonymity.
+The FISA law has been criticized by privacy and civil liberties advocates as allowing broad, intrusive spying.
+It gained renewed attention following the 2013 disclosures by former National Security Agency contractor Edward Snowden that the agency carried out widespread monitoring of emails and other electronic communications.
+Portions of the law, including a provision known as Section 702, will expire on Dec. 31 unless Congress reauthorizes them.
+Section 702 enables two internet surveillance programs called Prism and Upstream, classified details of which were revealed by Snowden.
+Prism gathers messaging data from Alphabet Inc’s Google , Facebook Inc , Microsoft Corp, Apple Inc and other major tech companies that is sent to and from a foreign target under surveillance.
+Upstream allows the NSA to copy Web traffic flowing along the “internet backbone” located inside the United States and search that data.
+U.S. intelligence officials say the programs are vital to national security.
+Democratic and Republican lawmakers have said reforms to Section 702 are needed, in part to ensure the privacy protections on Americans are not violated.
+The U.S. House of Representatives’ Judiciary Committee met Wednesday to discuss possible changes to the law.
+Though FISA is intended to govern spy programs intended for foreigners, an unknown amount of communications belonging to Americans are also collected due to a range of technical and practical reasons.
+Such collection has been defended by U.S. intelligence agencies as “incidental,” but privacy groups have said it allows for backdoor seizures of U.S. data without proper judicial oversight and could impact thousands or millions of Americans.
+For years lawmakers have sought an estimate on how many Americans are caught in the crosshairs of the foreign intelligence programs, saying it is necessary to consider changes to Section 702.
+On Tuesday former Senator Dan Coats, Trump’s nominee for director of national intelligence, told a Senate panel he would “do everything I can” to publicly disclose such a figure before the law’s expiration, though he stopped short of guaranteeing it.
+Section 702, he added, was the “crown jewels” of the intelligence community.

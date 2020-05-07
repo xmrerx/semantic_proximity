@@ -1,0 +1,12 @@
+WASHINGTON (Reuters) - The U.S. Justice Department has formed a threat analysis team to study potential national security challenges posed by self-driving cars, medical devices and other Internet-connected tools, a senior official said.
+The new group’s goal is to secure the so-called “internet of things” from exploitation by “terrorist threats” and by others who might try to hack devices to cause loss of life or achieve political or economic gain, according to Assistant Attorney General John Carlin, head of the Justice Department’s national security division.
+The impetus for the team, which has been informally active for about six months, was an understanding that the internet is vulnerable to cyber attacks partly because it was not designed with security in mind, Carlin told Reuters, after announcing the group on Thursday at the Intelligence and National Security Alliance conference in Washington.
+Carlin said the group, a small team of about five to 10 people, did “not want to be alarmist” about new technologies such as self-driving cars, but that it wanted to identify and address security challenges presented by the internet of things before they are exploited.
+He cited the July truck attack in Nice, France, in which 86 people were killed, as an example of how automated driving systems could present a national security threat if they were remotely hijacked.
+“The internet on wheels ... clearly is going to present national security risks as this transformation takes place,” Carlin said.
+Transportation and public health experts say that self-driving cars could dramatically reduce auto fatalities and injuries, most of which are due to human error.
+Car hacking has grown as a cyber security concern in recent years.
+The Federal Bureau of Investigation and the National Highway Transportation Safety Administration (NHTSA) issued a bulletin in March warning that motor vehicles were “increasingly vulnerable” to hacking.
+In July 2015, Fiat Chrysler Automobiles NV recalled 1.4 million U.S. vehicles to install software after a magazine report raised concerns about hacking, the first action of its kind for the auto industry.
+Carlin said he has been to Detroit twice in the past six months on trips that included visits with auto industry executives to discuss national security issues surrounding smart cars.
+The group is being led by Adam Hickey, acting deputy assistant attorney general of the national security division, and will include industry experts and partnerships with other federal agencies, a Justice Department spokesman said.

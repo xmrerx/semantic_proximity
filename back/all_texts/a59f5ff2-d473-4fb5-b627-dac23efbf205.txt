@@ -1,0 +1,16 @@
+NEW YORK (Reuters) - The November U.S. presidential election is being sold by the major parties as a defining moment for the next generation of Americans.
+But stock and options traders, often moved to action by political headlines, are responding with a big ‘meh.’ Options bets on volatility around the Nov. 8 election are running lower than could be expected given how stocks have performed in past election cycles, BNP Paribas said.
+Typically, stock market volatility picks up around presidential elections.
+Traders use options to guard against outsized market reaction to such events.
+The CBOE Volatility Index, the most widely followed gauge of near-term investor anxiety, had some big spikes this year, hitting a four-month high after the Brexit vote.
+But there is little to suggest that November is a big worry for stocks.
+Investors are focused on the quarterly earnings season starting next week.
+They might also be taking the view that both the Republican and Democratic prospective nominees would be more favorable for business than the current administration, analysts said.
+“It’s like the opposite of ‘Alien vs. Predator,’” said Mark Sebastian, chief investment officer at volatility arbitrage hedge fund Karman Line Capital in Chicago, referring to the 2004 American science fiction film which had the tagline ‘whoever wins, we lose.’ “Here, no matter who wins, Wall Street does better,” he said.
+Despite being called anti-business by some on Wall Street, the Obama administration has been in power over one of the best presidential cycles for stocks on record.
+Per BNP Paribas data, S&P 500 Index options forward implied volatility, which measures volatility expectations embedded in options, shows no dislocation over the remaining election campaign period.
+Had there been a big bump-up in this measure for November it would have been a sign that traders were loading up on protective contracts.
+“The market is not ascribing a large probability to a high volatility scenario over the election period,” said Stewart Warther, an equity derivatives strategist at BNP Paribas.
+Market-makers, or dealers which quote prices for options, are also not expressing a great deal of anxiety over stock gyrations.
+If stock volatility does not pick up in November, that would be a departure from the norm, according a BNP Paribas analysis of data going back to 1948.
+“The shape of the (volatility) curve definitely is upward sloping but it’s not like there is a huge hump out in November,” said Steve Sosnick, an equity risk manager at Timber Hill, the market-making unit of Interactive Brokers Group Inc. “We have seen some demand for options but I would say it’s hardly a frenzy.”

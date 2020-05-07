@@ -1,0 +1,16 @@
+Beta testing set to begin at transportation hubs in Los Angeles, Denver and Washington for Total Recall-style high-speed body scanners (IMAGE: Mashable)Mark Harris The Guardian A startup bankrolled by Bill Gates is about to conduct the first public trials of high-speed body scanners powered by artificial intelligence (AI), the Guardian can reveal.According to documents filed with the US Federal Communications Commission (FCC), Boston-based Evolv Technology is planning to test its system at Union Station in Washington DC, in Los Angeles s Union Station metro and at Denver international airport.Bill Gates: turning society into a technocracy.Evolv uses the same millimetre-wave radio frequencies as the controversial, and painfully slow, body scanners now found at many airport security checkpoints.
+However, the new device can complete its scan in a fraction of second, using computer vision and machine learning to spot guns and bombs.This means individuals can simply walk through a scanning gate without stopping or even slowing down like the hi-tech scanners seen in the 1990 sci-fi film Total Recall.
+A nearby security guard with a tablet is then shown either an all-clear sign, or a photo of the person with suspicious areas highlighted.
+Evolv says the system can scan 800 people an hour, without anyone having to remove their keys, coins or cellphones.
+The importance of it being fast can t be overstated, said Aaron Elkins, an AI professor at San Diego State University, who is developing his own AI security technology.
+Any place you currently see a metal detector would probably consider an upgrade.
+Millimetre-wave scanners are useful because they can identify both metallic and non-metallic items, such as 3D printed guns and explosives.
+But they have also attracted criticism because scanners were able to capture realistic images of people s bodies beneath their clothes.
+We never build an image that would enable anyone to see anatomical details, so there s no naked peepshow in the first place, says Michael Ellenbogen, Evolv s CEO.
+None of the raw data is stored and none of the data we do keep is traceable to an individual.
+Evolv claims that no human sees what the scanner is looking at.
+The system uses solid state micro-antennas to steer radar beams over anyone walking through the gate, and to pick up the reflections.
+That data is then fed to an AI system that has been trained to spot distinctive scattering patterns from all kinds of objects, including firearms, suicide bomber vests and even knives.
+The scanner also has a camera that takes a photo of each person passing through, enabling facial recognition.Because it promises to be faster and cheaper than existing millimetre-wave scanners, the new device could bring airport-level screening to venues that were previously difficult to secure Continue this story The GuardianREAD MORE A.I.
+NEWS AT: 21st Century Wire A.I.
+Files

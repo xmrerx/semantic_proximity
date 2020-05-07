@@ -1,0 +1,25 @@
+WASHINGTON (Reuters) - The U.S. derivatives regulator will move on from reforms undertaken after the 2007-09 financial crisis to a new focus on U.S. competitiveness and the potential for shocks to the global $710 trillion swaps markets under President-elect Donald Trump.
+J. Christopher Giancarlo, in line to head the Commodity Futures Trading Commission once Trump is inaugurated on Jan. 20, has said the agency should look beyond mandates from the 2010 Dodd-Frank Wall Street reform law to current trends in financial markets.
+He counts among those cyber threats, liquidity risk, market concentration and de-globalization.
+As the sole Republican on the CFTC, Giancarlo will at least temporarily run the commission where he is currently the minority member.
+Even if Trump later nominates someone else for the permanent post, Giancarlo, who was previously an executive vice president at GFI Group, a wholesale brokerage that runs electronic trading platforms, will be influential in the coming months.
+In a speech in London on Friday, he said regulators should foster best practices for new trading technologies, address diminishing liquidity, and review regulations that could cause market fragmentation as they enter “the new year and, perhaps, a new regulatory environment.” This week, he forced the commission to delay limits on the positions that traders can hold on physical commodity futures and swaps.
+Redrawn position limit rules are likely to reappear in 2017, as are the following other agenda items.
+Giancarlo has often argued the United States should not move too far ahead of other countries in tightening regulations governing the swaps market, which the United States dominates.
+That could put U.S. firms at a disadvantage and drive up trading costs, he says.
+In August he warned the CFTC could create a liquidity crunch by sticking to its September deadline for implementing a new swaps margin rule, given European regulators had delayed start dates for their similar rules.
+Indeed, in September Asian swaps markets foundered and trades fell through as the U.S. rules came online.
+The CFTC then gave swap dealers an extra month to comply.
+“Championing American markets means no longer asking U.S. market participants to go it alone and take it on the chin in implementation of global regulatory reform,” Giancarlo later told the conservative American Enterprise Institute.
+“Rather, it means standing up for America’s capital and risk transfer markets and treating them as the vital national interests that they are.” Giancarlo sees the CFTC as “stuck in a 20th Century time warp” when it comes to technology.
+He can be expected to push the CFTC toward giving industry space for breakthroughs in artificial intelligence guiding trade execution, “smart” contracts that calculate payments and value in real-time, and distributed ledger technology, known as Blockchain.
+In November he voted against the “Reg AT” - Regulation Automated Trading - to update oversight of fast computer trades, criticizing it for not adequately protecting algorithmic trading companies’ prized source codes and being too prescriptive.
+Giancarlo says regulators in other countries, notably Britain, are leading the way in financial technology and the CFTC must follow in making room to experiment.
+Since 2012, any dealer with more than $8 billion in swap activity has had to register with the Commodity Futures Trading Commission, which subjects it to stricter federal oversight.
+That activity value in dollars, known as the “de minimis” threshold, was poised to fall to $3 billion by the end of 2017, but the CFTC recently delayed the drop by a year.
+Under Giancarlo, the threshold may never fall - or could disappear altogether.
+He has called the thresholds “made up numbers” lacking policy justification.
+He also said that in general, a specific de minimis level may not do anything to optimize “the safety, soundness, liquidity or vibrancy of U.S. swaps markets.” In March, Giancarlo failed to launch recommendations on regulating energy markets made by a committee he led, which was dominated by people from the energy sector.
+Reform proponents said the suggestions were sops to industry and he withdrew its report.
+When he is in charge, Giancarlo could turn back to the committee’s work.
+It questioned the need for new position limits and suggested an alternative “accountability system,” where exchanges could grant exemptions to limits.

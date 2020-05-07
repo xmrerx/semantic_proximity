@@ -1,0 +1,14 @@
+WASHINGTON/BRUSSELS (Reuters) - A U.S. Senate panel approved measures on Thursday that were causing concern in Europe among negotiators hammering out a new trans-Atlantic pact on electronic data transfer, an issue for many companies such as Facebook and Microsoft.
+In a step toward addressing global concerns about data privacy, the Senate Judiciary Committee approved legislation, headed next to the full Senate for a vote, that would give some Europeans the right to sue in the United States over allegations of electronic data privacy violations.
+But amendments were added at the last minute that raised questions from the European Union in Brussels.
+That is where negotiators are working on a broad “Safe Harbor” agreement, which faces a deadline next week, that will protect the free transfer between the United States and Europe of data such as web searches and social media updates.
+A previous Safe Harbor pact was ruled invalid by a top European Union court in October 2015 amid concerns in Europe about U.S. Internet surveillance.
+The Senate’s Judicial Redress Act, approved by the committee, is not seen as crucial to securing the new Safe Harbor pact, but European privacy regulators have been clamoring for passage of the act as a sign of good faith.
+“That is a very, very important signal of trust and reliability,” European Commission Director for Fundamental Rights Paul Nemitz told Reuters at a conference in Brussels.
+Complicating this gesture were two amendments, pushed by Republican Senator John Cornyn of Texas and adopted unanimously.
+One would limit the ability to sue in U.S. courts to citizens of countries already in an international data deal with the United States, such as Safe Harbor.
+Another would require the U.S. attorney general to certify that participating countries do not have policies impeding U.S. national security.
+EU authorities have given Safe Harbor negotiators until the end of January to strike a new deal.
+Several sources familiar with the talks said negotiators have made progress in the past week, but hurdles remain.
+U.S. Federal Trade Commissioner Julie Brill said on Thursday in Brussels that reaching agreement would require the European Commission to consider the changes the United States has made to its national security laws in recent years.
+Under the EU Charter, individual member states retain powers over national security, which in practice means Brussels is unable to negotiate with Washington on such issues, the moderator of the conference panel noted.

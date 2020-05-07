@@ -1,0 +1,27 @@
+(Reuters) - India s Supreme Court ruled on Thursday the right to privacy is a fundamental right protected by the Indian Constitution, in a potential setback to the government s push to mandate the use of Aadhaar, or unique ID numbers for a variety of routine tasks.
+Over a billion Indians have already registered for Aadhaar cards, which ascribe unique ID numbers, and record fingerprints and iris scans of each person.
+The database was originally set-up to streamline welfare benefit payments and reduce wastage.
+The current government however, has been keen to mandate the use of Aadhaar for everything from the filing of income taxes to the operating of one s bank accounts.
+Below is a timeline on the various Aadhaar developments: March 2006: India s Ministry of Communications and Information Technology approves a Unique ID (UID) scheme for poor families.
+December 2006: Empowered Group of Ministers (EGoM) constituted to collate two schemes -the National Population Register under the Citizenship Act, 1955 and the UID scheme.
+2007: At its first meeting, the EGoM recognizes need to create a residents database.
+This leads to the creation of Aadhaar.
+2009: The Unique Identification Authority of India (UIDAI) is created to issue unique identification numbers.
+Nandan Nilekani appointed the first chairman.
+December 2010: The National Identification Authority of India Bill, 2010 (NIAI Bill) introduced in Parliament.
+September 2011: Number of Aadhaar holders crosses 100 million.
+December 2011: Standing committee on Finance rejects NIAI Bill in initial form; recommends requirement of privacy legislation and data protection law before continuance of scheme.
+2012: Former High Court judge files petition contending that Aadhaar violates fundamental rights of equality and privacy.
+September 2013: Supreme Court passes interim order stating no person should suffer for not having an Aadhaar card.
+December 2013: The number of Aadhaar holders crosses 510 million March 2014: The Supreme Court revokes orders made by agencies demanding Aadhaar for welfare schemes.
+Court also forbids UIDAI from sharing information in the Aadhaar database with any agency without the individual s consent.
+December 2014: Number of Aadhaar holders crosses 720 million.
+August 2015: Three-judge bench of Supreme Court limits use of Aadhaar to certain welfare schemes, orders that no one should be denied benefits for lack of an Aadhaar card.
+It refers question of right to privacy as a fundamental right to a constitution bench.
+February 2016: Number of Aadhaar holders crosses 980 million.
+March 2016: Aadhaar (Targeted Delivery of Financial & Other Subsidies, Benefits & Services) Bill introduced as a money bill in the lower house of parliament.
+Bill passed by Parliament; receives presidential assent.
+January-March 2017: Various ministries make Aadhaar mandatory for welfare, pension, and employment schemes.
+Aadhaar made mandatory for filing of income tax returns.
+Aadhaar holders crosses 1.14 billion.
+[Data compiled from Software Freedom Law Centre and State of Aadhaar Report 2016-17]

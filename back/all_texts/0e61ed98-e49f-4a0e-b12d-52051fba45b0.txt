@@ -1,0 +1,31 @@
+Phoenix mayor Greg Stanton is calling on the United States Justice Department to investigate Arizona s fiasco election.As Arizona voters attempted to cast their votes during Tuesday s Presidential Preference election, thousands were forced to wait in line, sometimes for up to five hours.
+Those who were unable to wait, including thousands of voters with work, school and family commitments, as well as those with disabilities and other health problems, were forced to leave without casting a ballot.As Stanton points out in his letter to the Justice Department, Maricopa County officials drastically reduced the number of available polling sites, ahead of the 2016 election.
+Between 2008 and 2016, officials eliminated 85 percent of polling locations, leaving just 60 sites open, to serve a community of more than four million people.On Wednesday, community leaders and angry citizens took to the streets in protest of obvious voter suppression used in Maricopa County.
+// < !
+[CDATA[ // < !
+[CDATA[ // < !
+[CDATA[ (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&#038;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk')); // ]]&gt;Election protest in downtown PhoenixPosted by Marc Liverman on Wednesday, March 23, 2016Their complaints have not fallen on deaf ears.In his letter to the Justice Department, Stanton points out that the reduction in polling places primarily impacted Black and Latino communities.
+A prime example, in Phoenix, a community in which the majority of voters are Black and Latino, there was just one polling place for every 108,000 voters on Tuesday.On the other hand, primarily white communities like Cave Creek/Carefree, there was one polling site per 8,500 voters.
+The same holds true in other majority-white communities, including Paradise Valley, which had one polling location per 13,000 voters and Fountain Hills, where there was one polling site for every 22,500 voters.But that s just the beginning of the story.
+On Wednesday, Sondra Carr, a Phoenix resident posted an account of what she saw on election day in Maricopa County.
+After standing in line for hours, Carr and her son finally entered the polling station.Here s what she says happened next.When my son and I voted, there were SEVEN voting booths these were cardboard dividers for privacy.
+There were seven.
+Think about that there are seven of the very things that are needed to vote and look to cost about a dollar fifty, so I m sorry but I don t buy the idea I ve since heard that this was a money-saving decision.
+Why were there not more?
+But that didn t even matter because when my son and I entered, there were no other voters inside.
+When I walked up to the booths, there were no other voters in them and while I was voting, only my own son came to stand next to me.
+They were purposefully trickling people in, leaving two-thirds of the booths empty while 2000 people waited outside for hours.Thousands of others, who waited for hours to cast their vote, discovered that their party affiliation had somehow been changed on the voter registration rolls.
+These voters were either turned away altogether or forced to cast a provisional ballot.As Mayor Stanton also states, Arizona has long, documented history of throwing out provisional ballots.
+According to Stanton s letter, since 2006, Arizona officials have rejected more than 121,000 provisional ballots.
+That number does not include the thousands of voters who were improperly forced to vote by provisional ballot during the March 22 Presidential Preference Election.While election officials have attempted to cast blame on Independent voters, who they claim came out to vote in Tuesday s election even though they legally were barred from participating, there are two things wrong with this narrative.First, many people who have been registered democrats for years discovered that their party affiliation had been changed without their knowledge or permission.Second, the media, Arizona election officials and others also bear a large amount of blame for confusion on the part of independent voters, if they did indeed show up in record numbers at the polls.
+(There s no actual evidence that this even happened.
+)Arizona s Presidential Preference Election, which was held on March 22, is not the state s primary election.The state holds its primary election on August 30.
+The actual primary does not include presidential candidates.
+Anyone can vote in that election, including independent voters.The Presidential Preference Election is a closed election.
+Only registered members of a political party can participate in that election.So yes, independent voters can indeed vote in the state s primary.
+And no, Tuesday s Presidential Preference Election was not the state s primary.
+Independent voters were not allowed to participate in that election, which was consistently referred to as the Arizona primary, when it actually wasn t.Blaming voters for trying to vote is a disgusting tactic, especially given the confusing system and the horrifying lack of clarity from the media and election officials.Mayor Stanton spoke with KPNX on Wednesday.
+Watch the video below.
+The Phoenix mayor is not the only politician to criticize Tuesday s election fiasco.
+On Wednesday, Gov.
+Doug Ducey called the long lines and voter registration issues unacceptable, while also calling for changes to the state s closed Presidential Preference Election.Image credit: video screen capture via Marc Liverman on Facebook

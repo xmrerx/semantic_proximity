@@ -1,0 +1,22 @@
+WASHINGTON (Reuters) - The FBI is investigating suspected attempts to hack mobile phones used by Democratic Party officials as recently as the past month, four people with direct knowledge of the attack and the investigation told Reuters.
+The revelation underscores the widening scope of the U.S. criminal inquiry into cyber attacks on Democratic Party organizations, including the presidential campaign of its candidate, former U.S. Secretary of State Hillary Clinton.
+U.S. officials have said they believe those attacks were orchestrated by hackers backed by the Russian government, possibly to disrupt the Nov. 8 election in which Clinton faces Republican Party candidate Donald Trump.
+Russia has dismissed allegations it was involved in cyber attacks on the organizations.
+The more recent attempted phone hacking also appears to have been conducted by Russian-backed hackers, two people with knowledge of the situation said.
+Federal Bureau of Investigation representatives had no immediate comment, and a Clinton campaign spokesman said they were unaware of the suspected phone hacking.
+The Democratic National Committee (DNC) did not respond to a request for comment.
+An official of the Democratic Congressional Campaign Committee (DCCC) said that nobody at the organization had been contacted by investigators about possible phone hacking.
+Interim DNC Chairwoman Donna Brazile told CNN: “Our struggle with the Russian hackers that we announced in June is ongoing - as we knew it would be - and we are choosing not to provide general updates unless personal data or other sensitive information has been accessed or stolen.” FBI agents had approached a small number of Democratic Party officials to discuss concerns their mobile phones may have been compromised by hackers, people involved said.
+It was not clear how many people were targeted by the hack or whether they included members of Congress, a possibility that could raise additional security concerns for U.S. officials.
+If they were successful, hackers could have been able to acquire a wide range of data from targeted cellphones, including call data, text messages, emails, photos and contact lists, one person with knowledge of the situation said.
+“In a sense, your phone is your office brain,” said Bruce Schneier, a cyber security expert with Resilient, an IBM company, which is not involved in the investigation.
+“It’s incredibly intimate.” “Anything that’s on your phone, if your phone is hacked, the hacker can get it.” The FBI has asked some of those whose phones were believed to have hacked to turn over their phones so that investigators could “image” them, creating a copy of the device and related data.
+U.S. investigators are looking into whether hackers used data stolen from servers run by Democratic organizations or the private emails of their employees to get access to cellphones, one person said.
+Hackers previously targeted servers used by the DNC, the body that sets strategy for the party, and the DCCC, which raises money for Democrats running for seats in the House of Representatives, officials have said.
+Clinton said during Monday’s presidential debate there was “no doubt” Russia has sponsored hacks against “all kinds of organizations in our country” and mentioned Russian President Vladimir Putin by name.
+“Putin is playing a really tough, long game here.
+And one of the things he’s done is to let loose cyber attackers to hack into government files, to hack into personal files, hack into the Democratic National Committee,” Clinton said.
+Trump countered that there was no definitive proof that Russia had sponsored the hacks of Democratic organizations.
+“I don’t think anybody knows it was Russia that broke into the DNC,” he said.
+“It could be Russia, but it could also be China.
+It could also be lots of other people.”

@@ -1,0 +1,65 @@
+Watch Jill Stein explain why she s working to force a recount in 3 states that used to be Democrat strongholds:https://youtu.be/AjXjJ7R8uyUAs Ms. Stein starts in her answers during the CNN interview in the video above, Why would anyone not want to count the votes, and to be sure that they were counted accurately?
+What we know is that there were lots of hacks taking place around this election.
+Much of the equipment used is not only open to hacks, it basically invites hacks and malfeasance, tampering, human error, etc.
+Here are 10 reasons this is a horrible idea:1) The votes were counted with integrity.
+The real experts do not believe a recount is needed.
+As described by the Detroit Free Press, The report says the scientists believe they have identified a questionable trend of Clinton performing worse in Wisconsin counties that relied on electronic voting machines, compared to paper ballots and optical scanners.
+It wasn t clear from the reports why Michigan and Pennsylvania were reportedly cited by the scientists.Chris Thomas, the longtime director of Michigan s Bureau of Elections, said Michigan doesn t use the electronic voting machines identified in the report as being the sources of potential hacking.
+We are an entire paper and optical scan state, Thomas told the Free PressWednesday.
+Nothing is connected to the Internet.
+2) There s zero proof of any actual hacking, malware or illegal tampering with any votes in any of these states.
+The examples given in the report are hypothetical possibilities that were discussed well before the election, with known equipment limitations before this election took place.
+In Stein s own words: Let me be very clear: We do not have evidence of fraud, Stein says.
+We do not have smoking guns.
+What we do have is an election that was surrounded by hacking.
+3) Are politics the real motivation?
+If this recount were truly about the election s integrity and improving public confidence in the process, why not include recounts in New Hampshire and Nevada which were states that Clinton won with very narrow margins?
+In New Hampshire, Clinton won by 2,700 votes which is the smallest margin of victory in any state.
+In Nevada, the Hillary Clinton margin of victory was 26,000 votes far less than the Trump margin of victory in Pennsylvania.4) The threshold for a recount will likely not be reached in Pennsylvania.
+There would need to be evidence of widespread voter fraud for a court-ordered recount in PA. For example, A candidate can t actually file for a vote recount under Pennsylvania law.
+Instead, they would have to challenge a county board regarding its vote computations, and a state appeals judge would have to rule that a statewide recount is necessary.
+That means the Clinton campaign (or in this case Ms. Stein s team) would either have to request a recount by petition in every voting district or present a prima facie case showing voter fraud.
+(Prima facie is a lower threshold than beyond a reasonable doubt.
+A judge would just have to rule that fraud probably occurred in order to call for a recount.)
+However, Jill Stein said she does not have evidence of fraud.Further, as the article explains, What should be most troubling for Clinton supporters who want her to ask for a Pennsylvania recount is that in the past, these recounts have yielded a shift of just a couple hundred votes, certainly not enough to overturn anything in Pennsylvania.
+Clinton s team would have to rely on proving massive voter fraud enough for a Pennsylvania court to rule the entire state invalid an unprecedented and nearly impossible feat.5) People are giving millions of dollars to a cause that is a waste of their money, based upon many flawed assumptions, and some hopes and dreams that are unrealistic.
+No doubt these people want Hillary Clinton to win, and they see this as a longshot possibility.
+However, they are being deceived and misled based on generalities about election hacking risks that were known for many months prior to the election.Just because emails were hacked from Hillary Clinton s server or other emails accounts were hacked that related to the election does not in any way prove that voting machines were hacked or counts were tampered with in any state.
+To give false hope to these people is similar to collecting money to promise a white Christmas to the children in Miami.
+Some are even calling this a scam, although I would not go that far.
+This website points out:Then there is the fine print that will allow Stein s campaign to keep all of the money even if no recounts are done:We cannot guarantee a recount will happen in any of these states we are targeting.
+We can only pledge we will demand recounts in those states.
+If we raise more than what s needed, the surplus will also go toward election integrity efforts and to promote voting system reform.6) These recounts set up a dangerous precedent for future elections and potentially for many other areas of life where anyone can question any numbers based upon the view maybe there was a hack somewhere, somehow.
+Almost any data can be questioned using this type of superficial analysis.
+The thinking goes along the lines, if we turn over enough rocks, we re bound to find something, right?
+Yes one fear is that this actually gives all cybersecurity pros a bad name if/when experts make these type of claims with huge caveats which create numerous opportunities to deny responsibility.
+Is our new threshold a potential for hacking?
+If we use that litmus test in other areas of life, what can be excluded?Or, in J. Alex Halderman s own words, Were this year s deviations from pre-election polls the results of a cyberattack?
+Probably not.
+I believe the most likely explanation is that the polls were systematically wrong, rather than that the election was hacked.
+My reaction: Really?
+In that case, why did you go public?
+If I were to use that logic in any of my many cybersecurity roles regarding security incidents in government, I would be fired or at least sent back to reexamine the specific details before going public.
+Might this just be a PR stunt for these people to get more attention?7) The states involved have extensive certification processes and procedures which were followed.
+As I said back on Nov. 5, before we knew the election outcomes and when Hillary Clinton was leading in most of the polls, we should trust the vote for many reasons.
+I still believe this unless specific facts show otherwise.
+Anyone who clams fraud or other election problems needs to come forward with real evidence.
+Polls being wrong is not evidence of election fraud.8) A recount will NOT improve integrity or confidence in this election, as Jill Stein is claiming.
+Imagine if this process does move forward and a recount is begun in one more or states.
+Numerous global reporters will rush to the state(s) involved to watch the process unfold on live TV.
+While (hopefully) the coverage will not be quite as intense and exhausting as the Florida recount of 2000, the focus will dominate the news for weeks.
+We will hear assorted experts offer theories, opinions and select facts regarding what is going on and what they expect to happen next and if Hillary Clinton could actually become our next president and not Donald Trump.
+Rabbit trails will be followed.I suspect that this extensive scrutiny may actually lower, not raise, the level of confidence in these elections with no change in the overall outcome of the winner.9) Government resources will be diverted.
+Time energy, money, will be taken away from other government projects.
+Assuming the actual cost of the effort is paid by the money raised by Stein, government staff will still be required to be pulled off of other meaningful projects and priorities to complete the recount process.
+Just the coordination and project management will be immense, and there will an untold number of related impacts.As this article explains, the cost for paper ballot recounts in each precinct in Michigan will be $125 for Stein.
+Do you really think this total process can be completely done for $125 per precinct, with all government costs included?
+I think that extra money and time spent will come from somewhere else in government.10) The country will not move on to the important process of uniting, moving forward and focusing on governing with our next president of the United States.
+This effort is a major distraction and brings on more uncertainty at a time that we don t need it as a nation.
+Many on the right claim this recount effort is just coming from sore losers who can t admit defeat.
+I m not so sure, but whether you agree with that analysis or not, there is no doubt that these recounts will extend the election uncertainty for longer and fuel more anger.Final ThoughtsThe U.S. Department of Homeland Security under the Obama administration was helping state election teams in at least 46 states, and they have not come out and even implied any hacking of voter machines occurred.
+Don t you think that they would have raised red flags by now if they expected wrongdoing?Meanwhile, Jill Stein has every legal right to request these recounts, but that does not make it a smart (or the right) thing to do.
+These recounts will not have the results she is claiming.Worse than that, naming the Russians or pointing to (unknown) hackers as the reason for the recounts will open up governments to a plethora of current and future problems.
+We are witnessing a sad close to the 2016 presidential election, which is being driven by hypothetical hacking scenarios based on the lie that if pollsters didn t get the results they expected, someone must have been hacked.Finally, there is no doubt that all states need improvements to the voting machines used and the processes followed to count the votes.
+These improvements should begin immediately for upcoming elections in 2017 and beyond.
+Audits as described by Wired magazine make sense moving forward.Nevertheless, cybersecurity pros must be extra careful how often they cry hacked, and never throw in a maybe or perhaps to cover their tracks and deny accountability later.For entire story: Government Technology

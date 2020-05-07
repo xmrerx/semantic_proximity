@@ -1,0 +1,16 @@
+SAN FRANCISCO (Reuters) - Facebook Inc (FB.O) and Twitter Inc (TWTR.N), two of Silicon Valley’s most powerful companies, on Thursday backed Apple Inc’s (AAPL.O) refusal to help the FBI break into an iPhone used by a shooter in the San Bernardino attack, saying that complying would set a dangerous precedent for privacy.
+It took two days, but the companies’ entry solidifies a small but powerful band of tech giants supporting Apple in its quest to buck government demands that it says would irreparably damage security and erode consumer trust.
+Among the first to come to Apple’s defense was its chief rival.
+Chief Executive Officer Sundar Pichai of Alphabet Inc’s (GOOGL.O) Google tweeted in support of Apple on Wednesday.
+But other companies are staying mum.
+Yahoo Inc YHOO.O and Microsoft Corp (MSFT.O) have yet to weigh in on the case.
+In characteristic fashion, Twitter CEO Jack Dorsey used the service itself to lend support to Apple CEO Tim Cook, tweeting "We stand with @tim_cook and Apple (and thank him for his leadership)."
+(bit.ly/1RbfI5j) In a statement, Facebook said, “We will continue to fight aggressively against requirements for companies to weaken the security of their systems.” The case has intensified the rift between tech companies and law enforcement over the limits of encryption.
+And law enforcement groups have been vocal about their support for the Justice Department.
+Although some firms have remained silent, the industry is firmly on Apple’s side, said Aaron Levie, CEO of cloud-based storage provider Box Inc (BOX.N).
+“Companies choose to use their political capital when it is really important or relevant to them,” Levie said.
+“If individually pressed you would see the same message from essentially any Internet or hardware or enterprise software CEO or company, and that’s because the fundamental security model of our technology would break if you were to comply with this kind of order.” Levie said he unequivocally supports Cook’s stance.
+“The whole grounds on which Apple is standing on are just super important,” he said.
+At the center of the case is an iPhone used by Rizwan Farook, who along with his wife, Tashfeen Malik, killed 14 people and wounded 22 in a shooting rampage in San Bernardino, California.
+The young married couple sympathized with Islamic State militants, and government investigators want the data on the phone to learn more about their activities the day of the shooting and their contacts with either accomplices or Islamic State.
+Apple’s Cook had said the court’s demand threatened the security of Apple’s customers and had “implications far beyond the legal case at hand.”

@@ -1,0 +1,11 @@
+Everyone needs to read this letter (click HERE) from Apple s CEO Tim Cook to their customers before they chose sides in this issue If the FBI wins in its case against Apple to help it unlock the San Bernardino killer s iPhone 5C, it won t be long before the government forces Apple to turn on users iPhone cameras and microphones to spy on them, according to the company s head of services Eddy Cue.The FBI has demanded that Apple creates custom software that bypasses certain security features of the company s iOS to allow law enforcement to brute force the passcode of the gunman s iPhone 5C.But according to Apple, making the modifications necessary in this case would set a dangerous precedent in offering backdoors into users smartphones.Cue said to Univision: Someday they will want [Apple] to turn on [a user s] camera or microphone.
+We can t do that now, but what if we re forced to do that?
+Where will this stop?
+In a divorce case?
+In an immigration case?
+In a tax case?
+Some day, someone will be able to turn on a phone s microphone.
+That should not happen in this country.
+An exerpt from a letter to Apple customers from Apple CEO Tim Cook:The FBI may use different words to describe this tool, but make no mistake: Building a version of iOS that bypasses security in this way would undeniably create a backdoor.
+And while the government may argue that its use would be limited to this case, there is no way to guarantee such control.The FBI may use different words to describe this tool, but make no mistake: Building a version of iOS that bypasses security in this way would undeniably create a backdoor.
+And while the government may argue that its use would be limited to this case, there is no way to guarantee such control.The FBI is trying to access the locked iPhone of one of the San Bernardino killers and insists it needs Apple s due to the software protections built into iOS, which require Apple s unique signature.But security expert and NSA surveillance leaker Edward Snowden recently said that the FBI s assertions that only Apple has the capability to unlock the phone is respectfully, bullshit .Watch here:For entire story: The Guardian

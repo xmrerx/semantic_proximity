@@ -1,0 +1,9 @@
+WASHINGTON (Reuters) - The U.S. government on Tuesday issued a technical alert about cyber attacks it said are sponsored by the North Korean government that have targeted the aerospace, telecommunications and financial industries since 2016.
+The alert, from the FBI and Department of Homeland Security, said North Korean hackers were using a type of malware known as FALLCHILL to gain entry to computer systems and compromise network systems.
+The FBI and DHS had issued a warning in June that squarely blamed the North Korean government for a raft of cyber attacks stretching back to 2009 targeting media, aerospace and financial sectors, as well as critical infrastructure, in the United States and globally.
+Tuesday s alert included the publication of IP addresses the FBI said were linked to the hacking campaign and was intended to help private industry guard against the attacks.
+The FALLCHILL malware was described as providing hackers with wide latitude to monitor and disrupt infected systems.
+The malware typically gained access to systems as a file sent via other North Korean malware or when users unknowingly downloaded it by visiting sites compromised by the hackers.
+The new alert coincides with increasing tensions between Washington and Pyongyang over North Korea s missile tests.
+The previous warning, in June, said that North Korea would continue to rely on cyber operations to advance its military and strategic objectives.
+North Korea has routinely denied involvement in cyber attacks against other countries.

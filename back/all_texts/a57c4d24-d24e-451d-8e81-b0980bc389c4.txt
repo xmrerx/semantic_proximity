@@ -1,0 +1,11 @@
+WASHINGTON (Reuters) - Republicans in the U.S. Congress are moving to repeal regulations adopted by the Obama administration in October that would have subjected internet service providers to stricter scrutiny than websites to protect customers’ private data.
+Senator Jeff Flake of Arizona introduced a resolution on Tuesday backed by 34 other senators to undo the regulations under a provision that allows Congress to repeal recently approved federal regulations.
+Representative Marsha Blackburn of Tennessee, who chairs a House panel on telecommunications, introduced a companion measure on Wednesday.
+Republicans control both chambers of Congress.
+Last week, the U.S. Federal Communications Commission temporarily blocked some of the rules from taking effect, a victory for internet providers such as AT&T Inc (T.N), Comcast Corp (CMCSA.O) and Verizon Communications Inc (VZ.N).
+Consumer advocates opposed the FCC move.
+Under the rules, which were scheduled to take effect last Thursday, internet providers would need to obtain consumer consent before using precise geo-location, financial information, health information, children’s information and web- browsing history for advertising and internal marketing.
+FCC Chairman Ajit Pai, nominated by Republican President Donald Trump on Tuesday to serve a new five-year term, told a Senate panel on Wednesday that consumers would have privacy protections even without the Obama administration rules.
+Republican commissioners including Pai said in October the rules unfairly give websites like Facebook Inc (FB.O), Twitter Inc (TWTR.N) or Alphabet Inc’s Google unit (GOOGL.O) the ability to harvest more data than service providers and dominate digital advertising.
+The American Civil Liberties Union criticized Flake’s proposal to undo the rules.
+“With this move, Congress is essentially allowing companies like Comcast, AT&T, and Verizon to sell consumers’ private information to the highest bidder,” ACLU general counsel Neema Singh Guliani said.

@@ -1,0 +1,11 @@
+SAN FRANCISCO (Reuters) - U.S.
+Senator Ron Wyden pledged on Wednesday to fight legislation expected shortly in Congress that would limit encryption protection in American technology products.
+The proposal by Senators Richard Burr and Dianne Feinstein, the top Republican and Democrat on the Senate Intelligence Committee, would give federal judges authority to order technology companies to help law enforcement officials access encrypted data, according to sources familiar with the situation.
+“I believe weakening strong encryption puts at risk millions of Americans, families and communities from one end of the country to another,” Wyden told Reuters after his speech at the RightsCon digital rights conference in San Francisco.
+“This issue is as important as any that I’ve been involved in in my 15 years in the intelligence committee.” Asked if he would put a hold on the expected legislation, the Oregon Democrat, who is a leading privacy advocate, said: “I would do anything within my power as a United States senator to block any plan that weakens strong encryption.” His remarks followed a high-stakes confrontation between the U.S. Justice Department and Apple over a court order that the company provide access to an iPhone used by one of the assailants in a deadly shooting rampage last December in San Bernardino, California.
+The government said on Monday it unlocked the phone without Apple’s help and dropped its legal action.
+Apple and other technology companies strongly opposed the court order, saying anything that helps authorities bypass the security features of tech products will undermine security for everyone.
+Government officials have insisted that criminal investigations could be crippled without access to phone data, and both sides are gearing up for a fight in Congress.
+Wyden said he would revive a 2014 bill he introduced to block court attempts by U.S. law enforcement to undercut encryption as in the Apple case.
+Without such a measure, he said the FBI would try again to get a precedent allowing it to compel companies to hack their customers “as sure as night follows day.” Recalling his role in the successful fight to stop a copyright bill four years ago opposed by Internet companies, Wyden told the conference: “We can win this fight for security and liberty.
+I know it’s not going to be easy, but we have done it before.”

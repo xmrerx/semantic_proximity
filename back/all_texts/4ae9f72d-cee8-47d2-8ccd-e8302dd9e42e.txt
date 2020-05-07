@@ -1,0 +1,12 @@
+SYDNEY (Reuters) - A hacker stole non-classified information about Australia s Joint Strike Fighter program and other military hardware last year after breaching the network of a defense contractor, the defense industry minister said on Thursday.
+About 30 gigabytes of data was stolen in the cyber attack, including details of the Joint Strike Fighter warplane and P-8 Poseidon surveillance plane, according to a presentation on the hack by a government official.
+Fortunately the data that has been taken is commercial data, not military data ... it s not classified information, Defence Industry Minister Christopher Pyne told Australian Broadcasting Corporation (ABC) Radio.
+I don t know who did it.
+In a presentation to a conference in Sydney, an official from the Australian Signals Directorate (ASD) intelligence agency said technical information on smart bombs, the Joint Strike Fighter, the Poseidon maritime patrol aircraft and several naval vessels was stolen.
+The compromise was extensive and extreme, said the official, Mitchell Clarke, in an audio recording made by a ZDNet journalist and broadcast by the ABC.
+Clarke said the attacker accessed the small contractor s systems for five months in 2016, and the methodical, slow and deliberate, choice of target suggested a nation-state actor could be behind the raid.
+Australia has agreed to buy 72 Lockheed Martin Corp Joint Strike Fighter planes.
+A spokesman for the Australian Cyber Security Centre (ACSC), a government agency, said the government would not release further details about the cyber attack.
+The ACSC said in a report on Monday that it responded to 734 cyber attacks on systems of national interest for the year ended June 30, and the defense industry was a major target.
+The attack on the defense contractor was carried out by a malicious cyber adversary , it said.
+In 2016 the agency said it responded to 1,095 cyber attacks over an 18-month period, including an intrusion from a foreign intelligence service on the weather bureau.

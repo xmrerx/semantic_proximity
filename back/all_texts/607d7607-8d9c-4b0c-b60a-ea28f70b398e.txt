@@ -1,0 +1,33 @@
+WASHINGTON (Reuters) - President-elect Donald Trump’s transition team has not announced a point person dedicated to cyber security policy or staffing in his administration, an omission that could make the United States more vulnerable to threats and worsen a government cyber talent shortfall, current and former national security officials said.
+They and multiple sources involved with the Trump transition organization said they were unaware of any person in the Trump orbit who is dealing specifically with cyber security, and that there has been minimal contact with federal agencies.
+The apparent lack of expertise or prioritization coincides with U.S. intelligence agencies, including the CIA, having pivoted to digital warfare to address the growing national security and economic threats that nation-states and extremist groups pose in cyberspace.
+In response to a request for comment, a Trump spokeswoman referred to a cyber-security “vision” on Republican Trump’s campaign website, which calls for an immediate review of U.S. cyber defenses and vulnerabilities and lists high-profile hacks as “key issues” without further explanation.
+It did not mention cyber attacks on Democratic Party political organizations during the election campaign that the U.S. government said were carried out by Russia to interfere with the Nov. 8 vote.
+Trump praised WikiLeaks for publishing leaked emails from his opponent Hillary Clinton’s campaign and also questioned whether Russia was responsible for the hacks.
+A former National Security Agency (NSA) official who reviewed the “vision” statement said it was short on detail.
+Kellyanne Conway, a senior advisor to Trump who managed his campaign, told reporters in the lobby of Trump Tower Wednesday that reports of a rocky transition process were false.
+“You don’t form a federal government overnight,” she said.
+The ousting of former Republican lawmaker Mike Rogers from Trump’s transition team on Tuesday left a void of expertise on cyber and intelligence matters for the president-elect, officials said.
+Rogers, who chaired the House Intelligence Committee while in Congress was talked about in Washington as a potential CIA Director or Director of National Intelligence.
+Former Defense Intelligence Agency Director Michael Flynn and retired lieutenant general Ronald Burgess are part of Trump’s transition team.
+They were focused on intelligence and security matters, according to a Trump team document that has circulated among Washington trade and lobbying organizations in the week since the New York businessman’s stunning election victory.
+Flynn is a contender to be the next Director of National Intelligence or White House National Security Adviser, according to people close to him and multiple media reports.
+A less likely possibility, according to the people, is Flynn would be named head of the National Security Agency.
+But neither Flynn nor Burgess are experts on cyber security, nor have they indicated an interest in the subject to Obama administration officials, sources close to the Trump and Obama teams said.
+The federal government has struggled for years to keep pace with the rising need for cyber talent.
+A July memo from the White House’s Office of Management and Budget found a critical shortage of talent across the country was worsened in government, caused in part by an inability to compete with lucrative salaries in the private sector.
+James Norton, a former George W. Bush administration official who helped set up the Department of Homeland Security’s first cyber security team, said that Trump’s transition team may be waiting to move forward on the issue until after cabinet-level security posts are filled.
+“Cyber will be a priority,” said Norton, now president of Washington-based consulting firm Play-Action Strategies LLC.
+“There’s a little bit of fog, but I think that will clear once the names of the nominees are out.” But finding and retaining qualified technical people to serve in government may become even more difficult under a Trump presidency because of disagreements with his policies and politics, three former national security officials said.
+The president-elect’s bombastic statements on the campaign trail frequently alarmed tech companies and at times elicited public mockery, such as when Trump called for closing off parts of the Internet to limit militant Islamist propaganda or urged his supporters to boycott Apple when it refused to help the FBI unlock an iPhone tied to one of the San Bernardino, Calif., shooters.
+Susan Hennessey, a former attorney in the office of the general counsel at the NSA, said she has been urging people in the intelligence community to keep working in Trump’s administration because their expertise will be necessary to protect the country and resist potential abuses of executive power on issues such as surveillance.
+“In candor, I’m sad to be asking former colleagues whom I respect to consider setting aside their conscience in order to serve their country,” said Hennessey, who now serves as managing editor of the national security blog Lawfare.
+“I can’t and don’t blame anyone who feels they can’t stay.” A current national security official who has been approached by the Trump transition team said all or most political appointees in the Obama administration are expected to be sent packing after Trump’s inauguration on Jan. 20.
+He predicted that as much as five to 10 percent of the federal workforce also might leave.
+Richard Clarke, a former senior White House advisor on counterterrorism and cyber security in both the Bill Clinton and George W. Bush administrations, said Trump’s election presents an opportunity to civil servants to help shape or resist the president-elect’s opinion on policy matters.
+He said many of the same concerns about Trump existed within the federal bureaucracy when former President Ronald Reagan was elected in 1980.
+“These people like Reagan and Trump are not well-grounded in policy,” Clarke said.
+“They don’t have a lot of firm beliefs that stem from years of analysis and experience,” Clarke told Reuters.
+“You can change their mind if you do it subtly, if they trust you.
+And you may not even know you’ve changed their mind, because they don’t know what their mind is.” Some parts of government are more effective than others at “slow-rolling” the president’s impulses, Clarke said.
+But “you can’t slow-roll work that needs to be done,” such as improving cyber security and addressing cyber threats, he said.

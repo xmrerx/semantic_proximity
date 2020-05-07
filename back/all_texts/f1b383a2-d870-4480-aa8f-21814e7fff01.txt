@@ -1,0 +1,13 @@
+21st Century Wire says It s been almost two years since the cloud storage provider Dropbox appointed former Secretary of State Condoleezza Rice to its board.
+A move Edward Snowden, at the time, called hostile for data privacy.
+Snowden s comments on the matter first appeared in a video interview conducted by the Guardian, and were published in a July 17, 2014 article: Dropbox is a targeted you know wannabe PRISM partner, he told the Guardian.
+They just put Condoleezza Rice on their board who is probably the most anti-privacy official you can imagine.
+She s one of the ones who oversaw Stellar Wind and thought it was a great idea.
+So they re very hostile to privacy.
+PRISM: The NSA s data collection surveillance program that every citizen should know about.
+PRISM and Stellar Wind were both approved and implemented during President George W. Bush s administration.
+(Image: (c) Adam Hart-Davis)Dropbox and other popular cloud storage providers hold the encryption keys to hand over to the NSA should a request for your data be approved.Snowden endorses zero knowledge systems.
+In layman s terms, this means that cloud storage providers NOT hostile to data privacy don t just encrypt your data, but actually host your data without their ability to access it ever.
+They have zero knowledge of the contents of your data.
+It s a big distinction, but one easily missed by a public inundated with confusing doublespeak on data privacy.Snowden adds that s the only way they can prove to the customers that they can be trusted with their information, and makes specific reference to one cloud company, SpiderOak, as a provider of zero knowledge systems.
+READ MORE SCI-TECH NEWS AT: 21st Century Wire Sci-Tech FilesSEE ALSO: 21st Century Wire NSA Files

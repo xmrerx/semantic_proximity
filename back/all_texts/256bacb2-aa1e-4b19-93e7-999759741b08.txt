@@ -1,0 +1,12 @@
+ISTANBUL (Reuters) - Turkish prosecutors said on Wednesday they will review legal cases against 11,480 people after finding they had been re-directed unwittingly to a messaging app linked to suspects in last year s failed coup.
+Turkey has so far identified 215,000 users of the messaging app ByLock, which was believed to be used by supporters of a U.S.-based cleric blamed for the failed July 2016 coup attempt.
+It launched investigations against more than 23,000 of them.
+But on Wednesday the Ankara prosecutor s office said many of them had been re-directed to ByLock without their knowledge or consent, after downloading a different app which had functions for prayer times and music.
+As a result of a detailed examination, it has been determined that 11,480 GSM number users with similar properties in terms of connection data parameters were unwittingly re-directed to ByLock IPs, it said.
+State-run Anadolu news agency quoted Ankara chief prosecutor Yuksel Kocaman as saying that he would ask for nearly 1,000 people to be released unless there was other evidence against them.
+He said an arrest warrant had been issued for the developer of the other app which had re-directed users to ByLock.
+Authorities say ByLock was widely used by followers of U.S.-based cleric Fethullah Gulen, who the government blames for orchestrating the failed military coup in which 250 people were killed.
+Gulen has denied any involvement.
+Since the coup attempt, more than 50,000 people, including civil servants and security personnel, have been jailed pending trial and some 150,000 suspended or dismissed from their jobs.
+Rights groups say the crackdown has been exploited to muzzle dissent.
+The government says the measures have been necessary due to the security threats which Turkey has faced since the putsch.

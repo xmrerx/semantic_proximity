@@ -1,0 +1,13 @@
+WASHINGTON (Reuters) - U.S.
+Homeland Security Secretary John Kelly on Tuesday said he backed a decision in the Obama administration’s final days to designate elections systems as critical infrastructure in order to boost their cyber defenses, after the government concluded Russian hackers tried to influence the 2016 presidential race.
+Some conservative states, such as Georgia, had expressed concerns that the Obama administration move amounted to a federal takeover of elections traditionally run by state and local governments.
+The designation means voting machines, voter registration systems, polling places and other assets important to holding elections are eligible for priority cyber-security assistance from the Department of Homeland Security (DHS).
+“I believe we should help all of the states ... to make sure that their systems are protected in future elections,” Kelly told the U.S. House of Representatives’ Committee on Homeland Security in response to a question from Democratic U.S. Representative Cedric Richmond.
+“I would argue that, yes, we should keep that in place.” Last month, two weeks before then-President Barack Obama, a Democrat, left office, DHS said it was designating state election systems part of the nation’s critical infrastructure, a move that broadened the options the federal government has to protect voting equipment from cyber attacks.
+Other sectors considered critical infrastructure include communication and transportation systems, the banking industry and the energy grid.
+The 2016 presidential campaign was marred by the hacking and subsequent leaking of Democratic emails that U.S. intelligence agencies concluded were carried out by Russia in order to help now-President Donald Trump, a Republican, win.
+U.S. officials determined Russian hackers also targeted more than 20 states’ voter registration systems during the election but that there was no evidence that tallies were altered when ballots were cast on Nov. 8.
+Some Republican-controlled states had argued against the change, saying elections in the United States have always been carried out by state and local officials and that the federal government should not play a direct role in them.
+Separately on Tuesday, Republicans on the House Administration Committee voted to eliminate the federal Election Assistance Commission, which is charged with ensuring that voting machines meet security standards.
+The commission was itself penetrated by a Russian-speaking hacker last year after the Nov. 8 U.S. elections, according to security firm Recorded Future.
+The full House and the U.S. Senate would need to pass the legislation in order for it to become law.

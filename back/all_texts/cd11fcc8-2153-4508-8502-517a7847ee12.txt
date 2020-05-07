@@ -1,0 +1,11 @@
+WASHINGTON (Reuters) - The U.S. House of Representatives’ information technology team this week reinstated access on its internet network to software applications hosted on a Google cloud service after the company addressed potential security fears, according to an email seen by Reuters.
+Yahoo Mail remains inaccessible, however, and has been blacklisted since the House Information Security Office said in an April 30 memo it had detected an increase of ransomware attacks on the network.
+The two restrictions were not related, but came within days of each other and made some communication among lawmakers and their staff more difficult, several congressional aides said.
+Devices connected to the House’s internet via Wi-Fi or ethernet cables were barred from accessing appspot.com, the domain where Alphabet Inc’s Google hosts custom-built apps, on May 3 due to concerns about a potential security vulnerability identified publicly by the FBI in June 2015.
+“Based on Google’s corrective actions of removing suspicious applications from appspot.com, InfoSec has unblocked access to appspot.com on the House Network,” an email sent by the House’s technology service desk on Monday said.
+It is unclear if that apparent appspot.com flaw caused any damage or presented any actual threat.
+The House Information Service Office did not respond to a request for comment.
+In a statement, a Yahoo spokesperson said it had been working with the House’s technology staff to address their questions.
+“Unfortunately, we have been disappointed that they have not moved as quickly on recommended changes that would better protect its employees” the spokesperson said.
+Two individuals fell victim to ransomware by clicking on infected Word document email attachments, sources familiar with the hacking said.
+The infected files were able to be recovered without paying any ransom, sources told Reuters last week.

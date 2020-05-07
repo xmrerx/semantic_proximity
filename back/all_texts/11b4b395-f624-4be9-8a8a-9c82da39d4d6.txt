@@ -1,0 +1,14 @@
+WASHINGTON (Reuters) - Kentucky Senator Rand Paul plans to become the first Republican co-sponsor of legislation to block a pending judicial rule change that would let U.S. judges issue search warrants for remote access to computers located in any jurisdiction, his office told Reuters on Thursday.
+The bill is expected to be introduced next week.
+Backing from Paul, a former Republican candidate for president with libertarian leanings, lends bipartisan support to an effort to undo a little-noticed modification to a text governing procedural rules for the U.S. court system that civil liberties groups warn would drastically expand the FBI’s hacking authority.
+So far, that cause has largely been championed solely by Ron Wyden, an Oregon Democrat and digital privacy advocate.
+He has vowed to work to stop the rule change on grounds it would allow the government to use one warrant to access and search thousands or millions of computers at once, potentially implicating those suspected of no wrongdoing.
+Magistrate judges can normally only order searches within the jurisdiction of their court, which is typically limited to a few counties.
+But last month the Supreme Court, in a private vote, approved the amendments to Rule 41 of the federal rules of criminal procedure, which would permit judges to issue warrants in cases when a suspect uses anonymizing technology to conceal the location of his or her computer or for an investigation into a network of hacked or infected computers, such as a botnot.
+Congress has until December 1 to pass legislation that would reject, amend or postpone the changes to Rule 41.
+If lawmakers do nothing, which is customary in these circumstances, the changes automatically will take effect.
+The U.S. Justice Department, which is pushing for the rule change, has described it as a procedural tweak needed to modernize the criminal code, and has said it would not permit searches that are not already legal.
+Alphabet Inc’s Google has warned the change poses a “monumental” threat to the Constitution’s protections against unreasonable searches and seizures.
+Last year Paul and Wyden worked together to force a temporary expiration of the USA Patriot Act, which led to passage of surveillance reforms that pared backed the National Security Agency’s controversial bulk collection of U.S. call records.
+Other lawmakers are also examining Rule 41.
+Republican Senator Mike Lee is looking at ways to address concerns, a spokesman said, and a small group of lawmakers in the House are weighing introduction of companion legislation, sources said.

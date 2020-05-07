@@ -1,0 +1,18 @@
+(Reuters) - A divided federal appeals court on Tuesday gave the U.S. Department of Justice broad leeway to police password theft under a 1984 anti-hacking law, upholding the conviction of a former Korn/Ferry International executive for stealing confidential client data.
+The 9th U.S.
+Circuit Court of Appeals in San Francisco said David Nosal violated the Computer Fraud and Abuse Act in 2005 when he and two friends, who had also left Korn/Ferry, used an employee’s password to access the recruiting firm’s computers and obtain information to help start a new firm.
+Writing for a 2-1 majority, Circuit Judge Margaret McKeown said Nosal acted “without authorization” even though the employee, his former secretary, had voluntarily provided her password.
+The defendant had by then been working as an independent contractor for Korn/Ferry.
+Nosal and his friends had previously had their own log-in credentials revoked.
+Nosal’s case has been closely watched by digital privacy groups worried that it could make it easier to prosecute people for ordinary password sharing, such as when a husband logs into his wife’s Facebook account with her credentials and permission.
+“The court is criminalizing conduct that ordinary Americans do every day online,” Jamie Williams, a lawyer for the Electronic Frontier Foundation, which supported overturning Nosal’s conviction, said in an interview.
+Dennis Riordan, a lawyer for Nosal, said in a statement he will ask an 11-judge appeals court panel to review the decision.
+A spokesman for the Justice Department declined to comment.
+Nosal had been appealing his April 2013 jury conviction and one-year prison sentence for violating the CFAA and for trade secret theft under the Economic Espionage Act.
+The appeals court on Tuesday upheld Nosal’s conviction under the EEA.
+It also ordered a recalculation of his $827,983 of restitution to Korn/Ferry to reconsider the legal fee component.
+Circuit Judge Stephen Reinhardt dissented.
+He said the majority’s reasoning could cover the sharing of passwords to devices such as smartphones, laptops and iPads, and transform “millions of people who engage in this ubiquitous, useful, and generally harmless conduct into unwitting federal criminals.” McKeown, however, said this approach ignored reality and could enable criminals to escape prosecution after they found obliging employees willing to “willy-nilly give out passwords.” The appeals court had in April 2012 dismissed other counts accusing Nosal of CFAA violations.
+The case is U.S. v. Nosal, 9th U.S.
+Circuit Court of Appeals, No.
+14-10037.

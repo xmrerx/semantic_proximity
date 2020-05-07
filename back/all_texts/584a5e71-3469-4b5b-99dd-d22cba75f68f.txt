@@ -1,0 +1,11 @@
+WASHINGTON (Reuters) - Four Republican members of Congress on Monday urged U.S. auto safety regulators to convene an industry-wide effort to prevent possible attacks on computer systems in vehicles.
+The lawmakers addressed their concerns in a letter to the U.S. National Highway Traffic Safety Administration.
+While there have been no reported cases of vehicle hacking, researchers have shown they could take remote control of vehicle functions such as car horns, brakes and power steering.
+The letter cited work published in August by Wired magazine by two researchers who were able to force a Fiat Chrysler Automobiles NV 2014 Jeep SUV to perform in an “erratic and unsafe manner” after accessing its on-board diagnostics (OBD) port.
+Automakers have been required to install the port in all vehicles since 1994 to test for emissions compliance.
+The letter from Representative Fred Upton, a Michigan Republican who chairs the House Energy and Commerce Committee, and three others said the port “as it currently exists creates a growing risk to the safety and security of passengers.” Fiat Chrysler said in August the demonstration published by Wired required “a computer to be physically connected into the vehicle’s” port.
+The company emphasized that owners should “not connect any unknown or untrusted devices to the OBD port.” NHTSA didn’t immediately comment on the letter.
+The safety agency has said it plans to release cybersecurity guidelines to the auto industry in the coming weeks.
+The U.S. government is taking the issue seriously.
+On Friday, the U.S. Justice Department said it has formed a threat analysis team to study potential national security challenges posed by self-driving cars, medical devices and other internet-connected tools.
+The Federal Bureau of Investigation and NHTSA issued a bulletin in March warning that motor vehicles were “increasingly vulnerable” to hacking.

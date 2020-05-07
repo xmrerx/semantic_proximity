@@ -1,0 +1,19 @@
+BERLIN (Reuters) - A top leader of German Chancellor Angela Merkel s conservative party said her website had been hit by thousands of cyber attacks many from Russian IP addresses before Sunday s televised election debate.
+German intelligence and government officials have often voiced concerns that Moscow could seek to interfere in the Sept. 24 national election, in which Merkel is widely expected to win a fourth term.
+Russia has repeatedly denied trying to influence foreign elections.
+Julia Kloeckner, vice chairman of Merkel s Christian Democratic Union (CDU), said on Monday that her political website had seen some 3,000 attacks on Sunday before the debate between Merkel and Social Democratic leader Martin Schulz.
+Following a pattern seen in earlier hacks, the CDU s headquarters in the state of Rhineland-Palatinate, where Kloeckner is the party s leader, also experienced massive attacks ahead of the debate, she said.
+Many of the senders have Russian IP addresses, Kloeckner added.
+German authorities have blamed a spate of cyber attacks directed at the German parliament, individual lawmakers, political parties and political think-tanks since summer 2015 on APT 28, a Russian hacker group with links to Moscow.
+Kloeckner did not say how the attacks had been discovered or what form they had taken.
+Many recent cyber attacks targeted at German politicians and institutions have used phishing schemes that include attachments with malicious software.
+Germany s BSI federal cyber protection agency said it was aware of the incidents and was in touch with the CDU headquarters in the state, a spokesman said.
+Officials with the headquarters of the CDU and the Social Democrats, junior partners in the ruling coalition, said they had not seen a wave of similar attacks on their websites.
+Hans-Georg Maassen, the head of Germany s BfV domestic intelligence agency, told reporters in July that Berlin expected Russia to try to influence this month s election and said he suspected that Russian President Vladimir Putin would prefer a different German chancellor than Merkel.
+Merkel backs continued sanctions against Russia for its actions toward Ukraine.
+Relations between Germany and Russia have been cool in recent years, although Germany is highly dependent on energy supplies from Russia.
+A spokesman for the German interior ministry told a news conference on Monday that cyber attacks directed at political parties had increased generally in recent months, but declined to comment on the latest incidents.
+He noted the BSI had been working closely with politicians and parties to increase security.
+Experts said hackers were increasingly going after subsidiary sites such as those of local party branches in the hope of finding vulnerabilities.
+Tyson Barker, program director of the Aspen Institute Deutschland think-tank, said the attacks on a state-level CDU party infrastructure continued a pattern of hackers probing for potential weak links in the broader political system.
+The main battle front in this hybrid war in the U.S. as in Germany will likely be in the states, not Berlin or Washington, said Barker, adding: Those who thought Russian intelligence was going to sit this one out seem to have been proven wrong.

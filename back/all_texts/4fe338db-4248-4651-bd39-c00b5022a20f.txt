@@ -1,0 +1,57 @@
+Will this FINALLY be the straw that breaks the camel s back?
+Wow and it s not even October yet!
+Things are not looking good for #CrookedHillary The House Oversight Committee is reviewing a Reddit post that alleges an IT specialist who worked on Hillary Clinton s private server sought advice on how to alter the contents of VERY VIP emails, according to Rep. Mark Meadows (R-N.C.).Meadows is the chairman of the panel s Government Operations subcommittee.
+The Reddit post issue and its connection to Paul Combetta is currently being reviewed by OGR staff and evaluations are being made as to the authenticity of the post, Meadows told The Hill.
+Reddit users appear to have uncovered a two-year-old post from an account believed to belong to Combetta, an engineer with Platte River Networks.
+The Denver, Colo.-based firm managed Clinton s private server.The Reddit Archives that are allegedly Combetta s, can be found near end of article.
+Combetta was granted immunity from Obama s Department of Justice in their investigation of Clinton.Combetta was the employee who deleted all of Hillary Clinton s emails.According users on Reddit, Combetta asked for assistance in July 2014 from Reddit users on how to purge emails and how to strip VIP s email address from a bunch of archived emails.
+-GPhttps://twitter.com/juliangwan/status/778006379596509184The post, which has been deleted but can be read in images archived by Reddit users, coincides with the discovery of Clinton s use of the server.Busted:Proof of Intent to Obstruct Justice 2 Years Ago from #HillarysHackerReddit Post Reveals.
+pic.twitter.com/aVgdV8gDla The Truther (@4evertruther) September 19, 2016 I may be facing a very interesting situation where I need to strip out a VIP s (VERY VIP) email address from a bunch of archived email Basically, they don t want the VIP s email address exposed to anyone, and want to be able to either strip out or replace the email address in the to/from fields in all of the emails we want to send out, reads the post, by a user called stonetear.
+Does anyone have experience with something like this, and/or suggestions on how this might be accomplished?
+Here is the Twitter user who uncovered Combetta s requests for help on Reddit:SMOKING GUN: "BleachBit" Paul Combetta ASKED TO STRIP OR REPLACE VIP's EMAIL ADDRESS!
+https://t.co/nz13MqzWth #MAGA pic.twitter.com/qQII96JI76 Katica (@GOPPollAnalyst) September 19, 2016Here she is discussing her find:Great job!
+That's some damned good sleuthing, you should give the FBI some lessons.
+Girl_Grimly (@ed_grimly) September 19, 2016Thank you!!!
+I'm studying law (MS) with concentrations in eDiscovery/eLitigation, but close!
+I have amazing professors.
+https://t.co/baaz6PqJaw Katica (@GOPPollAnalyst) September 19, 2016Wikileaks cheered Katica s good work on Twitter, and she was thrilled:This is so awesome to be to have @wikileaks on this.
+*swoon* https://t.co/CfXpo8PctY Katica (@GOPPollAnalyst) September 20, 2016Combetta is currently one of the targets of a broader Oversight investigation on whether Clinton ordered the destruction of emails that had been subpoenaed by the Benghazi Select Committee.
+If it is determined that the request to change email addresses was made by someone so closely aligned with the Secretary s IT operation as Mr. Combetta, then it will certainly prompt additional inquiry, Meadows told The Hill.
+The date of the Reddit post in relationship to the establishment of the Select Committee on Benghazi is also troubling.
+The Reddit message was sent on July 23, 2014, according to an archive of the page saved by other users.
+The day before, the Benghazi Committee had reached an agreement with the State Department on the production of related records, according the FBI s investigation into Clinton s use of the server.The identity of the stonetear user is not confirmed.
+Reddit users point to the fact that an account on the online marketplace Easy for a Paul Combetta has the username stonetear and the inactive website combetta.com is registered to the email address stonetear@gmail.com.Combetta appeared under subpoena in a committee hearing last week on the alleged destruction of evidence, but both he and colleague Bill Thornton exercised their Fifth Amendment right not to testify.borismkv: There is no supported way to do what you re asking.
+You can only delete emails after they re stored in the database.
+You can t change them.
+If there was a feature in Exchange that allowed this, it could result in major legal issues.
+There may be ways to hack a solution, but I am not aware of any.
+permalinkembedsavegive goldstonetear: As a PST file or exported MSG files, this could be done though, yes?
+The issue is that these emails involve the private email address of someone you d recognize, and we re trying to replace it with a placeholder address as to not expose it.exproject: To my knowledge, there s no way to edit existing messages, that s a possibility for a discovery nightmare.
+To strip/rename on outbound/inbound you could rewrite it with a transport rule.stonetear: That wouldn t work on existing messages though right?odoprasm: Is there no way to access and edb manually?stonetear: I have full access to the server what are you suggesting with the EDB file?stonetear: I think maybe I wasn t clear enough in the original post.
+I have these emails available in a PST file.
+Can I rewrite them in the PST?
+I could also export to MSG and do some sort of batch find/replace.
+Anyone know of tools that might help with this?exproject: Just because you have the messages available in multiple formats and locations doesn t change that it s an attribute of the envelope not meant to be rewritten.
+The functionality is just not built into any tool I know of.
+Having that functionality would create the ability to screw with discovery (I mean, there could be mitigation with versioning, but that would need other configuration) While it may not be a read-only part of the envelope(I m not actually sure), the only tool that MIGHT be able to do what you want is MFCMapi, and I don t think you want to play with that for this job.
+The chance of getting it wrong would be pretty high I think and it is not a particularly friendly tool.
+I m not sure it could be scripted with it either.
+My recommendation would be what /u/borismkv said.
+Making a mailbox for VIP and telling them to use that.
+Forwarding to VIPs mailbox would be ripe for them to just respond directly instead of responding through his relay mailbox.
+As for your existing messages, if the current users absolutely cannot see the existing messages, you ll need to do a search and export and just forcibly remove the messages from their mailboxes.
+It s not clean and not advised by me, but if they don t want VIPs address out there it will need to be removed.
+I would do a search with his email address as the query with -LogOnly -LogLevel Full and see what kind of results you get.EDIT: Holy shit they actually deleted all their comments from a 2 year old reddit post, I think we hit gold on this one.
+Archive.is link of the deleted reddit postCan somebody make sure we have the twitter posts archived too?
+I really don t trust twitter to keep those up.
+Gateway PunditHere is the ARCHIVE of the messages that were deleted on Reddit.UPDATE: Here s a screengrab of the archived pictures from Reddit:The committee has scheduled another hearing on the preservation of State Department records for Thursday.Oversight Chairman Jason Chaffetz (R-Utah) has issued a criminal referral asking the U.S. attorney for the District of Columbia to investigate deletions from the server.This latest probe stems from revelations from the 58-page report issued by the FBI summarizing its investigation into Clinton s use of the server.According to the FBI s report, an unnamed Platte River Networks technician deleted an archive of emails from the server in March 2015 after the House Select Committee on Benghazi had issued a subpoena for records relating to the 2012 attack on the Libyan outpost.According to the FBI s notes, longtime Clinton aide Cheryl Mills instructed Platte River Networks to delete a set of archived emails in December 2014.
+Mills told investigators Clinton had decided she no longer needed access to emails older than 60 days.But the technician apparently forgot the request and didn t immediately comply.
+According to the FBI report, between March 25 and March 31 of 2015, the technician believed he had an oh shit moment and deleted the Clinton archive mailbox from the [Platte River Networks] server.
+Reporting from The New York Times has since identified Combetta as that technician, citing an anonymous law enforcement official and others familiar with the FBI probe.Clinton and Mills told the FBI that they had no knowledge of the technician s deletion of the emails.
+The technician, according to the report, was aware of the existence of the [Benghazi Committee] preservation request and the fact that it meant he should not disturb Clinton s email data on the [Platte River Networks] server.
+The HillFrom Representative Steven Smith:BREAKING: Citizen Journalist breaks HUGE Clinton email story PROVING Hillary ORDERED EMAILS TO BE STRIPPED!
+#MAGA https://t.co/m5fYUmibpT Rep. Steven Smith (@RepStevenSmith) September 19, 2016Rep.
+Steven Smith posted this on Monday morning.
+BREAKING: Citizen Journalist breaks HUGE Clinton email story PROVING Hillary ORDERED EMAILS TO BE STRIPPED!
+"The issue is that these emails involve the private email address of someone you'd recognize."
+WOW!#HillarysHacker pic.twitter.com/j9fDrm4HGU Mike Cernovich (@Cernovich) September 20, 2016

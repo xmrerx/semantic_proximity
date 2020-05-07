@@ -1,0 +1,14 @@
+WASHINGTON (Reuters) - An effort in the U.S. Senate to expand the Federal Bureau of Investigation’s authority to use a secretive surveillance order has delayed a vote on a popular email privacy bill, casting further doubt on whether the legislation will become law this year.
+The Senate Judiciary Committee on Thursday postponed consideration of a measure that would require government authorities to obtain a search warrant before asking technology companies, such as Microsoft and Alphabet Inc’s Google , to hand over old emails.
+A version of the Senate bill unanimously passed the House last month.
+Currently, federal agencies do not need a warrant to access emails or other digital communications more than 180 days old due to a provision in a 1986 law that considers them abandoned by the owner.
+But Republican party senators offered amendments Thursday that privacy advocates argued contravened the purpose of the underlying bill and would likely sink its chances of becoming law.
+Those amendments include one by Senator John Cornyn, the second ranking Republican in the Senate, that would broaden the FBI’s authority to deploy an administrative subpoena known as a National Security Letter to include electronic communications transaction records such as the times tamps of emails and their senders and recipients.
+Senators Patrick Leahy and Mike Lee, the Democratic and Republican authors of the email privacy bill, agreed to postpone the vote to give time to lawmakers to review the amendments and other provisions of the bill that have prompted disagreement.
+NSLs do not require a warrant and are almost always accompanied by a gag order preventing the service provider from sharing the request with a targeted user.
+The letters have existed since the 1970s, though the scope and frequency of their use expanded greatly after the Sept. 11, 2001 attacks on the United States.
+In 2015 requests for customer records via NSLs increased nearly 50 percent to 48,642 requests, up from 33,024 in 2014, according to a U.S. government transparency report.
+The Obama administration has for years lobbied for a change to how NSLs can be used, after a 2008 legal memo from the Justice Department said the law limits them largely to phone billing records.
+FBI Director James Comey has said the change needed essentially corrects a typo.
+The Senate Intelligence Committee this week passed a bill to fund the U.S. intelligence community that contains a similar provision that would allow NSLs to be used to gather email records.
+Senator Ron Wyden, an Oregon Democrat, voted against the proposal and said it “takes a hatchet to important protections for Americans’ liberty.”

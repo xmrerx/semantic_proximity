@@ -1,0 +1,14 @@
+WASHINGTON (Reuters) - Legislation that would require law enforcement to obtain a search warrant before asking technology companies to hand over old emails unanimously moved forward in the U.S. House of Representatives on Wednesday, notching a long-awaited win for technology companies and digital privacy advocates.
+The House Judiciary Committee voted 28-0 to approve the Email Privacy Act, which would update a decades-old law to mandate federal authorities get a warrant to access emails or other digital communications that are more than 180 days old.
+Currently, law enforcement and civil agencies can ask a service provider to turn over such aged private communications with only a subpoena, which is subject to less judicial oversight than a warrant.
+House Majority Leader Kevin McCarthy said he planned to bring the bill to a full vote the week of April 25, boosting its chances to become law this year.
+If the bill passes the House as expected, it will head to a gridlocked Senate, where more than a quarter of the lawmakers, including No.
+2 Republican John Cornyn, has endorsed similar legislation.
+Debate over law enforcement access to Americans’ electronic communications intensified this year with the Justice Department’s pursuit of a court order to force Apple to help unlock an encrypted iPhone linked to one of the San Bernardino, California, shooters.
+Prior to Wednesday’s vote, the bill had gained sponsorship from 315 of a possible 435 House lawmakers, making it the most supported bill in the chamber to not earn a vote.
+Disagreements over whether civil agencies such as the Securities and Exchange Commission should be allowed to rely on subpoenas continually slowed the bill, which has floated around Congress for several years.
+The White House also has said it favors reforming the 1986 Electronic Communications Privacy Act, but it has not endorsed specific legislation.
+A package of minor amendments from Representative Bob Goodlatte, the Republican chairman of the committee, was adopted Wednesday, including the removal of a requirement to serve warrants to the subject of an investigation.
+The bill requires a warrant to be given only to the email provider.
+That change and others prompted ire from a coalition of more than 50 civil liberties groups, trade associations and technology companies, including Amazon, Microsoft and Facebook.
+While maintaining their support, the coalition said in a letter to the committee that the bill “does not achieve all of the reforms we had hoped for.”

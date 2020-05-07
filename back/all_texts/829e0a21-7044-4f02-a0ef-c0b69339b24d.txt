@@ -1,0 +1,22 @@
+BERLIN (Reuters) - German government officials and security experts say they have not seen signs of hacking or suspicious news leaks ahead of the Sept. 24 election despite months of warnings about possible foreign meddling.
+The BSI federal cyber protection agency said it was keeping a close watch on possible efforts to influence the election from abroad, as well as efforts to close security gaps discovered in a widely-used vote-tabulating software.
+We have no indications of any new incidents or attacks in connection with the federal election, a BSI spokesman said.
+Other German government sources confirmed they had not detected any unusual activity, but noted a major leak of emails belonging to then candidate Emmanuel Macron did not surface until shortly before France s presidential election.
+Tyson Barker, a fellow at the German arm of the U.S.-based Aspen Institute think tank, said German political parties had agreed not to play up any fake news or embarrassing information.
+There is a stronger cohesion ... within the German political class to make sure that this is not impactful on the election results if it were to come to pass, Barker said.
+Meanwhile, vote IT GmbH, maker of a vote collation software, is implementing a series of BSI recommendations after private researchers discovered vulnerabilities with the software at the end of July, according to BSI officials.
+vote IT declined to comment.
+The problems, first reported this month, followed repeated warnings from Berlin that Russia could try to influence the election after a major breach of the German parliament in 2015 that was linked to the APT 28 Russian hacker group.
+French and U.S. officials also said Moscow sought to influence their elections.
+Moscow denies any effort to sway foreign elections.
+Klaus Poetzsch, spokesman for the German federal election director, said it was unclear exactly how many of the 12,000 local communities used the vote IT software, but his office had made it clear to all election authorities they must carry out regular software updates.
+He said vote IT was plugging the biggest of the security holes identified, but lawmakers would likely undertake a comprehensive review of security, and possible reforms, such as requirement of a uniform certification process for all vote collation software, after the election.
+Germans will vote on paper at polling stations or by mail in advance and the ballots will be counted and entered into a computer system.
+However, news reports earlier this month cited concerns about the vote collation software, particularly the lack of an authentication step when results are transmitted.
+Barker called the incident a wake-up call for the German public.
+Just because we re doing this on paper doesn t mean that from end to end there is protection throughout the process as far as tabulating results, he said.
+Kevin Bocek, vice president of security strategy and threat intelligence at Venafi, a U.S.-based cyber security firm, said hackers were growing increasingly more sophisticated and attacks often went undetected for many months.
+He said it was not surprising problems were found with vote IT s software, given that it had been in use for so long.
+We ve got a lot of catching up to do, he said.
+A lot of investment, a lot of effort is going to be required to keep up with the adversaries.
+Poetzsch said around 200 employees of the federal election office would be in Berlin and Wiesbaden on the day of the election to manage the vote process.

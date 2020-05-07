@@ -1,0 +1,18 @@
+WASHINGTON (Reuters) - U.S. intelligence officials told top congressional leaders a year ago that Russian hackers were attacking the Democratic Party, three sources familiar with the matter said on Thursday, but the lawmakers were unable to tell the targets about the hacking because the information was so secret.
+The disclosure of the Top Secret information would have revealed that U.S. intelligence agencies were continuing to monitor the hacking, as well as the sensitive intelligence sources and the methods they were using to do it.
+The material was marked with additional restrictions and assigned a unique codeword, limiting access to a small number of officials who needed to know that U.S. spy agencies had concluded that two Russian intelligence agencies or their proxies were targeting the Democratic National Committee, the central organizing body of the Democratic Party.
+The National Security Agency and other intelligence agencies sometimes delay informing targets of foreign intelligence activities under similar circumstances, officials have said.
+The alleged hacking of the Democrats and the Russian connection did not become public until late last month when the FBI said it was investigating a cyber attack at the DNC.
+The DNC did not respond to a request for comment for this story.
+The congressional briefing was given last summer in a secure room called a Sensitive Compartmented Information Facility, or SCIF, to a group of congressional leaders informally known as the “Gang of Eight,” the sources said.
+The group at the time included four Republicans: Senate Majority leader Mitch McConnell and House of Representatives Speaker John Boehner, and Senator Richard Burr and Representative Devin Nunes, the House and Senate intelligence committee chairs.
+Their Democratic counterparts were: Senator Harry Reid and Representative Nancy Pelosi, and Senator Dianne Feinstein and Representative Adam Schiff of the intelligence committees.
+AshLee Strong, press secretary for the current House Speaker, Paul Ryan, declined to comment, and Pelosi’s office did not immediately respond to requests for comment.Pelosi on Thursday called the hacking an “electronic Watergate” and said the Russians were behind it.
+DNC officials have said they did not learn about the hacking until months after the initial congressional briefing, when an agent from an FBI cybersecurity squad asked them last fall about the party’s data security arrangements.
+Even then, the Democratic sources said, the FBI agent never mentioned that U.S. intelligence officials suspected that Russian hackers were targeting the organization.
+The attack on the DNC later led the hackers to other party organizations, including the Democratic Congressional Campaign Committee, which raises funds for House candidates, Hillary Clinton’s presidential campaign, and other groups.
+A DCCC spokeswoman declined to comment.
+The hackers initially used “spearphishing” - attacks on the private email accounts of dozens of people working for the organizations, several sources said.
+One of the sources said the Clinton campaign first detected attacks on its data system in early March, and was given what the source described as a “general briefing” about it by the FBI later that month.
+The source said the FBI made no mention of a Russian connection in that briefing and did not say when the penetration first took place.
+According to a memo obtained by Reuters, interim DNC Chair Donna Brazile said on Thursday she was creating a Cybersecurity Advisory Board “to ensure prevent future attacks and ensure that the DNC’s cybersecurity capabilities are best-in-class.” (This version of the story corrects seventh paragraph to show that John Boehner was House speaker at time of briefing)

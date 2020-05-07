@@ -1,0 +1,35 @@
+According to WIRED THERE ARE HACKABLE security flaws in software.
+And then there are those that don t even require hacking at all just a knock on the door and asking to be let in.
+Apple s macOS High Sierra has the second kind.On Tuesday, security researchers disclosed a bug that allows anyone a blindingly easy method of breaking that operating system s security protections.
+Anyone who hits a prompt in High Sierra asking for a username and password before logging into a machine with multiple users, they can simply type root as a username, leave the password field blank, click unlock twice, and immediately gain full access.In other words, the bug allows any rogue user that gets the slightest foothold on a target computer to gain the deepest level of access to a computer, known as root privileges.
+Malware designed to exploit the trick could also fully install itself deep within the computer, no password required.
+We always see malware trying to escalate privileges and get root access, says Patrick Wardle, a security researcher with Synack.
+This is best, easiest way ever to get root, and Apple has handed it to them on a silver platter.
+As word of the security vulnerability rippled across Twitter and other social media, a few security researchers found they couldn t replicate the issue, but others captured and posted video demonstrations of the attack, like Wardle s GIF below, and another that shows security researcher Amit Serper logging into a logged-out account.
+WIRED also independently confirmed the bug.Watch these two incredible videos posted to Twitter letting Apple know they have a HUGE security issue at MacOS High Sierra: pic.twitter.com/4TBh5NetIS patrick wardle (@patrickwardle) November 28, 2017Just tested the apple root login bug.
+You can log in as root even after the machi was rebooted pic.twitter.com/fTHZ7nkcUp Amit Serper (@0xAmit) November 28, 2017The fact that the attack could be used on a logged-out account raises the possibility that someone with physical access could exploit it just as easily as malware, points out Thomas Reed, an Apple-focused security researcher with MalwareBytes.
+They could, for instance, use the attack to gain root access to a logged-out machine, set a root password, and then regain access to a machine at any time.
+Oooh, boy, this is a doozy, says Reed.
+So, if someone did this to a Mac sitting on a desk in an office, they could come back later and do whatever they wanted.
+Facebook user Brian Matiash tells Mac users about how they protect their Mac from being hacked.
+We cannot confirm or deny if his advice is legit, we are simply sharing it with you.
+Matiash gives Facebook users the following advice: Wonders never cease, Apple.
+How can such a painfully obvious bug like this make it by your QA teams?
+At least make the default root password be password or something.
+FFS, guys.
+Get you damned act together.
+EDIT: It would be socially responsible of me to state that there is a fairly easy workaround.
+Start by opening up Terminal.app and type the following command: sudo passwd -u root Next, enter your primary user password.
+Then, enter a new password for root and retype it to confirm.
+There.
+You re protected.
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11'; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));Wonders never cease, Apple.
+How can such a painfully obvious bug like this make it by your QA teams?
+At least make the default root password be 'password' or something.
+FFS, guys.
+Get you damned act together.EDIT: It would be socially responsible of me to state that there is a fairly easy workaround.
+Start by opening up Terminal.app and type the following command:sudo passwd -u rootNext, enter your primary user password.
+Then, enter a new password for root and retype it to confirm.
+There.
+You're protected.Posted by Brian Matiash on Tuesday, November 28, 2017Reed also notes, however and other researchers confirm that it s possible to block the attack by either setting a password for the root user or disabling root access altogether.
+If you ve installed High Sierra and haven t set a root password or disabled root access, you should do it now.In a statement, Apple confirmed the problem, reiterated that short-term fix, and promised a longer-term software patch: We are working on a software update to address this issue, an Apple spokesperson wrote.

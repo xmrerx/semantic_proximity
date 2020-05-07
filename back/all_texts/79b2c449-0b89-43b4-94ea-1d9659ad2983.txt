@@ -1,0 +1,25 @@
+WASHINGTON (Reuters) - Google has discovered Russian operatives spent tens of thousands of dollars on ads on its YouTube, Gmail and Google Search products in an effort to meddle in the 2016 U.S. presidential election, a person briefed on the company s probe told Reuters on Monday.
+The ads do not appear to be from the same Kremlin-affiliated entity that bought ads on Facebook Inc (FB.O), but may indicate a broader Russian online disinformation effort, according to the source, who was not authorized to discuss details of the confidential investigation by Alphabet Inc s (GOOGL.O) Google.
+Microsoft Corp (MSFT.O) said separately on Monday that it was looking at whether Russians bought U.S. election ads on its Bing search engine or other Microsoft-owned products and platforms.
+A spokeswoman for the company declined to comment further.
+The revelation about Google is likely to fuel further scrutiny of the role that Silicon Valley technology giants may have unwittingly played during last year s election.
+U.S. intelligence agencies have concluded that Moscow s goal was to help elect Donald Trump.
+Google has uncovered less than $100,000 in ad spending potentially linked to Russian actors, the source said.
+Both Twitter Inc (TWTR.N) and Facebook recently detected and disclosed that suspected Russian operatives, working for a content farm known as the Internet Research Agency in St. Petersburg, Russia, used their platforms to purchase ads and post content that was politically divisive in a bid to influence Americans before and after the November 2016 presidential election.
+The Internet Research Agency employ hundreds of so-called trolls who post pro-Kremlin content, much of it fake or discredited, under the guise of phony social media accounts that posed as American or European residents, according to lawmakers and researchers.
+Facebook announced last month it had unearthed $100,000 in spending by the Internet Research Agency and, under pressure from lawmakers, has pledged to be more transparent about how its ads are purchased and targeted.
+Google s review had been more robust than ones undertaken so far by Facebook or Twitter, the source said.
+Russia s ad purchases on Google were first reported by the Washington Post.
+Google did not deny the story, and in a statement pointed to its existing ad policies that limit political ad targeting and prohibit targeting based on race or religion.
+We are taking a deeper look to investigate attempts to abuse our systems, working with researchers and other companies, and will provide assistance to ongoing inquiries, a Google spokeswoman said on Monday.
+Google, which runs the world s largest online advertising business, had largely evaded public or congressional scrutiny until now.
+On Sunday, the Daily Beast news website reported that the Kremlin recruited at least two black video bloggers to post clips on YouTube during the campaign.
+They posed as Black Lives Matter sympathizers who were sharply critical of Democratic presidential candidate Hillary Clinton.
+Though the videos were only viewed hundreds of times, they demonstrated for the first time that Russia allegedly deployed real people, not just fake online accounts or bots, to further spread propaganda.
+Congressional committees have launched multiple investigations into Russian interference, but concern about Silicon Valley s role has surged over the past month against the backdrop of a cascade of revelations about how Russia appears to have leveraged their platforms to spread propaganda.
+A study published on Monday by researchers with the Oxford Internet Institute, which is affiliated with the British university, found that current U.S. military personnel and veterans were targeted by disinformation campaigns on Twitter and Facebook over the past year by a nexus of pro-Kremlin, Russian-oriented sites, along with conspiracy theorists and European right-wing ideologues.
+Both Republican and Democratic lawmakers have said Russia intended to sow discord in the United States, spread propaganda and sway the election.
+Some Democrats plan to introduce legislation to require internet companies to disclose more information about political ad purchases on their platforms.
+If Vladimir Putin is using Facebook or Google or Twitter to, in effect, destroy our democracy, the American people should know about it, Democratic Senator Richard Blumenthal said Monday on MSNBC.
+Google officials have been invited to testify publicly about Russian attempts to use their platforms to influence the election before both the House and Senate intelligence committees on Nov. 1 alongside Facebook and Twitter.
+While Facebook and Twitter have confirmed plans to attend, Google has not.

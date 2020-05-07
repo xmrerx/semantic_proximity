@@ -1,0 +1,18 @@
+WASHINGTON (Reuters) - A bipartisan group of U.S. senators has begun circulating long-awaited draft legislation that would give federal judges clear authority to order technology companies like Apple to help law enforcement officials access encrypted data, according to sources familiar with the discussions.
+The proposal from Senators Richard Burr and Dianne Feinstein, the top Republican and Democrat on the Senate Intelligence Committee, does not spell out how companies must provide access or the circumstances under which they could be ordered to help.
+It also does not create specific penalties for noncompliance, leaving that determination to judges, the sources said.
+Previous legislative efforts have focused on requiring technology products to have a built-in “back door” for law enforcement.
+The latest approach would not mandate any specific technology, but rather would require companies to figure out how to access the data.
+Congress has tried and failed for years to pass legislation that could prevent criminals and spies from “going dark,” or hiding from law enforcement by using encrypted computer and communications services.
+The latest effort died when the Obama administration signaled last fall that it would not support it.
+But Apple’s high-profile showdown with the government over a federal magistrate judge’s order that it unlock an iPhone connected to the mass shooting in San Bernardino, California, has reopened the debate.
+Apple and the Justice Department are set to face off in court on Tuesday.
+“The going-dark issue has been gathering momentum (in Congress) like a train coming down the tracks, but it still seemed for a while like it was going to be a long time before it got to the station,” Representative Adam Schiff, the top Democrat on the House Intelligence Committee, told Reuters in an interview.
+“But it arrived with a fury with this lawsuit.” Apple and many of its allies argue that the court is over-reaching its authority in the San Bernardino case and that Congress should ultimately resolve the encryption debate.
+President Obama warned a tech conference earlier this month against “fetishizing” phones and made it clear that he supports law enforcement efforts to gain access to encrypted information.
+Administration officials have reviewed the legislation from Burr and Feinstein and offered suggested edits, the sources said, signaling that the White House may now be more open to a legislative approach.
+Still, the Burr-Feinstein effort is expected to face a steep climb in a gridlocked Congress wary about tackling such a complex and controversial issue during an election year.
+“We have previously been quite skeptical of legislative handling of this particular matter,” White House press secretary Josh Earnest told reporters last month after the Apple case began.
+“I don’t know at this point whether or not (conversations with lawmakers) will result in a piece of legislation that we will embrace.” In an attempt to break the congressional stalemate on encryption, Democratic Senator Mark Warner and Republican Representative Michael McCaul, who chairs the House Homeland Security Committee, introduced legislation earlier this month to form a national encryption commission to further study the issue.
+That effort has been criticized by some privacy advocates who believe its composition would be skewed to favor law enforcement.
+Others have complained that it would give Congress an excuse to continue postponing action on encryption.

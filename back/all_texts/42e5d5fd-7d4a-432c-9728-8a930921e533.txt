@@ -1,0 +1,14 @@
+WASHINGTON (Reuters) - A Democratic senator on Monday prevented legislation from being quickly considered that would expand the FBI’s power to use secretive surveillance orders to obtain some Internet records, arguing it would lead to a “dramatic erosion” of U.S. privacy rights.
+Senator Ron Wyden of Oregon placed a hold on the annual Intelligence Authorization Act, which grants congressional approval for clandestine operations carried out by the CIA and other U.S. intelligence agencies.
+A provision of the authorization bill would allow the Federal Bureau of Investigation to use national security letters, which do not require a warrant, to compel companies such as Alphabet Inc’s Google and Facebook to hand over certain Internet records.
+These would include email metadata, some browsing history and social media log-in information.
+Such an expansion would allow the FBI to retrieve sensitive data of U.S. citizens without court approval, Wyden said.
+“Convenience alone does not justify such a dramatic erosion of Americans’ constitutional rights,” he said on the Senate floor.
+National security letters are the latest flashpoint in a years-long debate pitting U.S. surveillance operations against digital privacy interests.
+Wyden’s objection blocks the Senate from rapidly advancing the bill and now forces Republican Senate leader Mitch McConnell to go through normal order to hold a roll call vote, a process that can take days.
+Currently, national security letters, or NSLs, can only compel sharing of phone billing records, according to a 2008 legal memo written by the U.S. Justice Department.
+Still, the FBI has used the letters since then to request Internet records during national security investigations.
+Senate Republicans have attempted to advance the NSL expansion, which FBI Director James Comey has called his top legislative priority, several times in recent months.
+Last week the Senate came two votes short of advancing separate legislation that would have expanded national security letters.
+[uL1N19E0ZY] Though some Republicans invoked the mass shooting at a gay nightclub in Orlando earlier this month to promote that measure, Richard Burr, the Republican chairman of the Senate Intelligence Committee, said last week it was “one hundred percent correct” that it would not have prevented the massacre.
+Wyden also said he opposed another provision of the authorization bill that would limit the jurisdiction of the Privacy and Civil Liberties Oversight Board, a government advisory committee that reviews the legality and effectiveness U.S. surveillance programs.

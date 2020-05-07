@@ -1,0 +1,60 @@
+NEW YORK/LONDON (Reuters) - Two days ago, pollsters and statisticians gave Hillary Clinton odds of between 75 and 99 percent of winning the U.S. presidential election.
+How did so many get it so wrong?
+In hindsight, the polling consensus went astray in two major ways.
+The media, including Reuters, pumped out two kinds of poll stories.
+Some were national surveys designed to estimate the entire country’s popular vote, but not the outcome in individual states, where the contest is actually decided.
+These polls actually got the big picture right: Clinton won more overall votes than President-elect Donald Trump - but not by as much as the polling averages predicted, and not where she needed to.
+News organizations also produced a blizzard of stories meant to calculate the probability of victory for the two candidates.
+These calculations were predicated on polls of individual states.
+In hindsight, though, the stories seem to have overstated Clinton’s chances for a win by failing to see that a shift in voting patterns in some states could show up in other, similar states.
+In part, this is because polling analysts got the central metaphor wrong.
+U.S. presidents are chosen not by the national popular vote, but in the individual Electoral College contests in the 50 states and Washington D.C.
+In calculating probable outcomes, election predictors generally treated those 51 contests as completely separate events – as unrelated to one another as a series of 51 coin tosses.
+But that’s not how elections work in the United States.
+Voting trends that appear in one state - such as a larger-than-expected Republican shift among rural voters - tend to show up in other states with similar demographic make-ups.
+And that’s what happened Tuesday: The election models calculated the probabilities of a Clinton win that turned out to be high, because they viewed each state too much in isolation.
+The Reuters/Ipsos States of the Nation project projected Clinton to win the popular vote 45 percent to 42 percent, and gave her a 90 percent probability of winning the 270 electoral votes needed to secure the election.
+In the end, Clinton won the popular vote by 47.7 percent to 47.5 percent, by the latest count, and Trump could win the Electoral College by as many as 303 votes to Clinton’s 233 when the tally is final.
+The state races were not akin to a string of coin tosses but more like 51 rolls of a set of weighted dice.
+In many states, it turned out, the side of the dice representing white voters in suburban and rural counties carried a heavier weight, and the side representing urbanites a lighter one.
+The problem, said Cliff Young, president of Ipsos Public Affairs US, the polling partner of Reuters, came down to the models the pollsters used to predict who would vote - the so-called likely voters.
+The models almost universally miscalculated how turnout was distributed among different demographic groups, Young said.
+And turnout was lower than expected, a result that generally favors Republican candidates.
+In 2000, when Republican George W. Bush beat Democrat Al Gore, for example, the turnout was about 60 percent, according to the U.S. Census Bureau.
+Eight years later, turnout was 64 percent when Democratic nominee Barack Obama won his first presidential election against Republican Arizona Sen. John McCain.
+This year, “whites with lower levels of education came out in greater relative numbers than younger, more-educated and minority voters,” Young said.
+“A point here or a point there can really change an election.” Ultimately, missing that shift in the state polls tripped up the predictions.
+It also highlights how the otherwise empirical process of polling rests on a subjective foundation.
+Each pollster must make a decision about turnout.
+Their decisions are informed by historical voting patterns.
+But the actual turnout in each state is unknowable before election day.
+Among the questions pollsters grappled with this year: Will the electorate look like the won that gave Obama his 2008 victory - or George W. Bush in his 2000 victory?
+Would black turnout fall after the historically high turnout enjoyed by Obama, the nation’s first black president, and by how much?
+“Key for me is turnout in explaining this year’s polling miss,” Young said.
+The Reuters/Ipsos model anticipated turnout for white men, for example, at around 67 percent, which appears to have been too low, and for black women at 61 percent, which was probably too high.
+Demographic breakdowns aren’t available yet.
+Drew Linzer, a pollster and creator of the Daily Kos Elections forecasting model, which forecasts the Electoral College result by aggregating large numbers of state polls, said prediction models like his try to estimate the possibility of an unexpected turnout shift.
+But ultimately, he said, the effectiveness of the models came down to the accuracy of the underlying state polls’ likely-voter models.
+Linzer’s model predicted a large win for Clinton in the Electoral College, 323 to 215.
+And because those polls missed the mark, it created an illusion of a near-certain Clinton win.
+Beyond the calculations of the candidates’ odds of winning the Electoral College, there was a near constant stream so-called “horse race polls,” or tracker polls, that focused on the distribution of the national vote between the major candidates.
+Here, too, pollsters — and the media that co-sponsored or covered the polls — stumbled, largely because the popular vote metric itself is of limited utility and cannot, of itself, predict the outcome of the Electoral College.
+As of Wednesday morning, Clinton led the popular vote by slightly less than 1 percentage point.
+The McClatchy-Marist poll released on Nov. 3, for example, had Clinton up by one point - one of the most accurate calls of the popular vote.
+But even that headline number missed the point a bit, because she lost the election in the Electoral College.
+A few polls correctly pegged Trump as the winner.
+The International Business Times/TIPP poll had Trump leading on Nov. 7.
+That poll put him ahead in the popular vote by two percentage points, which in the end overstated his share by about three points.
+In one sense, most polls were relatively accurate: The Real Clear Politics average of polls, for example, had Clinton leading by about 3.3 points, little more than two points above the actual outcome.
+A polling error of two or three percentage points is not uncommon in modern politics.
+Popular vote polls, however, also exaggerate the influence of massive states, such as New York and California, in the outcome of the election and mask trends that might be occurring outside those left-leaning states.
+The Electoral College system reduces the influence of big states by distributing a disproportionate number of votes to smaller states.
+North Dakota, for example, has about a quarter of one percent of the U.S. population but double that proportion of Electoral College votes.
+Conversely, Californians make up 12 percent of the population but only 10 percent of the Electoral College votes.
+Young said both pollsters and journalist described the results of the national polls and predictions with a false precision by presenting the result as near absolutes.
+“The forecasting models, which assign probabilities or chances to candidates, are no better than the polls themselves,” he said.
+“If the polls are off, the forecasting models will be off, too.” The Reuters/Ipsos States of the Nation project website did offer an interactive tool that allowed users to adjust the poll’s estimate of turnout and play pollster themselves.
+It also included one fixed scenario that showed how Trump could win - with a higher-than-expected Republican turnout and a lower-than-forecast Democratic turnout.
+That scenario, as it happened, better reflected what actually happened Tuesday.
+“We need to recognize that there can be a range of possibilities,” said Young.
+“The trick of course is how to communicate that with the larger public.”

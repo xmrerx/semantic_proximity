@@ -1,0 +1,19 @@
+WASHINGTON (Reuters) - More than 50 automakers, state transportation agencies and other groups urged the White House and other federal policymakers on Thursday not to open a portion of the wireless spectrum reserved for connected vehicles in the near future.
+The letter was signed by major auto trade groups representing nearly the entire auto industry, including Toyota Motor Corp, Ford Motor Co, General Motors Co, Volkswagen AG (VOWG_p.DE) and Honda Motor Co.
+It came a week after a cable industry trade group and some tech companies, including Qualcomm Inc, and public interest groups urged the White House to take quick action to open the spectrum to more wireless devices.
+Automakers and companies seeking to use the 5.9 GHz unlicensed spectrum band for wireless devices have been sparring for several years.
+In January, U.S. Transportation Secretary Anthony Foxx sent a proposed regulation to the White House that would require all new cars to be equipped with “vehicle-to-vehicle” technology that could eventually prevent up to 80 percent of crashes in which alcohol is not a factor.
+The proposal will not be final until approved by the White House and opened for public comment.
+The technology, which involves cars repeatedly sending wireless signals to each other, could help alert drivers if an oncoming vehicle may disregard a traffic light.
+It can detect threats from hundreds of yards away and indicate whether vehicles can, for example, pass safely or make a left turn.
+“One of the most – if not the most – significant advances in vehicle safety is now coming into existence.
+We urge you to stay the course and complete the action your administration has undertaken to improve the safety of drivers and passengers on America’s roadways,” said the letter, signed by the auto and auto parts trade groups as well as the Michigan, California and Arizona state transportation departments and the National Safety Council and National Sheriffs Association.
+Automakers say vehicle-to-vehicle technology could also help speed self-driving cars to the roads.
+Last week in a separate letter to the Obama administration, the National Cable and Telecommunications Association and other groups said the president needs to act quickly because as connected device use “continues to skyrocket, the spectrum resources that power our devices are perilously insufficient.” The groups urged speedy action.
+“We must act now to find more unlicensed spectrum,” they wrote.
+Michael Calabrese, director for wireless policy at New America’s Open Technology Institute, said the “auto industry ignores the fact that their unused band has enough spectrum to deploy – and protect – both crash avoidance safety applications and next generation Wi-Fi.” Dave Sullivan, an analyst at AutoPacific, said automakers have a lot at stake and have made significant investments in the technology.
+“It’s imperative that this spectrum not be encroached on,” he said.
+In 1999, the Federal Communications Commission allocated 75 megahertz of spectrum in the 5.9 GHz band for highway safety.
+But critics say the technology has not progressed much beyond the testing phase.
+FCC Chairman Tom Wheeler, U.S. Commerce Secretary Penny Pritzker and Foxx agreed in January to conduct testing on whether the spectrum can be shared with wireless devices.
+The government officials said it is “imperative to ensure the future automotive safety and efficiency of the traveling public” that testing be completed before they make any decisions on sharing the spectrum.

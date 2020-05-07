@@ -1,0 +1,26 @@
+WASHINGTON (Reuters) - President-elect Donald Trump’s goal of overhauling the U.S. tax code in 2017 will depend partly on the work of an obscure congressional committee tasked with estimating how much future economic growth will result from tax cuts.
+Known as the Joint Committee on Taxation, or JCT, the nonpartisan panel assigns “dynamic scores” to major tax bills in Congress, based on economic models, to forecast a bill’s ultimate impact on the federal budget.
+The higher a tax bill’s dynamic score, the more likely it is seen as spurring growth, raising tax revenues and keeping the federal deficit in check.
+As Trump and Republicans in Congress plan the biggest tax reform package in a generation, the JCT has come under pressure from corporate lobbyists and other tax cut advocates who worry that too low a dynamic score could show the legislation to add billions, if not trillions of dollars to the federal deficit.
+“The problem is that the Joint Committee staff has adopted a whole series of assumptions that truly minimize the effects and underestimate the impact that a properly done tax reform could have,” said David Burton, an economic policy fellow at the conservative Heritage Foundation think tank.
+A low dynamic score could force Republicans to scale back tax cuts or make the reforms temporary, severely limiting the scope of what was one of Trump’s top campaign pledges.
+Other analysts warn that pressure for a robust dynamic score raises the danger of a politically expedient number that could help reform pass Congress but lead to higher deficits down the road.
+Until last year, JCT used a variety of economic models in its arcane calculations, reflecting the uncertainties in such work.
+But House of Representatives Republicans changed the rules in 2015 to require that a bill’s score reflect only a single estimate of the estimated impact on the wider economy and resulting impact on tax revenues.
+Next year’s anticipated tax reform package would be the biggest piece of legislation that JCT has scored using this new, narrower approach, presenting the committee with a daunting challenge.
+JCT Chief of Staff Thomas Barthold acknowledged the challenge of dynamic scoring in an interview with Reuters.
+“The U.S. economy is so darn complex, you really can’t have one model that picks up all of the complexity and nuance.
+So the essence of modeling is to try to slim things down, try to emphasize certain points,” he said.
+Tax reform is still months away.
+But the initial legislation expected in 2017 is likely to fall somewhere between two similar but separate plans, one backed by Trump and the other by House Republicans including Speaker Paul Ryan.
+The proposals lean heavily for fiscal legitimacy on dynamic scoring.
+Even the most robust independent scores show both plans adding to the deficit.
+But dynamic scoring, like any economic modeling technique, is far from precise and, when it comes to fiscal policy, any theoretical flaws could lead to very real consequences for taxpayers and the U.S. economy.
+The JCT has included macroeconomic analyses in its tax bill scores since 2003, providing a range of estimates on economic effects built on a variety of assumptions.
+When Dave Camp, as chairman of the House Ways and Means Committee, produced a tax reform bill in 2014, JCT used two models and forecast revenue gains ranging from $50 billion to $700 billion.
+The committee also provided economic growth forecasts from as low as 0.2 percent to as high as 1.8 percent.
+The tax package likely to emerge next year will probably be even more complex than Camp’s, prompting some to worry that budgetary and economic forecasts will range even more widely.
+Some critics, including lobbyists for major corporations that stand to gain from big tax cuts, want JCT’s numbers to look more like the nonpartisan Tax Foundation’s, a research group whose work has been embraced by Trump and House Republicans.
+The Tax Foundation estimates that the House Republican tax plan would lead to a 9.1 percent higher gross domestic product over the long term, 7.7 percent higher wages and 1.7 million new full-time-equivalent jobs.
+It predicts the plan would reduce government revenue by $2.4 trillion over a decade, not counting macroeconomic effects, but by only $191 billion once economic growth is taken into account.
+By contrast, the centrist Tax Policy Center estimates the House plan would add 1 percent to GDP over 10 years and erase $2.5 trillion of revenue, even with positive macroeconomic feedback, due to higher federal debt interest.

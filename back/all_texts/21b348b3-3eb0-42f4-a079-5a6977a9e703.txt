@@ -1,0 +1,16 @@
+WASHINGTON (Reuters) - The U.S. intelligence community will soon disclose an estimate of the number of Americans whose electronic communications have been caught in the crosshairs of online surveillance programs intended for foreigners, U.S. lawmakers said in a letter seen by Reuters on Friday.
+The estimate, requested by members of the U.S. House of Representatives Judiciary Committee, is expected to be made public as early as next month, the letter said.
+Its disclosure would come as Congress is expected to begin debate in the coming months over whether to reauthorize or reform the so-called surveillance authority, known as Section 702, a provision that was added to the Foreign Intelligence Surveillance Act in 2008.
+“The timely production of this information is incredibly important to informed debate on Section 702 in the next Congress— and, without it, even those of us inclined to support reauthorization would have reason for concern,” said the letter signed by 11 lawmakers, all members of the House Judiciary Committee.
+The letter was sent on Friday to National Intelligence Director James Clapper.
+It said his office and National Security Agency (NSA) officials had already briefed congressional staff about how the intelligence community intends to comply with the disclosure request.
+Clapper’s office confirmed the letter had been received but declined further comment.
+The lawmakers termed their letter an effort to “memorialize our understanding” of the intelligence community’s plan to provide an estimate in real numbers, not percentages, as soon as January that can be shared with the public.
+The government has long held that calculating the number of Americans subject to Section 702 surveillance might be technically impossible and would require privacy intrusions exceeding those raised by the actual surveillance programs, which were originally intended to counter foreign espionage.
+Intelligence officials have said that online data about Americans is “incidentally” collected under Section 702, due to a range of technical and practical reasons.
+Critics have assailed such collection as back-door surveillance of Americans without a warrant.
+Section 702 will expire on Dec. 31, 2017, absent congressional action.
+It enables two internet surveillance programs called Prism and Upstream that were revealed in a series of leaks by former NSA contractor Edward Snowden more than three years ago.
+Prism gathers messaging data from Alphabet Inc’s Google, Facebook , Microsoft, Apple and other major tech companies that is sent to and from a foreign target under surveillance.
+Upstream allows the NSA to copy web traffic flowing along the internet backbone located inside the United States and search that data for certain terms associated with a target.
+Clapper, who is stepping down next month, suggested in April that providing an estimate of Americans surveilled under Section 702, a figure some have said could tally in the millions, might be possible, while defending the law as “a prolific producer of critical intelligence.” Republicans James Sensenbrenner, Darrell Issa, Ted Poe and Jason Chaffetz signed the letter, in addition to Democrats John Conyers, Jerrold Nadler, Zoe Lofgren, Hank Johnson, Ted Deutch, Suzan DelBene and David Cicilline.

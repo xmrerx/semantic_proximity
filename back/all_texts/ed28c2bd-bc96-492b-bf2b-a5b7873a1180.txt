@@ -1,0 +1,13 @@
+WASHINGTON (Reuters) - Delaying or blocking a planned transition of oversight of the Internet’s technical management from the U.S. to a global community of stakeholders would be a “gift to Russia” and other authoritarian regimes, a senior Obama administration official said Wednesday.
+The comments before a congressional panel came as several Republican lawmakers are attempting to thwart the changeover, due to occur on Oct. 1, arguing it would stifle online freedom and has not been appropriately vetted.
+“I urge you: Do not give a gift to Russia and other authoritarian nations by blocking this transition,” Lawrence Strickling, administrator of the U.S. Commerce Department’s National Telecommunications and Information Administration, told a Senate subcommittee.
+The plan, announced in March 2014, to transfer oversight of the nonprofit Internet Corporation for Assigned Names and Numbers, or ICANN, is expected to go forward unless Congress votes to block the handover.
+The California-based corporation operates the database for domain names such as .com and .net and their corresponding numeric addresses that allow computers to connect.
+The U.S. Commerce Department currently oversees the Internet’s management largely because it was invented in the United States.
+Its contract with ICANN will lapse on October 1.
+Senator John Thune, a senior Republican from South Dakota, told reporters Tuesday he expected lawmakers would add language to delay the Internet transition to a bill to fund the government past the end of September.
+Strickling’s testimony were an attempt to rebut concerns raised by Republican Senator Ted Cruz of Texas, who convened and chaired Wednesday’s hearing on the Internet, and other Republicans who have argued in recent weeks that the transition would be a “giveaway” of Internet control to Russia, China, and other governments that censor Internet content.
+“When ICANN escapes from government authority, ICANN escapes from ... having to worry about protecting your rights or my rights,” Cruz said.
+ICANN does not have the ability to censor the Internet, the corporation’s CEO Goran Marby said during the hearing.
+Tech companies, technical experts, academics, have said the transition is overdue and necessary to keep the Internet open and globally oriented, and that the proposal includes safeguards against any potential abuse by any one country.
+Delaying the transition to the multistakeholder global community may also weaken U.S. credibility in future international negotiations at the United Nations and elsewhere about Internet standards and security, thus empowering countries like Russia and China, experts have said.

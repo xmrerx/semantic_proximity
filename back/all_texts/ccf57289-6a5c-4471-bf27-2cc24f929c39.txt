@@ -1,0 +1,30 @@
+(Reuters) - The Dodd–Frank Wall Street Reform and Consumer Protection Act, named for former Democratic lawmakers Senator Chris Dodd and Representative Barney Frank, was signed by former President Barack Obama in 2010 as a response to the financial crisis.
+Dodd-Frank is the most sweeping financial regulatory statute enacted since the response to the Great Depression in the 1930s.
+It created new regulatory bodies and directed already-existing agencies to write hundreds of regulations aimed at creating stability in the financial markets.
+Republican lawmakers, including President Donald Trump, have said that Dodd-Frank is burdensome for financial institutions, and many seek to repeal it in whole or part.
+Trump signed an executive order on Friday that did not mention Dodd-Frank by name.
+But White House Press Secretary Sean Spicer told reporters on Friday, “Dodd-Frank is a disastrous policy that’s hindering our markets” and the order would be the first step taken to review the law.
+Here are some of the Dodd-Frank law’s main provisions: The Financial Stability Oversight Council Dodd-Frank created the FSOC to monitor risk in the financial system and it was granted the power to deem institutions, including non-bank firms such as asset managers and insurance companies “systemically important financial institutions.” These firms are often called “too-big-to-fail” and subject to additional capital requirements.
+The Office of Financial Research Dodd-Frank created the independent Office of Financial Research within the Treasury Department to provide data and support related to risks in the financial system to relevant government agencies, including the FSOC.
+This data is used in part to assess whether a firm is a systemically important financial institution.
+Consumer Financial Protection Board Dodd-Frank created the CFPB, a federal agency that oversees consumer protection in the financial sector, including banks, payday lenders, credit unions, mortgage servicers and other companies.
+A federal appeals court ruled in October that the bureau’s structure is unconstitutional because its director, currently Richard Cordray, cannot be removed by the president without cause.
+That ruling was stayed and has not taken effect pending appeal.
+Volcker Rule A portion of Dodd-Frank known named for former Federal Reserve Chairman Paul Volcker prohibits commercial banks from also engaging in proprietary trading and restricts them from investing in hedge and private equity funds.
+The Volcker Rule also limits the liabilities that can be taken on by the country’s largest banks.
+The rule was delayed several times and took effect in July 2015.
+Some large Wall Street banks asked the Federal Reserve to grant them an additional five-year grace period to comply with the rule.
+Capital Requirements The law’s so-called capital requirements forced banks to fund themselves more by raising money from shareholders than by borrowing.
+Regulators used a variety of requirements to force banks to cut their reliance on debt, including by imposing tougher rules for riskier assets.
+The most stringent requirements fell on the biggest banks.
+Banks say the process has been costly.
+Living Wills Dodd-Frank required banks with assets of $50 billion or more to submit living wills to regulators.
+A bank’s living will is a kind of prepackaged bankruptcy plan that will guide its dissolution and liquidation without taxpayer assistance should it collapse.
+If these living wills are deemed insufficient by regulators, institutions get another chance to submit a new plan.
+At that point, if regulators again deem a living will insufficient, a bank can face sanctions.
+Swaps Push-Out Rule The initial swaps proposal prohibited banks active in swaps markets from receiving federal assistance.
+The rule was narrowed to apply to only swaps entities.
+A swaps entity is a swap dealer that is registered with the Commodity Futures Trading Commission or Securities and Exchange Commission.
+The rule does not apply to depository banks that have swaps divisions, which remain eligible to be insured by the federal government.
+Regulated Institutions A number of Dodd-Frank’s provisions were designed to direct agencies to regulate entities such as private equity funds and hedge funds for the first time.
+It also required a brand new regulatory regime for over-the-counter derivatives, which imposed capital and margin requirements, central clearing and trading transparency rules on the marketplace.

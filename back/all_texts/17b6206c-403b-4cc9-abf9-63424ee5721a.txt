@@ -1,0 +1,34 @@
+WASHINGTON (Reuters) - One in four registered voters in the United States live in areas that will use electronic voting machines that do not produce a paper backup in the November presidential election despite concerns that they are vulnerable to tampering and malfunctions, according to a Reuters analysis.
+The lack of a paper trail makes it impossible to independently verify that the aging touch-screen systems are accurate, security experts say, in a year when suspected Russian hackers have penetrated political groups and state voting systems and Republican presidential candidate Donald Trump has said the election may be “rigged.” Election officials insist the machines are reliable, but security experts say they are riddled with bugs and security holes that can result in votes being recorded incorrectly.
+A Reuters analysis of data from the U.S. Census Bureau, the Election Assistance Commission and the Verified Voting Foundation watchdog group found that 44 million registered voters, accounting for 25 percent of the total, live in jurisdictions that rely on paperless systems, including millions in contested states such as Georgia, Pennsylvania and Virginia.
+The picture has improved gradually since the 2008 presidential election, when 31 percent of U.S. voters lived in areas that used paperless touch-screen systems.
+In 2012, 27 percent lived in jurisdictions that used paperless systems.
+“Clearly we still have a long way to go to ensure that all Americans have access to a form of voting technology they can trust,” said Alex Halderman, a University of Michigan computer-science professor who has helped to uncover security flaws on touch-screen systems.
+(Graphic showing different types of voting systems across the U.S. -- tmsnrt.rs/2cZiKQ5) Most of these machines are nearing the end of their expected life span, making them more vulnerable to problems.
+And Congress has not authorized money for upgrades since 2002, just after the disputed 2000 presidential recount battle in Florida highlighted flaws in aging punch-card and lever-voting systems.
+In some states, a divide has emerged between poorer areas that continue to use paperless touch-screen systems and wealthier areas that have bought new optical scan systems that process paper ballots, which many experts say are a better way to ensure accurate elections.
+In Virginia, for example, counties that still use touch-screen systems have a poverty rate of 23 percent, while those that have switched to optical-scan systems have an average poverty rate of 11 percent.
+“I would have liked to have had the new machines, but the county says we don’t have the money,” said Patsy Burchett, the top election official in rural Lee County, which has been hit hard by the decline of the coal and tobacco industries and is the poorest county in the state.
+“These machines are on their last legs,” she said.
+U.S. election officials have known about the shortcomings of touch-screen systems since shortly after they were widely adopted in the early 2000s, when researchers showed that vote results could be manipulated with tools as simple as a magnet and a Palm Pilot-style handheld device.
+The systems have produced questionable results in some elections.
+In Florida, more than 18,000 iVotronic machines did not record a vote in a 2006 congressional race in which the margin of victory was less than 400 votes.
+In Fairfax County, Virginia, electronic machines subtracted one vote for every hundred cast for one candidate in a 2003 school-board race.
+More than 4,400 electronic ballots in Carteret County, North Carolina, were lost and never recovered in the 2004 presidential election.
+Since 2008, states such as Maryland have traded in their touch-screen machines for optical-scan systems.
+Others like California and Ohio have added printers to their touch-screen machines which produce a backup paper trail, while Washington and Colorado moved to mail-in ballots.
+Absentee balloting is also cutting into the use of paperless systems.
+In 2012, for example, roughly 1 in 10 voters who lived in areas that used paperless systems cast absentee ballots.
+Election officials say the touch-screen machines that remain in use are more secure now than they were a decade ago whether they are fitted with printers or not, thanks to extensive testing and better poll-worker training.
+They say that a hacking incident is unlikely because the machines are not connected to the Internet.
+“Voters should have confidence in whatever systems are being used in their jurisdiction because election officials have taken the necessary steps to secure these systems and ensure the integrity of the process,” said Matthew Masterson, a commissioner with the U.S. Election Assistance Commission.
+Although there has so far been no confirmed major incident of U.S. voting machines being hacked, security experts say that those aiming to manipulate votes could spread a virus through memory cards, with no Internet connection needed.
+The best way to stop that is to switch to paper-based systems, they say.
+With 55 percent of all U.S. registered voters living in areas that use systems that are no longer in production, according to the Reuters analysis, election officials must rely on a dwindling supply of spare parts.
+Virginia Beach, Virginia, for example, pulled 32 of its 820 Accuvote TSX touch-screen machines in a 2014 election after residents complained that the machines were registering votes for candidates they didn’t support.
+The city has since purchased a new optical-scan system.
+Lacking fresh federal funds, some states have opted to upgrade on their own.
+Louisiana aims to switch to an iPad-based system by 2019, while Los Angeles and Austin, Texas, are designing systems from scratch.
+Others see no reason to switch.
+In Georgia, Secretary of State Brian Kemp said he hasn’t asked the state legislature for money to replace its fleet of paperless AccuVote TS touch-screen machines.
+“It’s working just fine and all these so-called experts that are making these accusations about our system haven’t seen it,” he said.

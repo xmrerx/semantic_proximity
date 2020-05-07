@@ -1,0 +1,18 @@
+NAIROBI (Reuters) - In the run-up to Kenya s August presidential election, the ruling party used divisive social media campaigns created by a U.S. company whose previous clients include President Donald Trump, a Britain-based privacy advocacy group said on Thursday.
+Two websites - one detailing the accomplishments of President Uhuru Kenyatta and the other attacking opposition leader Raila Odinga - share an IP address with Texas-based Harris Media LLC, according to Privacy International s report.
+Privacy International said the company used data analytics to target audiences using information gleaned from social media accounts in Kenya, where 1,200 people were killed in inter-ethnic violence after a disputed election a decade ago.
+Kenyans vote largely along ethnic lines, and candidates appeal to voters on that basis.
+This raises serious concerns about the role and responsibility of companies working for political campaigns in Kenya, in which tribal affiliation and region of origin are particularly politically sensitive data, and volatile coded language was widely deployed, Privacy International said.
+Social media in the East African nation were flooded with ads linking to the Real Raila and Uhuru for Us sites in the weeks before the Aug. 26 vote.
+An official for Kenyatta s Jubilee Party denied the report, saying it handled all its campaigns locally.
+The company, U.S.-based Harris Media LLC, did not respond to a request from Reuters for comment on the report.
+But the allegations by Privacy International recalled how, for the first time in Kenya s history, social media including fake news, hashtags and trolls dominated the public discussion and stoked tensions in the run-up to the hotly contested presidential election on Aug. 26.
+Kenyans went to the polls amid concerns over the credibility of the vote and bitter online hate campaigns stoking ethnic tensions, leading to fears of a return to the bloodshed that followed the disputed 2007 vote.
+The August vote was eventually nullified by the Supreme Court over irregularities.
+Kenyatta won an October re-run that Odinga boycotted.
+But violence marred the extended election season, and more than 70 people were killed, mainly by police.
+Raphael Tuju, Jubilee Party secretary general, denied the party had hired or used Harris Media.
+We have heard a lot of those kinds of accusations.
+We were running a campaign from the Jubilee Headquarters, and we employed local communications experts, led by our own team, and that is it for us, he told Reuters by phone.
+Days before the August vote, Facebook released a tool enabling Kenyan users to evaluate content displayed prominently when they log on.
+The tool contained tips on how to spot fake news, including checking web addresses and looking for other reports on the topic.

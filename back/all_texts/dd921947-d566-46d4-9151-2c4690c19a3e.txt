@@ -1,0 +1,23 @@
+WASHINGTON (Reuters) - The White House is declining to offer public support for draft legislation that would empower judges to require technology companies such as Apple Inc to help law enforcement crack encrypted data, sources familiar with the discussions said.
+The decision all but assures that the years-long political impasse over encryption will continue even in the wake of the high-profile effort by the Department of Justice to force Apple to break into an iPhone used by a gunman in last December’s shootings in San Bernardino, California.
+President Obama suggested in remarks last month that he had come around to the view that law enforcement agencies needed to have a way to gain access to encrypted information on smartphones.
+But the administration remains deeply divided on the issue, the sources said.
+The draft legislation from Senators Richard Burr and Dianne Feinstein, the Republican chair and top Democrat respectively of the Senate Intelligence Committee, is expected to be introduced as soon as this week.
+The bill gives federal judges broad authority to order tech companies to help the government but does not spell out what companies might have to do or the circumstances under which they could be ordered to help, according to sources familiar with the text.
+It also does not create specific penalties for noncompliance.
+Although the White House has reviewed the text and offered feedback, it is expected to provide minimal public input, if any, the sources said.
+Its stance is partly a reflection of a political calculus that any encryption bill would be controversial and is unlikely to go far in a gridlocked Congress during an election year, sources said.
+A White House spokesman declined to comment on the pending legislation, but referred to White House press secretary Josh Earnest’s statements on encryption legislation.
+Last month Earnest said the administration is “skeptical” of lawmakers’ ability to resolve the encryption debate given their difficulty in tackling “simple things.” Tech companies and civil liberties advocates have opposed encryption legislation, arguing that mandating law enforcement access to tech products will undermine security for everyone.
+Several lawmakers, including U.S.
+Senator Ron Wyden of Oregon, a Democrat, have vowed to oppose any attempt to limit encryption protections in U.S. technology products.
+Even some intelligence officials worry that enabling law enforcement agencies to override encryption will create more problems than it solves by opening the door to hackers and foreign intelligence services.
+Some also say it is unnecessary because the government has other means of getting the information it needs.
+The Justice Department dropped its legal action against Apple last week, saying it had found a way to hack into the phone.
+The White House last year backed away from pursuing legislation that would require U.S. technology firms to provide a “back door” to access encrypted data.
+The backpedaling resembled a retreat by President Bill Clinton’s administration in the 1990s on efforts to require a special computer chip in phones to give the U.S. government a way to monitor encrypted conversations.
+But the desire for encryption legislation among some intelligence and law enforcement officials has never gone away, and it gained new life after the Islamist militant-inspired attacks in Paris and San Bernardino.
+Obama, speaking at the South by Southwest entertainment festival in Austin, Texas, last month, warned against “fetishizing our phones” and said that doing nothing to address law enforcement’s encryption challenges “can’t be the right answer.” Obama, however, also cautioned against Congress taking any action that would be “sloppy and rushed.” Apple and others have called on Congress to help find a solution to the problem of criminals and terrorists using encryption to avoid surveillance.
+A separate proposal to form a national encryption commission to further study the issue is also not expected to be enacted this year.
+Meanwhile, tech companies are stepping up their efforts to implement encryption and other security measures.
+The Facebook-owned messaging service WhatsApp announced this week that it had implemented complete encryption of its service - and now cannot get access to customer messages even if was ordered to by a court.

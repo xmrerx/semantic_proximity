@@ -1,0 +1,12 @@
+WASHINGTON (Reuters) - A bipartisan group of 48 lawmakers in the U.S. House of Representatives on Friday asked the Obama administration to brief Congress “as soon as possible” about a 2015 Yahoo YHOO.O program to scan all of its users’ incoming email at the behest of the government.
+The request comes amid scrutiny by privacy advocates and civil liberties groups about the legal authority and technical nature of the surveillance program, first revealed by Reuters last week.
+Custom software was installed to search messages to hundreds of millions of accounts under an order issued by the secretive Foreign Intelligence Surveillance Court.
+“As legislators, it is our responsibility to have accurate information about the intelligence activities conducted by the federal government,” according to the letter, organized by Republican Representative Justin Amash of Michigan and Democratic Representative Ted Lieu of California.
+“Accordingly, we request information and a briefing as soon as possible for all members of Congress to resolve the issues raised by these reports.” Investigators searched for messages that contained a single piece of digital content linked to a foreign state sponsor of terrorism, sources have told Reuters, though the nature of the content remains unclear.
+Intelligence officials said Yahoo modified existing systems used to stop child pornography and filter spam messages on its email service.
+But three former Yahoo employees told Reuters the court-ordered search was done by a module buried deep near the core of the company’s email server operation system, far below where mail sorting was handled.
+The Senate and House intelligence committees were given a copy of the order when it was issued last year, sources said, but other members of Congress have express concern at the scope of the email scanning.
+Some legal experts have questioned the breadth of the court order and whether it runs afoul of the U.S. Constitution’s Fourth Amendment protections against unreasonable searches.
+Half of registered U.S. voters believe the Yahoo program violated the privacy of customers, according to a poll of 1,989 people conducted last week by Morning Consult, a polling and media company.
+Twenty-five percent were supportive of the program because of its potential to stop criminal acts, the survey found, while another quarter did not know or had no opinion.
+The congressional letter is addressed to Attorney General Loretta Lynch and Director of National Intelligence James Clapper.

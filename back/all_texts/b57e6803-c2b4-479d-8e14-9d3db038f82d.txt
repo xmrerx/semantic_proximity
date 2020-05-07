@@ -1,0 +1,19 @@
+(Reuters) - North Korea has opened a second internet connection with the outside world, this time via Russia, a move which cyber security experts said could give Pyongyang greater capability to conduct cyber attacks.
+North Korea has been blamed by Western governments for several major cyber attacks in recent years, including against banks and Sony Pictures (6758.T), as well as the WannaCry ransomware attack that froze computers unless their owners sent cash.
+Pyongyang has denied any involvement.
+Tensions have risen in recent weeks as North Korea s leader Kim Jong Un and U.S. President Donald Trump have traded war-like threats and insults over the North s nuclear and missile development programs, leading to an intensification of diplomatic efforts and a renewed push on sanctions against it.
+Dyn Research, which monitors international internet traffic flows, said it had seen Russian telecommunications company TransTeleCom routing North Korean traffic since about 0908 GMT on Sunday.
+Previously traffic was handled via China Unicom (0762.HK) under a deal dating back to 2010.
+TransTeleCom now appears to be handling roughly 60 percent of North Korean internet traffic, while Unicom transmits the remaining 40 percent or so, Dyn said.
+The new external connection was first reported by 38 North, a project of the U.S.-Korea Institute at Johns Hopkins School of Advanced International Studies (SAIS).
+TransTeleCom declined to confirm any new routing deal with the North Korean government or its communications arm.
+In a statement, it said: TransTeleCom has historically had a junction of trunk networks with North Korea under an agreement with Korea Posts and Telecommunications Corp signed in 2009.
+North Korea s internet access is estimated to be limited to somewhere between a few hundred and just over 1,000 connections.
+These connections are vital for coordinating the country s cyber attacks, said Bryce Boland, chief technology officer for the Asia-Pacific region at FireEye, a cyber-security company.
+Boland said the Russian connection would enhance North Korea s ability to command future cyber attacks.
+Having internet routes via both China and Russia reduces North Korea s dependence on any one country at a time when it faces intense geo-political pressures, he said.
+Many of the cyber attacks conducted on behalf of Pyongyang came from outside North Korea using hijacked computers, Boland said.
+Those ordering and controlling the attacks communicate to hackers and hijacked computers from within North Korea.
+This will improve the resiliency of their network and increase their ability to conduct command and control over those activities, Boland said.
+The Washington Post reported earlier that the U.S. Cyber Command has been carrying out denial of service attacks against hackers from North Korea designed to limit their access to the internet.
+(wapo.st/2yRbg8w)

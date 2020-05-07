@@ -1,0 +1,15 @@
+WASHINGTON (Reuters) - A Democratic and a Republican congressmen have asked the National Security Agency to halt a reported plan to share more raw intelligence data with other federal agencies, warning the policy shift would be “unconstitutional and dangerous,” according to a letter seen by Reuters.
+U.S.
+Representatives Ted Lieu and Blake Farenthold, who sit on the House Oversight Committee, said in a letter dated March 21 to NSA Director Michael Rogers that the proposal would violate Fourth Amendment privacy protections because the collected data would not require a warrant before being searched for domestic law enforcement purposes.
+“If media accounts are true, this radical policy shift by the NSA would be unconstitutional, and dangerous,” Lieu, a California Democrat, and Farenthold, a Texas Republican, wrote.
+The New York Times reported last month that the proposal would allow the NSA to share intercepted private communications with other U.S. intelligence agencies before applying any privacy protections to the data.
+Bob Litt, general counsel of the Office of the Director of National Intelligence, told the Times the Obama administration was finalizing a 21-page draft of the new permissible procedures.
+The draft has not been made public.
+Civil liberties advocates have interpreted the change as potentially allowing NSA foreign intelligence data, which sometimes can include collection of communications to, from or about Americans, to be used for domestic policing purposes.
+The NSA has said its analysts scrub out certain personal information before handing any communications data over to other agencies.
+“Our country has always drawn a line between our military and intelligence services, and domestic policing and spying,” the lawmakers wrote.
+“We do not — and should not — use U.S. Army Apache helicopters to quell domestic riots; Navy Seal teams to take down counterfeiting rings; or the NSA to conduct surveillance on domestic street gangs.” The executive branch is able to change its rules for some surveillance programs without congressional approval.
+Without a law from Congress, the government relies on executive order 12333, which was signed by President Ronald Reagan in 1981 and later modified by President George W. Bush.
+Critics have said the order is overly broad and vague.
+The NSA did not respond to a request for comment about the letter.
+Congress last year passed a law curtailing certain aspects of the NSA’s surveillance authority, most notably ending its bulk collection of domestic phone records exposed by former NSA contractor Edward Snowden in 2013.

@@ -1,0 +1,12 @@
+PRAGUE (Reuters) - The websites used for presentation of the Czech Republic s election results were hacked on Saturday afternoon, the Czech Statistical Office (CSU) said on Sunday, adding that the vote count was not affected.
+Czechs voted on Friday and Saturday in the parliamentary election, with the results then shown on two websites that CSU maintains with an outside provider.
+During the processing (of the vote), there was a targeted DDoS attack aimed at the infrastructure of the O2 company used for elections, CSU said on its website.
+As a result, servers volby.cz and volbyhned.cz had been temporarily partly inaccessible.
+The attack did not in any way affect either the infrastructure used for the transmission of election results to the CSU headquarters or the independent data processing.
+The anti-establishment ANO party won 29.6 percent of the vote but may struggle to find coalition partners.
+Many parties expressed reluctance or rejected outright any coalition with the ANO while its billionaire founder and leader Andrej Babis fights off fraud charges.
+Czech President Milos Zeman said on Sunday that he would name Andrej Babis prime minister.
+In the last similar case, in January, the Czech Foreign Ministry said that hackers had breached dozens of its email accounts in an attack resembling one against the U.S. Democratic Party that the former Obama administration blamed on Russia.
+On the European Union level, the threat of cyber attacks has been taken more seriously in recent months after hacking attempts detected by some of the 28 member states.
+EU defense ministers tested their ability to respond to a potential hacking attack in their first cyber war games in September.
+The exercise was based on a simulated attack on one of the bloc s military missions abroad.

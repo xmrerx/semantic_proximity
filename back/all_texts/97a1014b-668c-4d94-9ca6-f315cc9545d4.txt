@@ -1,0 +1,13 @@
+Georgia s secretary of state has claimed the Department of Homeland Security tried to breach his office s firewall and has issued a letter to Homeland Security Secretary Jeh Johnson asking for an explanation.Brian Kemp issued a letter to Johnson on Thursday after the state s third-party cybersecurity provider detected an IP address from the agency s Southwest D.C. office trying to penetrate the state s firewall.
+According to the letter, the attempt was unsuccessful.And now, Channel 2 Investigative Reporter Aaron Diamond has learned two more states election agencies have confirmed suspected cyberattacks linked to the same U.S. Department of Homeland Security IP address as last month s massive attack in Georgia.The two states reporting the suspected cyberattacks were West Virginia and Kentucky.
+We need somebody to dig down into this story and figure out exactly what happened, said Georgia Secretary of State Brian Kemp.In the past week, the Georgia Secretary of State s Office has confirmed 10 separate cyberattacks on its network over the past 10 months that were traced back to DHS addresses.
+We re being told something that they think they have it figured out, yet nobody s really showed us how this happened, Kemp said.
+We need to know.
+He says the new information from the two other states presents even more reason to be concerned.
+So now this just raises more questions that haven t been answered about this and continues to raise the alarms and concern that I have, Kemp said.Through an open-records request, Diamant acquired the results of a survey Kemp asked the National Association of Secretaries of State to send to its members.West Virginia wrote back, This IP address did access our election night results on November 7, 2016.
+Kentucky responded the same IP address did touch the KY (online voter registration) system on one occasion, 11/1/16.
+In a letter this week, DHS Secretary Jeh Johnson told Kemp the department sourced the mid-November activity in Georgia to a federal contractor conducting what he called normal internet searches on the Secretary of State s website.
+But Kemp says there s a problem with that answer.
+We haven t been able to recreate this the way they explained it to us, Kemp said.Kemp also told Diamant that DHS has yet to explain at least nine other suspected network scans linked to DHS IP addresses over the last year on or around important primary and presidential election dates.
+Kemp s call for answers is amplified now by the National Association of Secretaries of State, or NASS.
+WSBTV

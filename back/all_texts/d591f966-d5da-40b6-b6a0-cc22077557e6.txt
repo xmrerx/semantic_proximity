@@ -1,0 +1,21 @@
+SAN FRANCISCO (Reuters) - A U.S. senator and civil groups critical of surveillance practices on Friday called on the government to release a 2015 order by a secret court directing Yahoo to scan all its users’ incoming email, saying it appeared to involve new interpretations of at least two important legal issues.
+Their concerns center on the nature of the technical assistance the court required Yahoo to provide and the scope of the search that legal experts said appeared to cover the Silicon Valley internet company’s entire network.
+Yahoo installed a custom software program to search messages to hundreds of millions of accounts at the behest of U.S. intelligence officials with an order from the Foreign Intelligence Surveillance Court, a secret tribunal, Reuters reported on Tuesday.
+They were looking for messages containing a single piece of digital content, three former employees and a fourth person apprised of the events told Reuters.
+Intelligence officials told Reuters that all Yahoo had to do was modify existing systems for stopping child pornography from being sent through its email or filtering spam messages.
+But the pornography filters are aimed only at video and still images and cannot search text, as the Yahoo program did.
+The spam filters, meanwhile, are viewable by many employees who curate them, and there is no confusion about where they sit in the software stack and how they operate.
+The court-ordered search Yahoo conducted, on the other hand, was done by a module attached to the Linux kernel - in other words, it was deeply buried near the core of the email server operating system, far below where mail sorting was handled, according to three former Yahoo employees.
+They said that made it hard to detect and also made it hard to figure out what the program was doing.
+How much companies can be forced to do to comply with government orders for searching data is being debated in the courts.
+Companies have successfully argued that changes that would degrade users’ experience or force them to write new code, essentially a form of speech, would violate basic rights.
+Most famously, Apple refused to write code that would unlock an iPhone belonging to a gunman in last year’s mass shooting in San Bernardino, California.
+The FBI later dropped its demand.
+In the case of Yahoo, company security staff discovered a software program that was scanning email but ended an investigation when they found it had been approved by Chief Executive Officer Marissa Mayer, the sources said.
+Lawmakers are concerned about the request and whether information about it is being properly disclosed to the public.
+“Recent reports of a mass-email scanning program have alleged that federal law is being interpreted in ways that many Americans would find surprising and troubling,” said Democratic Senator Ron Wyden of Oregon, a member of the intelligence committee and frequent critic of government surveillance programs.
+“The USA Freedom Act requires the executive branch to declassify Foreign Intelligence Surveillance Court opinions that involve novel interpretations of laws or the Constitution,” Wyden said.
+Intelligence officials said the Yahoo order resembled other requests for monitoring online communications of suspected terrorists.
+The program is far different from the bulk collection of emails and telephone records that was disclosed by fugitive National Security Agency contractor Edward Snowden, they said, stressing the target was a digital “signature” associated with a single entity’s suspected terrorist activity.
+But legal experts question whether the order might have stretched the concept of a “facility” used by a foreign power from its traditional definition, involving a single phone number or an email account, to include a large company’s entire communication network.
+“If the facility means all of Yahoo’s network, I don’t see how that’s consistent with the Fourth Amendment,” which bars unreasonable searches, said Greg Nojeim, senior counsel at the Center for Democracy & Technology.

@@ -1,0 +1,41 @@
+DAKAR (Reuters) - Rapidly expanding access to the internet across Africa is helping grassroots opposition movements take on once-invulnerable regimes.
+Many entrenched rulers have a simple response: pulling the plug.
+While countries in the Middle East and China employ firewalls and block virtual private networks to control web access, leaders in Africa increasingly prefer the blunter instrument of outright outages.
+Critics say that infringes not just the rights of individuals but also undermines the burgeoning economies of some of the world s poorest countries.
+Since the start of 2016, governments in 13 African nations have intentionally shut down the internet on 21 occasions, mainly during elections and protests, according to a database run by online rights group Access Now.
+That compares to seven shutdowns in the previous two years.
+Earlier this month, tech entrepreneur Sama Tanya saw Cameroonian police fire teargas into a residential building during protests by the country s English-speaking minority.
+As choking women and children poured onto the street, he considered documenting the crackdown to share on social media, only to realize the internet connection had been cut.
+I couldn t even reach my family to tell them.
+I was worried, but I couldn t share a thing, he said by telephone from the city of Buea, the epicenter of the demonstrations.
+Rights group Internet Without Borders says cutting access is a violation of international law and defies a July 2016 U.N. resolution affirming that the same rights that people have offline must also be protected online.
+Internet freedom declined worldwide for the sixth straight year in 2016, according to an annual report from Freedom House.
+Africa is becoming a new testing ground for authoritarian practices online, said Francois Patuel, West Africa researcher at Amnesty International.
+We have seen disruptions in Togo and in other countries but also arrests for what people are saying online.
+Often what people say online can be used against them in court.
+Internet cuts in Africa date back to the 2011 Arab Spring when rulers in Egypt, Tunisia and Libya sought to control the spread of information.
+Today, the intent is the same, but the methods have evolved.
+Governments slow internet speed by reducing bandwidth, or throttling , and target and shut down certain URLs like Facebook, Twitter and WhatsApp, a process known as filtering.
+Although free apps like VPN Monster and Turbo VPN can circumvent filtering using VPNs which mask the location of a computer or phone, even a VPN won t help you if you don t have an internet connection in the first place.
+When Gabon shut down internet access for several days last year as violent street protests erupted against President Ali Bongo s contested re-election, it likely only required flipping a virtual switch at state-run Gabon Telecom.
+Gabon Communications Minister Bilie-By-Nze acknowledged in a Reuters interview that internet access had been disrupted, but declined to comment further.
+During elections in Gambia in December, the government ordered the shutdown of the internet s landing point , the central point from which service is supplied to the whole country, according to two people with knowledge of the decision.
+In Togo, authorities appeared to have organized a mobile data shutdown during opposition protests against President Faure Gnassingbe last month, according to people who were there who said fixed internet lines remained available.
+Certain people post images to amplify the situation or publish photos of horror, Togo s Security Minister Colonel Damehame Yark told reporters earlier this month.
+The government decided to cut the internet because we have to protect the population.
+Democratic Republic of Congo asked telecommunications companies to block social media networks in December.
+Providers declined to comment at the time on whether they would comply, but one industry executive said all companies had signed an agreement to respect national security injunctions.
+When a sovereign government gives licenses to telecoms companies, those companies have little choice but to comply with the government s demands, said Doug Madory, director of internet analysis at Oracle Dyn, which monitors international internet traffic flows.
+Orange and Airtel, which provide service in countries where there have been shutdowns, did not respond to requests for comment for this story.
+MTN, the continent s top mobile phone operator, provided a link to a company statement outlining its dedication to internet freedom but declined to comment further.
+Outages may be aimed at political opponents or social disruptors but businesses crucial to Africa s economic growth can get also caught up in the crackdown.
+Sub-Saharan Africa s internet shutdowns have cost the region up to $237 million in economic losses since 2015, according to a recent report by the UK government-funded Collaboration on International ICT Policy for East and Southern Africa.
+Shutdowns are adversely affecting the livelihoods of citizens, undermining the profitability of business enterprises, and reducing the GDP and competitiveness of countries that implement them, the report said.
+Etta Ayuk s small tech start-up Skylabase, which provides software to banks, lost three major clients and $20,000 worth of business when the internet was shut down from January to April in Anglophone Cameroon, forcing him to fire nearly half his employees.
+During the outage, Ayuk and his remaining staff crammed onto buses every morning for the 70-km (44-mile) drive to Francophone Cameroon s commercial capital, Douala, to use the internet there.
+Gridlock often made it a three-hour trip each way.
+Cameroon s government declined repeated requests for comment.
+Ayuk is considering rebasing to Gambia, which has not had a government shutdown since Adama Barrow became president in January 2017.
+Barrow is encouraging internet start-ups.
+I am a child of Cameroon, I don t want to leave, he said.
+But the political situation is not supporting us.

@@ -1,0 +1,49 @@
+(Reuters) - WikiLeaks, the website that specializes in exposing secrets, released thousands of documents that described internal U.S. Central Intelligence Agency discussions on hacking techniques it used between 2013 and 2016 to circumvent security on electronic devices for spying.
+U.S. officials said on Wednesday that CIA contractors were the likely source of the leak.
+The following are some questions and answers users of consumer electronics may have: Q: How many of the vulnerabilities described in the Wikileaks document are still open to exploit by hackers or spies?
+A: There is no definitive answer in the documents, which describe attack techniques but often do not give enough detail for even the device and software vendors to understand fully how their products were targeted and close the security holes.
+Software updates have solved many of the flaws but it is unclear how many remain.
+In a chart of exploits for Apple’s iPhone, the most recent version listed as hackable was iOS 9.2, which was released in late 2015.
+Q: What did we learn about the CIA’s hacking program?
+A. WikiLeaks published documents that it says describe CIA tools for hacking into devices including mobile phones, computers and smart televisions.
+Q: How can you hack a TV?
+A: WikiLeaks said it identified a project known as Weeping Angel where U.S. and British intelligence agencies developed ways to take over Samsung smart TVs equipped with microphones, forcing them to record conversations when the device appeared to be turned off.
+Experts have long said smart TVs and other Internet-connected devices can be exploited to monitor a target.
+Q: Are these revelations new?
+A: While the specific details are new, it is well known in the cyber security community that intelligence agencies are constantly trying to leverage flaws in technology products to conduct espionage.
+Q: The documents suggest that the CIA can access information in encrypted messaging apps like WhatsApp and Signal.
+I thought they were safe from even government spying?
+A: No system is perfect.
+The documents describe ways to get information in those apps on Android devices, but only after gaining full control of those phones.
+Reuters has not found evidence in the documents released by WikiLeaks that the CIA had figured a way to break the encryption in those apps.
+Q: Are iPhones also vulnerable?
+A: The documents discuss ways to get into iPhones as well.
+One appeared to show a list of Apple iOS security flaws purchased by U.S. intelligence agencies so they could gain access to those devices.
+Q: What should I do if I’m worried?
+A: Most people do not need to worry about being targeted by intelligence agencies.
+But everybody should stay on top of software patches so all their computers, mobile phones and other connected devices are running software with the latest security updates.
+Consumers should balance security concerns with their need to use smart devices.
+Q: What did we learn about how the CIA may try to make American hacking look like the work of hackers from other countries like Russia?
+A: The CIA has a library of attack code taken from multiple sources and sorted by function, including a program from a Russian criminal kit that permits spyware to survive rebooting and a data-destruction tool lifted from a suspected Iranian operation.
+One purpose of such a collection is to avoid having to write programs from scratch, while another is to confuse anyone who discovers the malware in action.
+The documents released so far do not show that the CIA set out to deceive victims into believing they had been hacked by someone else, but it suggests that the agency was capable of doing so if it wanted.
+Q: Is this as big as the leaks from former National Security Agency contractor Edward Snowden?
+A: The Snowden leaks revealed that the NSA was secretly collecting U.S. call metadata on ordinary Americans.
+The materials released by WikiLeaks on Tuesday did not appear to reveal the existence of unknown any unknown programs.
+Instead they supplied details on how U.S. intelligence agencies work to discover and exploit security flaws to conduct espionage.
+Q: How damaging is this revelation to U.S. intelligence?
+A: U.S. intelligence officials say the damage is limited because much of what was published is old, a number of the vulnerabilities in smart TVs and other devices have been known for at least two years and many have been patched.
+The breach was discovered late last year according to U.S. officials and most or all of the tools Wikileaks published are no longer in use.
+In addition, they said, unless additional codes that would enable users to exploit the leaked material are also published, it would be difficult for other countries, groups, or people to use the leaked material against the United States or its allies.
+Q: Are the documents authentic?
+A: Reuters could not immediately verify the contents of the published documents.
+U.S. officials told Reuters that they believe the documents are authentic.
+While the CIA has declined to comment, independent cyber security experts and former intelligence agency employees who have looked through them say that they appear to be authentic, citing code words used to describe CIA hacking programs.
+Q: How did WikiLeaks get the information?
+A: Unclear.
+Someone inside the agency may have leaked the information.
+Or, someone outside may have figured out a way to steal it.
+U.S. officials told Reuters on Wednesday that contractors were the likely source for the leak.
+Q: What has the U.S. government and other governments said in response?
+A: The White House said U.S. President Donald Trump was “extremely concerned” about the CIA security breach that led to the WikiLeaks release.
+Germany’s chief federal prosecutor’s office said it would review the Wikileaks documents which suggest the CIA ran a hacking hub from the U.S. consulate in Frankfurt, and would launch a formal investigation if warranted.

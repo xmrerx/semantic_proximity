@@ -1,0 +1,10 @@
+Tucker Carlson had an intense debate with Clinton adviser and paid spokesliar Richard Goodstein tonight about whether the recent commotion about fired anti-Trump FBI agent Peter Strzok exposes the political double standard at the FBI:(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11'; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));Double StandardTucker: the FBI seems to have one standard for Hillary, and one for everyone else.Posted by Tucker Carlson on Monday, December 4, 2017Mediaite reports:The Fox host s A-block tonight gravitated around the news that Robert Mueller removed Strzok from the special counsel investigation after indications showed the FBI agent working with pro-Clinton, anti-Trump leanings.
+Carlson and Goldstein argued this by comparing Clinton and Flynn s respective lies, and whether the FBI ever tried to lead Clinton into a perjury trap like Carlson insisted that they did with Flynn.
+There s a double standard, Carlson insisted.
+[Flynn s] name is tarnished for life because he lied in his conversation with FBI agents.
+Hillary Clinton got a special deal where she was not speaking under oath to FBI agents.
+Who gets that deal?
+Goodstein retorted that Carlson was trying to make something out of nothing, saying that Clinton would ve been subject to triable charges even if her conversations with the FBI were not held under oath.
+Carlson went on to accuse Goldstein of intentionally missing my point about Strzok s partisanship and redefining the legalities at play in Clinton s investigation.
+Why in time and again are you saying the FBI refused to respond to Congress when its own integrity is in question, Carlson asked.
+That is a cover-up.

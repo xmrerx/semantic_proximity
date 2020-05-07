@@ -1,0 +1,26 @@
+WASHINGTON (Reuters) - Apple Inc (AAPL.O) has been asked by Chinese authorities within the last two years to hand over its source code but refused, the company’s top lawyer told lawmakers on Tuesday in response to U.S. law enforcement criticism of its stance on technology security.
+The congressional testimony highlighted an issue at the heart of a heated disagreement between Apple and the FBI over unlocking encrypted data from an iPhone linked to last December’s San Bernardino, California shootings - how much private technology companies should cooperate with governments.
+Law enforcement officials have attempted to portray Apple as possibly complicit in handing over information to China’s government for business reasons while refusing to cooperate with U.S. requests for access to private data in criminal cases.
+“I want to be very clear on this,” Apple general counsel Bruce Sewell told Tuesday’s hearing under oath.
+“We have not provided source code to the Chinese government.” Chinese Foreign Ministry spokeswoman Hua Chunying, asked about the comments, said she did “not understand” details of the situation.
+She did not elaborate.
+China’s Public Security Ministry did not respond to a request for comment.
+Apple has previously denied the accusation as a “smear” originating from the U.S. Department of Justice’s effort to force Apple to help unlock the iPhone 5c used by one of the two San Bernardino killers, who were inspired by Islamist militants.
+The claim resurfaced in the hearing called by a House Energy and Commerce subcommittee to examine potential common ground between law enforcement and the technology sector in the encryption debate, though more than three hours of testimony yielded little clear agreement.
+Captain Charles Cohen, commander in the Indiana State Police, repeated the suggestion that Apple has quietly cooperated with Beijing, which strictly regulates technology in exchange for access to its market.
+But when pressed by Representative Anna Eshoo, a California Democrat, for the source of that claim, Cohen only cited news reports.
+“That takes my breath away,” a visibly frustrated Eshoo said.
+“That is a huge allegation.” The Justice Department had argued in the San Bernardino case that it would be willing to demand Apple turn over source code that underlies its products, though at the time it only sought the company’s cooperation in writing new software that would disable the passcode protections on the phone.
+Technology and security experts have said that if the U.S. government was able to obtain Apple’s source code with a conventional court order, other governments would demand equal rights to do the same thing.
+After winning a court order in February, the Federal Bureau of Investigation dropped its case against Apple last month when it said it had found a third party entity to help investigators hack into the iPhone used by gunman Rizwan Farook.
+On Tuesday, Apple and the FBI were making a second appearance in Congress since March to testify over law enforcement access to encrypted devices, a decades-old dispute between Silicon Valley and Washington that gained renewed life from the San Bernardino case.
+While that standoff underscored national security concerns posed by advances in technology security, the growing use of strong default encryption on mobile devices and communications by criminal suspects is handicapping investigators’ ability to pursue routine cases, law enforcement officials told the hearing.
+Apple and other companies defend the technology as integral to protecting consumers.
+The FBI relies heavily on the “services and specialized skills that we can only get through the private industry, and that partnership is critical to our success,” testified FBI technology official Amy Hess.
+Separately, the tech advocacy group Electronic Frontier Foundation sued the Justice Department in San Francisco federal court on Tuesday, seeking to force the disclosure of any secret orders from the Foreign Intelligence Surveillance Court that may have forced companies such as Apple or Google to decrypt communications.
+Thomas Galati, chief of intelligence at the New York Police Department, said his investigators had been unable to open 67 Apple devices from October 2015 to March 2016.
+Those phones were implicated in 44 violent crimes 23 felonies, including 10 homicides, two rapes, and the shooting of an officer, Galati said.
+The government has redoubled its efforts to use the courts to force Apple’s cooperation in cracking encrypted iPhones by announcing plans to continue with an appeal in a New York drug case.
+The secrecy surrounding the method used on the San Bernardino phone has prompted criticism from security researchers who said Apple and others should be made aware of the flaw, in accordance with a White House vulnerabilities review process that favors disclosure.
+But Obama administration sources have told Reuters the group that helped unlock the device has sole ownership of the method, making it highly unlikely the technique would be disclosed by the government to Apple or anyone else.
+“I don’t think relying on a third party is a good model,” Representative Diana DeGette of Colorado, the committee’s top Democrat, said at the hearing.

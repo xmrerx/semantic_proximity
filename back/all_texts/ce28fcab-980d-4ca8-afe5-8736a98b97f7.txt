@@ -1,0 +1,16 @@
+WASHINGTON (Reuters) - The U.S. House of Representatives’ information technology team has blocked lawmakers from accessing software applications hosted on a Google cloud service to prevent possible hacking campaigns, two congressional sources said on Wednesday.
+The move came after Yahoo Mail was also blacklisted by House authorities due to fears of ransomware infiltration.
+The two restrictions, which have hampered some internal communications in the lower chamber, have both been implemented within the past two weeks and are still in place.
+The episodes are not believed to be related, the sources said.
+Devices connected to the House’s internet via wifi or ethernet cables have been barred from accessing appspot.com, the domain where Google hosts custom-built apps, after the FBI notified Congress of a potential security vulnerability, the sources said.
+“We began blocking appspot.com on May 3 in response to indicators that appspot.com was potentially still hosting a remote access trojan named BLT that has been there since June 2015,” one of the sources, a House staffer with direct knowledge of the situation, told Reuters.
+A Google (GOOGL.O) spokesman said the company was investigating reports of the restriction and would work with the House to resolve any issues.
+The FBI has so far not responded to a request for a comment.
+The FBI sent an advisory to private industry in June 2015 about a number of remote access tools capable of stealing personally identifiable information, including a trojan file named BLT found on the Google appspot.com domain.
+Ted Henderson, a former House employee, said two Google-hosted apps he created specifically for use by congressional staffers to discuss politics and share alerts on votes are now effectively banned on their work network.
+The disabling of appspot.com occurred after the House Information Security Office sent an advisory email to lawmakers and staffers on April 30 warning of increased phishing attacks on the House network from third party, web-based mail applications including Yahoo Mail and Gmail.
+“The attacks are focused on putting ‘ransomware’ on users’ computers,” the email, seen by Reuters, states.
+It added that the primary focus of the attackers appeared to be Yahoo Mail, which was being blocked on the network “until further notice.” Two individuals fell victim to ransomware by clicking on infected Word document email attachments, sources familiar with the hacking said.
+The infected files were able to be recovered without paying any ransom, the sources said.
+Ransomware attacks, which involve accessing a computer or network’s files and encrypting them until a ransom is paid by the victim, have grown more severe and common in recent years.
+Yahoo YHOO.O is working closely with the House to resolve the matter, a company spokesperson said.

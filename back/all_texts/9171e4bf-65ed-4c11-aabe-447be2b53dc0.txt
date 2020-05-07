@@ -1,0 +1,12 @@
+21st Century Wire says It s a familiar theme.
+Whenever there is a dispute or a change of law, and two tribes go to war, there is normally only one real winner after the tribulation the lawyers.
+Ars TechnicaIn late 2013, Yahoo was hit with six lawsuits over its practice of using automated scans of e-mail to produce targeted ads.
+The cases, which were consolidated in federal court, all argued that the privacy rights of non-Yahoo users, who did not consent to Yahoo s interception and scanning of their emails, were being violated by a multi-billion dollar company.Now, lawyers representing the plaintiffs are singing a different tune.
+Last week, they asked US District Judge Lucy Koh to accept a proposed settlement (PDF).
+Under the proposal, the massive class of non-Yahoo users won t get any payment, but the class lawyers at Girard Gibbs and Kaplan Fox intend to ask for up to $4 million in fees.
+(The ultimate amount of fees will be up to the judge, but Yahoo has agreed not to oppose any fee request up to $4 million.
+)While users won t get any payment, Yahoo will change how it handles user e-mails but it isn t the change that the plaintiffs attorneys were originally asking for.
+Yahoo won t stop scanning e-mails.
+Instead, the company has agreed to make a technical change to when it scans e-mails.
+In the settlement (PDF), Yahoo has agreed that e-mail content will be only sent to servers for analysis for advertising purposes after a Yahoo Mail user can access the email in his or her inbox.
+The settlement deal looks pretty similar to what Yahoo had argued it did in the first place Continue this story at Ars TechnicaREAD MORE NSA NEWS AT: 21st Century Wire NSA Files

@@ -1,0 +1,27 @@
+WASHINGTON (Reuters) - Members of the House Judiciary Committee are considering filing a “friend of the court” brief in Apple Inc’s [AAPL.O] encryption dispute with the U.S. government to argue that the case should be decided by Congress and not the courts, five sources familiar with the matter said.
+The sources cautioned that no final agreement had been reached on what would be an unusual intervention by congressmen in a legal proceeding.
+Any filing would occur after a panel hearing on Tuesday that will include FBI Director James Comey and Apple General Counsel Bruce Sewell.
+The court deadline is Thursday.
+The filing would argue that the Feb. 16 order from a federal court in California that instructs Apple to write special software to unlock an iPhone 5c used by one of the San Bernardino shooters threatens the constitutional separation of powers, the sources said.
+They said the brief would come from individual committee members of both Republican and Democratic parties but not the judiciary committee itself.
+Reuters could not determine which members were likely to be included.
+Lawmakers could wait until the appeals process before intervening, the sources said.
+Apple last week formally opposed the order in court, calling the case “unprecedented” and a violation of free speech rights that would override the will of Congress.
+On Monday, a judge in a related New York case sided with Apple in agreeing that the courts did not have the authority to order Apple to unlock a phone.
+The San Bernardino case has come to represent a broader debate over how much authority law enforcement should have to compel companies to assist in monitoring digital communications.
+The encryption debate does not divide along party lines, with liberal Democrats and libertarian-leaning Republicans both supporting Apple’s stance.
+Many pro-law enforcement lawmakers of both parties, and Republican presidential front-runner Donald Trump, support the government’s position.
+The unusual Congressional intervention would come on top of a wave of support for Apple among its Silicon Valley brethren.
+Some two-dozen companies and civil liberties groups are expected to weigh in on Apple’s side.
+Relatives of some of the shooting victims are planning to back the government’s case, said their lawyer, Stephen Larson.
+The Federal Bureau of Investigation earlier this month sought and obtained a court order requiring that Apple write new software and take other steps to unlock an iPhone 5C that was used by Rizwan Farook, who along with his wife went on a shooting rampage on Dec. 2 in San Bernardino that killed 14 and wounded 22.
+The government has said the attack was inspired by Islamist militants and the FBI wants to read data from the phone to investigate any links the couple might have had with militant groups.
+Apple is concerned that the order would lead to endless similar requests in the U.S. and overseas and ultimately undermine the security of all Apple phone.
+A number of large tech firms have publicly said they will file briefs supporting Apple.
+Google, Facebook and Microsoft are expected to file jointly and be represented by Neal Katyal, a Georgetown law professor and former acting U.S. solicitor general for the Obama administration, according to a source familiar with the companies’ plans.
+Amazon, LinkedIn, Twitter, the Mozilla Foundation, and the cloud storage firm Box, along with advocacy groups including the Electronic Frontier Foundation and the Center for Democracy and Technology, are also expected to support Apple.
+Still, some major companies, including IBM, are expected to sit out the fight.
+Telecom carriers have also been notably reluctant to get involved; Verizon is unlikely to file a friend of the court brief, despite comments from its CEO that the company supports encryption with no backdoors, sources familiar with the matter said.
+A Justice Department spokeswoman declined comment on Sunday about what other briefs were expected.
+Apple’s high-profile standoff with the U.S. government is being played out as many of the Obama administration’s most senior officials are traveling to San Francisco this week to attend the world’s largest cyber security conference.
+U.S. Attorney General Loretta Lynch, National Security Director Michael Rogers and Defense Secretary Ash Carter are all scheduled to speak at RSA conference, where the iPhone fight and encryption more broadly are expected to dominate conversation.

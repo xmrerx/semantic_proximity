@@ -1,0 +1,38 @@
+LONDON (Reuters) - Planned changes that President Barack Obama says are aimed at ensuring American companies do not avoid tax by shifting their headquarters overseas could also force foreign companies to adopt more conservative U.S. tax-planning strategies.
+One of the measures restricts the ability of U.S. subsidiaries of foreign companies to deduct the interest they pay on loans from their parent firms from their taxable income.
+It aims to stop a redomiciled American firm from reducing its U.S. tax bill by piling inter-group debt on its U.S. operations, and effectively shifting profits overseas.
+But it could also affect European companies that use similar strategies to reduce their tax bills in the United States after buying U.S. firms.
+The new rules announced by the Treasury department this week aim to curb so-called ‘inversions’ - where a U.S. group acquires a smaller overseas company and shifts its domicile to a lower-tax jurisdiction.
+Drugmaker Pfizer’s plan to buy rival Allergan and move to Ireland was one of the planned inversions that prompted the Obama administration to act.
+The $160 billion deal fell apart last week as a result of other aspects of the Treasury reforms.
+Under the new rule regarding debt, if a U.S. subsidiary transfers money to its overseas parent within three years before or after borrowing money from it, by paying a dividend or buying shares in the parent, then U.S. tax authorities could potentially treat the loan as if it was equity.
+This means the interest on the debt would not be deductible for U.S. income tax purposes.
+Experts said that European companies would still be able to shift profits via inter-group debt, but may have to do so gradually over a longer period of time.
+“It, without doubt, significantly changes the rules of the game,” said Stephen Shay, professor of law at Harvard University.
+“In the old days you bought and then you levered up as much as you can and that is not going to happen in the same way, but how much of a constraint that becomes is unclear,” he added.
+Nancy McLernon, president of the Organization for International Investment, a trade group for the U.S. subsidiaries of foreign companies, denied non-U.S. groups were routinely shifting profit overseas through debt.
+“Where’s the problem they (U.S. authorities) are trying to fix?
+It feels more like a tax grab,” she said.
+She said the complexity of the issue and uncertainty over how the Internal Revenue Service (IRS), the U.S. tax authority, would seek to use their new powers would make investing in new U.S. projects less attractive.
+“It will have a chilling effect on foreign direct investment in the United States,” McLernon added.
+The Treasury says it is targeting situations where large debts are incurred to fund dividends shortly after an inversion or foreign acquisition, rather than the most common way U.S. subsidiaries accumulate inter-group debt.
+That is by having the subsidiary gradually pay all its profit to its parent as dividends and then borrow money from its parent for new investment.
+“The proposed regulations generally do not apply to related-party debt that is incurred to fund actual business investment, such as building or equipping a factory,” a Treasury factsheet released last week said.
+Providing the money a foreign company takes out of its U.S. subsidiary is in line with the U.S. company’s profits, the transactions should escape IRS scrutiny, Shay said.
+Companies don’t usually publish details of their inter-group financing so it’s impossible to put a figure on how much profit foreign companies shelter from U.S. tax through inter-group loans.
+Richard Murphy, professor of practice in international political economy at City University London, estimates the IRS could lose tens of billions of dollars in taxes each year in this way.
+Companies that have reduced their U.S. tax bills via inter-group lending include drugmaker GlaxoSmithKline, education group Pearson, utility Scottish Power and telecoms group Vodafone.
+All said their lending to U.S. subsidiaries had been unwound and that they complied with all tax rules.
+Details of their lending arrangements came to public attention following data leaks or legal action with tax authorities.
+A 2013 Reuters examination of tax planning by Europe’s largest software group, SAP AG, showed how the German company shifted profits from the United States, which has a corporate tax rate of at least 35 percent, to Ireland whose headline rate is 12.5 percent.
+here HIGH-INTEREST LOANS According to Reuters calculations based on 2015 corporate filings, SAP America Inc reduces its U.S. tax bill by around $200 million a year by borrowing $7.4 billion from SAP Ireland US Financial Services Ltd at an interest rate of at least 7 percent.
+The debt, which helped fund the acquisition of U.S. software groups, cuts its taxable income by around $600 million a year.
+A spokesman for SAP group declined to comment on the Reuters calculations but said the company followed all tax rules and that its funding structure was driven by business rather than tax reasons.
+Some measures previously proposed by Obama and the Organization for Economic Co-operation and Development (OECD), which advises developed nations on tax policy, would have limited interest deductions to the extent that they reflected an operating unit’s share of total group interest costs.
+Since SAP group’s total net interest expense was just 5 million euros last year, most of its U.S. subsidiary’s deduction may have been disallowed under such proposals.
+But the Treasury plan is far more limited than these proposals.
+SAP filings suggest that it has not taken large amounts of cash from its acquired U.S. subsidiaries and recapitalized them with debt.
+Debts accumulated as SAP has done – by acquiring and expanding U.S. companies - should not be captured by the new measures, even if that debt is out of proportion to the parent’s overall debt burden.
+But it’s hard to be certain.
+Inter-group debts usually run for a period of a few years, and each time they extend them, there is an opportunity for the IRS to re-examine the arrangement.
+“There is certainly is a risk when they roll over that instrument, that it is going to be recharacterised as equity,” said Victor Fleischer, professor of law at the University of San Diego, said of the SAP loans.

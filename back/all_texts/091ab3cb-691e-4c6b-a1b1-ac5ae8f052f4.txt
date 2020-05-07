@@ -1,0 +1,11 @@
+Rumors that the DNC hack was tied to Russia have been swirling for several days, but now, this is no longer just a mere suspicion.
+Researchers with ThreatConnect, who specialize in cyber security, have traced the hacker back to a Russian internet server.According to the Arlington, Va. based ThreatConnect, Guccifer 2.0, the DNC Hacker who has described himself/herself as Romanian, has been linked to a Russian internet server and a digital address that has been associated with various Russian online scams.
+Guccifer 2.0 is not thought to be a sophisticated hacker.
+Researchers with ThreatCOnnect believe it is more likely that this is propaganda by a group of people working with the Russian government in an effort to take attention off Moscow as the actual force behind the DNC hack.
+Now, after further investigation, we can confirm that Guccifer 2.0 is using the Russia-based Elite VPN service to communicate and leak documents directly with the media.
+We reached this conclusion by analyzing the infrastructure associated with an email exchange with Guccifer 2.0 shared with ThreatConnect by Vocativ s Senior Privacy and Security reporter Kevin Collier.
+This discovery strengthens our ongoing assessment that Guccifer 2.0 is a Russian propaganda effort and not an independent actor.
+The experts with ThreatConnect are the first to trace the self-proclaimed hacker back to Russia.Rich Barger, ThreatConnect s chief intelligence officer, reiterated his believe that the party responsible was not a sophisticated hacker when speaking with The Daily Beast.
+These are bureaucrats, not sophisticated hackers, he insisted.
+Barger backed up his assessment up with the following:Republican nominee Donald Trump has had an ongoing bromance with Russian president, Vladimir Putin.
+Many have said they believe that the DNC hack and subsequent email dump were an attempt by Putin to help out his billionaire buddy s bid for the presidency.Featured image via Lintao Zhang/Getty Images

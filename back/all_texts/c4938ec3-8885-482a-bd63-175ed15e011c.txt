@@ -1,0 +1,28 @@
+NEW YORK (Reuters) - Prospects that the presidential election will inject a hefty dose of volatility into U.S. stock markets are fading fast as Republican Donald Trump’s victory odds lengthen.
+A reading of positioning data on options tied to the benchmark S&P 500 index shows little pickup in demand for contracts that would offer investors downside insurance in the event that stock prices take a major hit right after the Nov. 8 election.
+Moreover, based on options term structures - calculated from prices of options with different expirations - it is hardly evident at all that investors are positioning for an uncertain outcome, even with Election Day barely two weeks away, Michael Purves, head of derivatives research at Weeden & Co, said.
+“There had been a modest premium bump for November options a few weeks ago, but that seems to have faded steadily with Trump’s slide in polls,” Purves said.
+In a Reuters poll of equity strategists earlier this month, a victory by Democrat Hillary Clinton was viewed as the more positive outcome for stock prices in the near term.
+Trump’s chances of defeating Clinton to capture the White House have diminished markedly over the last several weeks, according to most polls and prediction markets.
+The Reuters/Ipsos States of the Nation project, which uses an online opinion poll to project election outcomes in all 50 states, estimates that Clinton has a better than 95 percent chance of winning the minimum of 270 Electoral College votes to claim the presidency if the election were held today.
+The most likely outcome would be 326 votes for Clinton to 212 for Trump.
+On PredictIt, a popular online predictions and betting market, Clinton’s implied chances of victory have risen to around 80 percent from around 63 percent a month ago.
+The lack of positioning for an election-related volatility shock is consistent across the options market.
+“I just don’t see a whole lot of shifting of positions.
+I don’t see people taking on a very bearish stance or anything like that.
+It’s a little bit surprising,” said Randy Frederick, managing director, trading and derivatives at Charles Schwab, Austin, Texas.
+“If it was a much closer race it might have been a different story, but the polls have Hillary Clinton in a pretty solid lead right now and the market seems to be on board with that idea,” Frederick said.
+A Brookings Institution study published on Friday from two U.S. economics professors concluded that a Clinton victory would further suppress stock market volatility, whereas a Trump victory would send it soaring.
+Justin Wolfers, of the University of Michigan, and Eric Zitzewitz, of Dartmouth College, said recent market reactions to pre-election events, including the first Trump-Clinton debate and the release of a video of Trump making vulgar comments about women, signal that equity volatility could fall by 15 to 30 percent with a Clinton win.
+(tinyurl.com/zl4ew4u) While the options market might be only a moderate catalyst for the S&P 500 index, individual sectors such as healthcare and energy might be more prone to election-related volatility, derivatives analysts at Deutsche Bank said in a recent note.
+And just because investors are not braced for election-linked stock gyrations is no guarantee that markets will remain calm, analysts said.
+Given that the market is not pricing a lot of volatility for November, the absence of positioning could aggravate a volatility shock in the event of a surprise result.
+“If you think Trump will win, you want to get long SPX puts or long CBOE Volatility Index calls right now as protection,” said Purves, referring to options contracts that profit from a jump in volatility.
+A clean sweep by the Democrats of the House of Representatives, the Senate and the White House could also unleash volatility, Purves said.
+Indeed, there is a very modest skew toward protective put options over more bullish calls among contracts expiring near the election.
+For S&P 500 index weekly contracts expiring on Nov. 11, puts outnumber calls by a 2.1-to-1 margin, compared with 1.9-to-1 for all expirations, according to Thomson Reuters data.
+Prices for at-the-money put and call contracts that expire on the eve of the election suggest a 1.8 percent move, up or down, in the S&P 500 by then, while comparable contracts expiring later that week see an up or down move of 2.1 percent.
+Nonetheless, demand for volatility protection remains low and such options are relatively cheap, and getting cheaper.
+For instance, the cost for an S&P index option conveying the right to sell an S&P index future at the 2,050 level, about 4 percent below Friday’s close, and expiring on Nov. 9, the day after the election, has plunged from $12.42 on Monday to $4.80 on Friday, a 61 percent decline.
+With Trump trailing in opinion polls, the focus ahead of the Nov. 8 vote is shifting to whether Republicans can keep their narrow majority in the Senate or even their larger advantage in the House of Representatives.
+“Gridlock is the most market friendly outcome, and that is what the options market seems to be anticipating,” Purves said.

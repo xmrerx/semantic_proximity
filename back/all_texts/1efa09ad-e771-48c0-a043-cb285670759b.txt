@@ -1,0 +1,2 @@
+// <!
+[CDATA[ (function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&#038;version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk')); // ]]>Gitmo detainee, who said he would kill Americans if he was released, has just been freed Posted by Fox & Friends on Tuesday, 12 January 2016Representative Louie Gohmert (R-TX) eviscerates Obama and his regime for the release of this terrorist:

@@ -1,0 +1,16 @@
+WASHINGTON (Reuters) - A U.S. Republican Party website selling campaign stickers and other political gear is among thousands of websites infected with a credit-card stealing virus that sent data to a server in Russia, according to a Dutch security researcher.
+A page on the National Republican Senatorial Committee’s website selling stickers, T-shirts and baseball caps was infected with a hard-to-detect virus that collected all information entered on orders, including buyers’ names and addresses, credit card numbers and merchandise ordered, according to the researcher, Willem de Groot.
+De Groot, co-founder of Dutch e-commerce company Byte, said that he learned of the infection after conducting a web scan to find sites infected with the virus.
+“I don’t think it was a targeted attack,” de Groot told Reuters.
+Other victims include clothing retailers, car manufacturers and local shops.
+He declined to identify them, saying he had not had time to notify them of the infection.
+The NRSC took down the website on Thursday and acknowledged that it had been targeted by a “skimming operation”.
+NRSC spokeswoman Andrea Bozek said a vendor discovered “an issue yesterday that affected an extremely small number of supporters.” “The problem was fixed immediately and we are contacting those who were affected,” she said in a statement.
+She provided no further details.
+The NRSC, a party operation dedicated to getting Republicans elected to the Senate, said it found no evidence that its primary donation system was hacked.
+The numbers affected account for less than 0.0018 percent of online donations to the NRSC, a committee aide said.
+The committee had received more than $65 million in political contributions for the 2016 campaign, as of Aug. 31, according to Federal Election Commission records.
+Researcher De Groot documented the attack in a video on his blog, in which he demonstrates that entering an order on the NRSC site causes the malware to send its details to a server in Russia.
+bit.ly/2dxNS6z The malware was embedded into the site’s code, which can be viewed using a common web browser, according to de Groot.
+A search of archived versions of the set led him to determine that it had been infected since at least March of this year, he said.
+The infection was earlier reported by the Dutch website Follow the Money, www.ftm.nl.

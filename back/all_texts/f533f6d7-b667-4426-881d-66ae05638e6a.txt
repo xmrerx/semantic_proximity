@@ -1,0 +1,62 @@
+DNC staffer Seth Rich was shot in the back several times while walking home late at night, when he was only blocks from his home.
+Rich was on the phone with his fianc when he was shot and left for dead.
+Seth Rich was hired by the Democrat Party as the official voter expansion data director.
+Although there is no confirmed connection yet, he was clearly privy to information that could potentially harm the Democratic Party, and more specifically Hillary Clinton s chances of winning the election in November.
+Although the DC Police Department ruled the crime a botched robbery, nothing was stolen from Rich after he was shot.
+Many believe that Rich was the person who copied the DNC emails and sent them to Wikileaks via a middle-man.
+Was Guccifer 2.0 the middle man?Wikileaks founder Julian Assange has strongly hinted that the source for the DNC emails he released was Seth Rich.
+In this interview with Julian Assange, he seems to suggest on Dutch television program Nieuwsuur that Seth Rich was the source for the Wikileaks-exposed DNC emails and was murdered:On August 9, 2016, Assange offered a $20K reward for information leading to the conviction for the murder of DNC staffer Seth Rich.
+ANNOUNCE: WikiLeaks has decided to issue a US$20k reward for information leading to conviction for the murder of DNC staffer Seth Rich.
+WikiLeaks (@wikileaks) August 9, 2016The report shows the DNC files were copied only 5 days before the unsolved cold-blooded murder of DNC staffer Seth Rich.
+h/t GPOn Sept. 13, 2016, POLITICO reported on Guccifer 2.0 s alleged hack into the DNC servers:If authentic, the documents would represent the latest strike from the mysterious hacker persona that has already roiled the 2016 election with leaks of documents stolen from the DNC and the House Democrat s campaign arm, the DCCC.
+Earlier document dumps include the internal communications that forced the resignation of former DNC Chairwoman Debbie Wasserman Schultz this summer and fueled allegations of party bias against Bernie Sanders.The following statement from FBI Director James Comey seems to back up the assertion that Guccifer 2.0 was not the hacker.
+Comie testified to Congress that it was the assessment of the FBI that, hostile actors gained access to the private commercial email accounts of people with whom Secretary Clinton was in regular contact from her personal account.
+(like Seth Rich?
+)According to Fox News In May, 2016, Guccifer repeatedly claimed to Fox News during a series of interviews that he had successfully breached Clinton s private server.
+Guccifer made the same claims to NBC News, which published his claims later.In July, when FBI Director James Comey was asked about this claim before Congress, he testified, He did not [gain access to Clinton s server], he admitted that was a lie.
+Guccifer 2.0 was arrested and extradited to Romania where he is currently serving time for hacking offenses.
+In communication from jail, Guccifer 2.0 adamantly refuted the claim that he is Russian or tied to the Russian government via The Hill: I really hope you ve missed me a lot.
+Though I see they didn t let you forget my name.
+The U.S. intelligence agencies have published several reports of late claiming I have ties with Russia, reads the post.
+I d like to make it clear enough that these accusations are unfounded.
+I have totally no relation to the Russian government.
+Guccifer told Fox and NBC News that he breached Clinton s server, but in his May 2016 interview, when pressed by the FBI, Guccifer said the claims were not true.
+Here are a few key highlights from the bombshell report by The Forensicator that backs up Guccifer 2.0 s claim to FOX and NBC in 2016 that he did NOT hack the DNC emails and offers evidence that the emails were hacked locally (by Seth Rich?)
+and that the data was copied on a fairly slow USB flash drive:This study analyzes the file metadata found in a 7zip archive file, 7dc58-ngp-van.7z, attributed to the Guccifer 2.0 persona.
+For an in depth analysis of various aspects of the controversy surrounding Guccifer 2.0, refer to Adam Carter s blog, Guccifer 2.0: Game Over.Based on the analysis that is detailed below, the following key findings are presented: On 7/5/2016 at approximately 6:45 PM Eastern time, someone copied the data that eventually appears on the NGP VAN 7zip file (the subject of this analysis).
+This 7zip file was published by a persona named Guccifer 2, two months later on September 13, 2016.
+Due to the estimated speed of transfer (23 MB/s) calculated in this study, it is unlikely that this initial data transfer could have been done remotely over the Internet.
+The initial copying activity was likely done from a computer system that had direct access to the data.
+By direct access we mean that the individual who was collecting the data either had physical access to the computer where the data was stored, or the data was copied over a local high speed network (LAN).
+They may have copied a much larger collection of data than the data present in the NGP VAN 7zip.
+This larger collection of data may have been as large as 19 GB.
+In that scenario the NGP VAN 7zip file represents only 1/10th of the total amount of material taken.
+This initial copying activity was done on a system where Eastern Daylight Time (EDT) settings were in force.
+Most likely, the computer used to initially copy the data was located somewhere on the East Coast.
+The .rar files and plain files that eventually end up in the NGP VAN 7zip file disclosed by Guccifer 2.0 on 9/13/2016 were likely first copied to a USB flash drive, which served as the source data for the final 7zip file.
+There is no information to determine when or where the final 7zip file was built.Here are a few key conclusions from the report:Conclusion 6: The initial DNC file collection activity began at approximately 2016-07-05 18:39:02 EDT and ended at 2016-07-05 18:53:17 EDT.
+This conclusion is supported by the observed last modified times and the earlier conclusion that the ex-filtrated files were copied to a computer located in the Eastern Time zone.Conclusion 7: A transfer rate of 23 MB/s is estimated for this initial file collection operation.
+This transfer rate can be achieved when files are copied over a LAN, but this rate is too fast to support the hypothesis that the DNC data was initially copied over the Internet (esp.
+to Romania).
+This transfer rate can also be achieved when copying directly from a computer s hard drive to a fairly slow USB flash drive; there is a lot variability in USB flash drive speeds.
+We can shorten this statement and say that the 23 MB/s transfer rate supports the conclusion that the files were initially copied locally and not over the Internet.For an in depth analysis of various aspects of the controversy surrounding Guccifer 2.0, refer to Adam Carter s blog, Guccifer 2.0: Game Over.Here is an excerpt from Guccifer 2.0 s What Happened and When Did It Happen timeline: A lot of people are concerned if I have any links to special services and Russia?I ll tell you that everything I do I do at my own risk.
+This is my personal project and I m proud of it.
+Yes, I risk my life.
+But I know it s worth it.
+No one knew about me several weeks ago.
+Nowadays the whole world s talking about me.
+It s really cool!How can I prove this is true?
+I really don t know.
+It seems the guys from CrowdStrike and the DNC would say I m a Russian bear even if I were a catholic nun in fact.
+At first I was annoyed and disappointed.
+But now I realize they have nothing else to say.
+There s no other way to justify their incompetence and failure.
+It s much easier for them to accuse powerful foreign special services.
+They just f*cked up!
+They can prove nothing!
+All I hear is blah-blah-blah, unfounded theories and somebody s estimates.Specialists from Eastern Europe, Russia, China, India work for the leading IT-companies such as Google, IBM, Microsoft, Apple.
+There s no surprise that many hackers are descendants from these regions.Almost all recent famous hacker attacks have been attributed to Russia.
+the researchers supposed that the same instruments were implemented during the attacks.
+But I d like to reveal a secret to all those cool IT-specialists: all the hackers in the world use almost the same tools.
+You can buy them or simply find on the web.This line in Guccifer 2.0 s message is very interesting and extremely plausible:Guccifer 2.0 timeline.
+What happened and when did it happen?

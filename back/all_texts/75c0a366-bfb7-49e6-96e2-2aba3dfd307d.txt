@@ -1,0 +1,21 @@
+WASHINGTON (Reuters) - U.S. presidential campaigns face threats from hackers bent on espionage and other activity more nefarious than mere political mischief, the office of U.S. National Intelligence Director James Clapper said on Wednesday, but did not provide details on specific intrusions.
+“We’re aware that campaigns and related organizations and individuals are targeted by actors with a variety of motivations - from philosophical differences to espionage - and capabilities - from defacements to intrusions,” Clapper’s spokesman, Brian Hale, said in a statement, deferring to the FBI for details on specific incidents.
+Earlier, Clapper said the U.S. intelligence community had “already had some indications” of hacking attempts against presidential campaigns.
+“As the campaign intensifies we’ll probably have more” attacks, Clapper said at a morning event at the Bipartisan Policy Center in Washington.
+The hacking efforts against the campaigns are considered so serious that some congressional committees have been briefed on the activity, a government source said.
+“Given the intense scrutiny paid to the 2016 campaign, and the broad implications for U.S. foreign policy, it’s no surprise that actors are launching cyber attacks against presidential campaigns,” Representative Adam Schiff, the top Democrat on the House of Representatives Permanent Select Committee on Intelligence, said in a statement.
+The U.S. Secret Service, which is charged with protecting the presidential candidates, said in a statement that it works to prevent and detect cyber security threats and makes the candidates aware of vulnerabilities.
+Cyber attacks against political candidates occur in countries around the world.
+The last two U.S. presidential cycles in 2008 and 2012 witnessed a barrage of cyber attacks from a range of adversaries targeting President Barack Obama’s campaign and the campaigns of his Republican foes.
+U.S. intelligence officials have said many previous assaults were linked to Chinese hackers.
+Matthew Prince, co-founder and chief executive of CloudFlare, which has provided internet security services to Donald Trump and other presidential candidates, said his company has seen a “surprisingly civil cyber landscape” in the United States compared with elections in other countries where it has worked, such as Turkey or Mexico.
+“We have not seen anything (in the United States) that would suggest a level of sophistication that you would see if a nation-state actor threw its full weight behind it,” Prince said.
+Clapper said the Department of Homeland Security and the Federal Bureau of Investigation are working to educate “both campaigns” about cyber threats, likely referring to the campaigns of Trump, the presumptive Republican nominee, and Hillary Clinton, the likely Democratic nominee.
+A U.S. security official said foreign hackers would likely seek information about a candidate’s foreign policy intentions and team and about the campaign’s internal operations.
+The Republican and Democratic candidates for president will begin receiving intelligence briefings after their official nominations at party conventions this summer.
+Clapper said the two candidates would receive “exactly the same” briefings.
+He said the sessions would not be used to try to persuade Trump to soften his stance about a proposed ban on Muslim immigration, which some national security professionals have said is counterproductive to fighting Islamic extremism.
+“We’ve been doing this for many years, it’s not designed to shape anybody’s world view,” Clapper said.
+Because the candidates are briefed in person, U.S. intelligence officials said they are not concerned about hackers eavesdropping on the sessions.
+But they are worried that Trump or Clinton might share information with aides, advisers or supporters using email systems that are less secure than those the government uses for classified information.
+One official, speaking on the condition of anonymity, cited Clinton’s previous use of a private email server when she was secretary of state and noted Trump’s reputation for speaking, and tweeting, off the top of his head.

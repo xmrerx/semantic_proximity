@@ -1,0 +1,15 @@
+MONTREAL (Reuters) - The United Nations aviation agency is backing the creation of a single global drone registry, as part of broader efforts to come up with common rules for flying and tracking unmanned aircraft.
+While the International Civil Aviation Organization cannot impose regulations on countries, ICAO has proposed formation of the registry during a Montreal symposium this month to make data accessible in real time, said Stephen Creamer, director of ICAO s air navigation bureau.
+The single registry would eschew multiple databases in favor of a one-stop-shop that would allow law enforcement to remotely identify and track unmanned aircraft, along with their operator and owner.
+The initiative comes at a time when drone usage is soaring in the United States, Europe and China, raising privacy concerns and fears of collisions with commercial jets.
+You ve got to have some commonality so that you re not carrying five receivers in your police car, Creamer said in an interview on Thursday.
+It s not yet clear who would operate such a database, although ICAO could possibly fill that role.
+The proposal, however, could face push back from users, after hobbyists successfully challenged the creation of a U.S. drone registry by the Federal Aviation Administration in court earlier this year.
+ICAO will host the symposium from Sept 22-23 on issues like registering and tracking drones, along with geofencing-like systems to prevent their operation in restricted areas.
+The talks will be at an event attended by experts and companies like Google, Rockwell Collins (COL.N) and Amazon.com (AMZN.O), according to the meeting program schedule.
+Montreal-headquartered ICAO, which normally sets standards for international civil aviation that are adopted by its 191-member countries, was asked to assist in the development of more uniform domestic drone regulations because the remotely-piloted aircraft are sold and flown globally.
+They (drone makers) are worried that Europe might create one set of standards, United States might do a second and China might do a third.
+And they ve got to build a drone differently in these different environments, Creamer said.
+Parimal Kopardekar, a principal investigator for Unmanned Aircraft System Traffic Management (UTM) at the NASA Ames Research Center in California said he supported the drone industry developing around the world with common operating standards.
+I think it s smart that ICAO is trying to harmonize it, he said by phone.
+If you have a drone that you build in one country you should be able to use it in another country and vice versa.
