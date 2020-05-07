@@ -1,0 +1,1 @@
+Doc2vec algorithm: [Paragraph vector](https://cs.stanford.edu/~quocle/paragraph_vector.pdf)
