@@ -1,0 +1,16 @@
+washington reuters u house representative ’ information technology team block lawmaker access software application host google cloud service prevent possible hack campaign two congressional source say wednesday
+move come yahoo mail also blacklist house authority due fear ransomware infiltration
+two restriction hamper internal communication lower chamber implement within past two week still place
+episode believe relate source say
+device connect house ’ internet via wifi ethernet cable bar access appspotcom domain google host custombuilt apps fbi notify congress potential security vulnerability source say
+“ begin block appspotcom may 3 response indicator appspotcom potentially still host remote access trojan name blt since june 2015 ” one source house staffer direct knowledge situation tell reuters
+google googlo spokesman say company investigate report restriction would work house resolve issue
+fbi far respond request comment
+fbi send advisory private industry june 2015 number remote access tool capable steal personally identifiable information include trojan file name blt find google appspotcom domain
+ted henderson former house employee say two googlehosted apps create specifically use congressional staffer discuss politics share alert vote effectively ban work network
+disabling appspotcom occur house information security office send advisory email lawmaker staffer april 30 warning increased phishing attack house network third party webbased mail application include yahoo mail gmail
+“ attack focus put ‘ ransomware ’ user ’ computer ” email see reuters state
+add primary focus attacker appear yahoo mail block network “ notice ” two individual fell victim ransomware click infected word document email attachment source familiar hacking say
+infected file able recover without pay ransom source say
+ransomware attack involve access computer network ’ file encrypt ransom pay victim grow severe common recent year
+yahoo yhooo work closely house resolve matter company spokesperson say

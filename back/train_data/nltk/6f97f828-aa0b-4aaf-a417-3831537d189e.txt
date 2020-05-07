@@ -1,0 +1,16 @@
+londonriyadh reuters saudi arabian security official say monday country target part wideranging cyber espionage campaign observe since february five middle east nation well several country outside region
+saudi government national cyber security center ncsc say statement kingdom hit hacking campaign bear technical hallmark attack group dub muddywater u cyber firm palo alto network
+palo alto unit 42 threat research unit publish report last friday show string connected attack year use decoy document officiallooking government logo lure unsuspecting user targeted organization download infected document compromise computer network
+document pretend u national security agency iraqi intelligence russian security firm kaspersky kurdistan regional government among use trick victim unit 42 say blog post googlsvwrxv
+unit 42 researcher say attack target organization saudi arabia iraq united arab emirates turkey israel well entity outside middle east georgia india pakistan united state
+saudi security agency say statement attack seek steal data computer use email phishing technique target credential specific user
+ncsc say also comprise socalled watering hole attack seek trick user click infected web link seize control machine
+technical indicator supply unit 42 describe ncsc involve attack saudi arabia
+ncsc say attack appear advanced persistent threat apt group cyber jargon typically use describe statebacked espionage
+saudi arabia target frequent cyber attack include shamoon virus cripple computer wipe disk hit government ministry petrochemical firm
+saudi aramco world largest oil company hit early version shamoon virus 2012 country worst cyber attack date
+ncsc decline comment source attack organization agency target
+unit 42 say unable identify attack group aim enough data conclude muddywater group behind saudi attack outline ncsc
+confirm ncsc posting muddywater research fact relate christopher budd unit 42 manager tell reuters
+enough information make connection appropriate level certainty
+palo alto network say file uncover almost identical informationstealing document disguise microsoft word file find target saudi government security firm malwarebytes september report

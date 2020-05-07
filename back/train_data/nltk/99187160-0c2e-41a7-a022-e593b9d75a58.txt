@@ -1,0 +1,19 @@
+washington reuters u senator tuesday ask defense department explain manage risk use software scrutinize foreign government say practice may represent national security threat
+reuters report earlier month hewlett packard enterprise co allow russian defense agency review source code inner working cyber defense software know arcsight use pentagon guard computer network
+“ hpe ’ arcsight system constitute significant element u military ’ cyber defense ” democratic senator jeanne shaheen write letter defense secretary james mattis see reuters
+shaheen member senate arm service committee say disclosure arcsight ’ source code russian agency present “ opportunity exploit system use defense department platform ” shaheen question whether trump administration push back demand source code russia elsewhere impose u company condition entry foreign market
+review highlight quandary u technology company weigh u cyber security protection pursue business washington ’ adversary include russia china accord security expert
+“ understand individual business must make decision weigh risk intellectual property disclosure opportunity access significant overseas market ” shaheen write
+“ however product undergird defense department cyber defenses national security may stake decision ” pentagon hpe immediately respond request comment letter
+cyber security expert former u intelligence official former arcsight employee say review arcsight ’ core instruction also know source code could help moscow discover weakness software potentially help hacker blind u military attack
+hpe say past review russian governmentaccredited test company take place year research development center operate outside russia
+software maker also say closely supervise process code allow leave premise ensure compromise safety product
+company spokeswoman say last week current hpe product undergone russian source code review
+hpe spin hewlettpackard inc separate software company 2015
+shaheen ’ letter ask mattis whether foresee risk associate disclosure arcsight ’ code whether pentagon monitor whether technology vendor share source code “ sensitive technical data ” also ask frequently vendor disclose source code product use pentagon foreign government
+shaheen recently lead successful effort congress ban government use software provide moscowbased antivirus firm kaspersky lab amid allegation company ally russian intelligence
+kaspersky vehemently deny link
+tech company increase pressure allow russian government examine source code exchange approval sell product russia
+many western firm comply include californiabased cyber firm symantec refuse
+arcsight sell british tech company micro focus international plc deal complete september
+company say last week source code review common industry practice would restrict future review “ highrisk ” government subject chief executive approval

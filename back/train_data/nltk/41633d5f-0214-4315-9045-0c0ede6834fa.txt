@@ -1,0 +1,35 @@
+accord wire hackable security flaw software
+even require hack knock door ask let
+apple macos high sierra second kindon tuesday security researcher disclose bug allow anyone blindingly easy method break operating system security protection
+anyone hit prompt high sierra ask username password log machine multiple user simply type root username leave password field blank click unlock twice immediately gain full accessin word bug allow rogue user get slightest foothold target computer gain deepest level access computer know root privilege
+malware design exploit trick could also fully install deep within computer password require
+always see malware try escalate privilege get root access say patrick wardle security researcher synack
+best easiest way ever get root apple hand silver platter
+word security vulnerability ripple across twitter social medium security researcher find replicate issue others capture post video demonstration attack like wardle gif another show security researcher amit serper log loggedout account
+wire also independently confirm bugwatch two incredible video post twitter let apple know huge security issue macos high sierra pictwittercom4tbh5netis patrick wardle patrickwardle november 28 2017just test apple root login bug
+log root even machi reboot pictwittercomfthz7nkcup amit serper 0xamit november 28 2017the fact attack could use loggedout account raise possibility someone physical access could exploit easily malware point thomas reed applefocused security researcher malwarebytes
+could instance use attack gain root access loggedout machine set root password regain access machine time
+oooh boy doozy say reed
+someone mac sit desk office could come back later whatever want
+facebook user brian matiash tell mac user protect mac hack
+confirm deny advice legit simply share
+matiash give facebook user following advice wonder never cease apple
+painfully obvious bug like make qa team
+least make default root password password something
+ffs guy
+get damn act together
+edit would socially responsible state fairly easy workaround
+start open terminalapp type following command sudo passwd u root next enter primary user password
+enter new password root retype confirm
+
+protect
+functiond id var j fjs dgetelementsbytagnames0 dgetelementbyidid return j dcreateelements jsid id jssrc httpsconnectfacebooknetenussdkjsxfbml1versionv211 fjsparentnodeinsertbeforejs fjsdocument script facebookjssdkwonders never cease apple
+painfully obvious bug like make qa team
+least make default root password password something
+ffs guy
+get damn act togetheredit would socially responsible state fairly easy workaround
+start open terminalapp type following commandsudo passwd u rootnext enter primary user password
+enter new password root retype confirm
+
+youre protectedposted brian matiash tuesday november 28 2017reed also note however researcher confirm possible block attack either set password root user disable root access altogether
+instal high sierra set root password disabled root access nowin statement apple confirm problem reiterate shortterm fix promise longerterm software patch work software update address issue apple spokesperson write

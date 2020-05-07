@@ -1,0 +1,14 @@
+san francisco reuters bipartisan group u senator tuesday plan introduce legislation seek address vulnerability compute device embed everyday object know tech industry “ internet thing ” expert long warn pose threat global cyber security
+new bill would require vendor provide internetconnected equipment u government ensure product patchable conform industry security standard
+would also prohibit vendor supply device unchangeable password posse know security vulnerability
+republican cory gardner steve daines democrat mark warner ron wyden sponsor legislation draft input technology expert atlantic council harvard university
+senate aide help write bill say companion legislation house expect soon
+“ ’ try take lightest touch possible ” warner tell reuters interview
+add legislation intend remedy “ obvious market failure ” leave device manufacturer little incentive build security mind
+legislation would allow federal agency ask u office management budget permission buy noncompliant device control network segmentation place
+would also expand legal protection cyber researcher work “ good faith ” hack equipment find vulnerability manufacturer patch previously unknown flaw
+security researcher long say ballooning array online device include car household appliance speaker medical equipment adequately protect hacker might attempt steal personal information launch sophisticated cyber attack
+20 billion 30 billion device expect connect internet 2020 researcher estimate large percentage insecure
+though security internet thing know problem year manufacturer say well equip produce cyber secure device
+hundred thousand insecure webcam digital record everyday device hijack last october support major attack internet infrastructure temporarily knock web service offline include twitter paypal spotify
+new legislation include “ reasonable security recommendation ” would important improve protection federal government network say ray ’ farrell chief technology officer cloud compute firm vmware
