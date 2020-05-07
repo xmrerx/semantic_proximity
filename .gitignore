@@ -148,5 +148,4 @@ yarn-error.log*
 .vscode
 
 all_texts/
-init_data/
 train_data/
