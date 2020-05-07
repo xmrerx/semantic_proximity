@@ -1,0 +1,15 @@
+version: "3"
+
+services:
+  back_app:
+    build: back/
+    command: python3 ./app.py
+    ports:
+      - 5000:5000
+
+  front_app:
+    build: front/
+    command: http-server dist
+    network_mode: host
+    depends_on:
+      - back_app
