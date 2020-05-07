@@ -16,7 +16,7 @@ from train_utils.util import doc_vec
 DOCS_LIMIT = 1000000000
 
 
-W2V_Alg = IntEnum('W2V_Alg', 'dbow sg')
+W2V_Alg = IntEnum('W2V_Alg', 'dbow sg', start=0)
 
 
 if __name__ == '__main__':
@@ -43,7 +43,7 @@ if __name__ == '__main__':
                 sentences,
                 size=int(conf.TRAIN['vector_size']),
                 iter=int(conf.TRAIN['epochs']),
-                sg=alg,
+                sg=alg.value,
                 min_count=1
             )
             model.train(

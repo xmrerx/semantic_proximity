@@ -29,7 +29,7 @@ def walk_sentences_as_tagged_doc(
         yield TaggedDocument(words=words, tags=[f"{file_id} {line_id}"])
 
 
-D2V_Alg = IntEnum('D2V_Alg', 'dbow dm')
+D2V_Alg = IntEnum('D2V_Alg', 'dbow dm', start=0)
 
 
 if __name__ == '__main__':
@@ -40,7 +40,6 @@ if __name__ == '__main__':
     conf = Conf.get(__file__, 'config.ini')
 
     train_lemm = json.loads(conf.TRAIN['train_lemm'])
-    train_lemm = ['nltk', 'spacy']
 
     logging.info(f"use {DOCS_LIMIT} docs")
     for lemm in train_lemm:
@@ -56,7 +55,7 @@ if __name__ == '__main__':
                 epochs=int(conf.TRAIN['epochs']),
                 alpha=float(conf.TRAIN['alpha']),
                 min_alpha=float(conf.TRAIN['min_alpha']),
-                dm=alg
+                dm=alg.value
             )
             model.build_vocab(tagged_sentences)
             shuffled_tagged_sentences = tagged_sentences[:]
