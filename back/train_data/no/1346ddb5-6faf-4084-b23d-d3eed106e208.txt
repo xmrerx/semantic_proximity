@@ -1,0 +1,25 @@
+this could be bad news for a number of politicians who seem to have ditched their moral compass as they entered the washington dc cesspool thousands of clients using the affair-oriented ashley madison website listed email addresses registered to the white house , top federal agencies and military branches , a data dump by hackers revealed.the detailed data , released tuesday , will likely put washington , d.c. , on edge .
+the nation s capital reportedly has the highest rate of membership for the site of any city.indeed , more than 15,000 of the email addresses used to register accounts were hosted on government and military servers.buried in the list are emails that could be tied to multiple administration agencies , including the state department and department of homeland security , as well as several tied to both the house and senate.for a month , hackers using the name impact team have been holding hostage the dating profiles of those who registered on the site .
+the group threatened to publicly out the potential adulterers if the site s owner , avid life media , didn t take down ashley madison , which uses the tagline , life is short .
+have an affair .
+security researchers said on wednesday that they believe the data released following the hack at ashley madison is authentic .
+this dump appears to be legit , said david kennedy , ceo of information security company trustedsec , which monitors cyber attacks , in a blog post .
+very , very legit .
+security journalist brian krebs reported several of the site s users told him their real information is in the data dump.the leaked database is staggering , according to researchers , and larger than expected at 37 million records , or nearly 10 gigabytes compressed .
+for folks that may not know , that is massive , kennedy said .
+huge .
+it s full account information , said robert graham , ceo of errata security , in a blog post .
+that includes full names , emails , phone numbers , addresses and passwords .
+it also includes dating information , like height , weight , and so forth , graham added .
+it appears to contain addresses , as well as gps coordinates .
+i suspect that many people created fake accounts , but with an app that reported their real gps coordinates .
+other tech news outlets , such as cso , have discovered british government officials , united nations employees and vatican staff among the millions of people in the leaked database.however , the site reportedly did not check the validity of email addresses , and it s likely that many of the government email accounts were faked .
+for instance , several emails were registered at whitehouse.gov , whereas white house officials use eop.gov for email communications.the hackers have indicated their mission is to publicly shame the company , while also teaching its users a lesson .
+find yourself in here ?
+they said in a statement posted with the data dump .
+it was [ avid life media ] that failed you and lied to you .
+prosecute them and claim damages .
+then move on with your life .
+learn your lesson and make amends .
+embarrassing now , but you ll get over it .
+via : the hill

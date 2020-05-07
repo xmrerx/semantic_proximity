@@ -1,0 +1,24 @@
+so the nyse , wall street journal and united airlines have all been experiencing technical issues , but there s no correlation ? united airlines grounded flights across the country for part of wednesday after experiencing computer problems.an airline spokeswoman said that a router problem reduced network connectivity for several software applications.around midday , spokeswoman jennifer dohm said , we fixed the router issue , which is enabling us to restore normal functions .
+the federal aviation administration lifted a ground-stop order after nearly two hours , allowing united planes to fly again.united did not immediately say how many flights were affected.united , the nation s second-biggest airline , has suffered similar technology problems before , also leading to mass delays and cancellations.the airline briefly halted all takeoffs in the u.s. on june 2 because of a problem in its flight-dispatching system .
+united said then that about 150 flights were affected.united also struggled through a series of computer outages in 2012 after switching to the passenger-information system of continental airlines after that carrier merged with united .
+those outages caused hundreds of flights to be delayed .
+high-paying business travelers were outraged ; united ceo jeff smisek apologized for failing to provide good customer service.after a 2010 merger , united elected to combine many computer systems and frequent-flier programs all at once .
+executives believed that any disruptions would thus be short-lived .
+by contrast , delta and northwest integrated their systems in stages after a 2008 merger , and american airlines is taking delta s same go-slow approach now as it absorbs us airways.other airlines , however , have also been hit by computer problems .
+in april , more than 50 american flights were delayed when a software glitch prevented pilots from seeing some airport maps on their tablet computers.after wednesday s problems , united apologized to customers and said they could change travel plans without being charged the usual $ 200 reservation-change fee .
+in some cases , the airline said it would also waive any difference in fare for the rescheduled trip .
+we don t know everything behind this morning s issues yet , but today s incident underscores the sense that something is very wrong at united , said gary leff , co-founder of frequent-flier website milepoint.shares of chicago-based united continental holdings inc. fell $ 1.25 , or 2.3 percent , to $ 53.06 in midday trading.wsj : the wall street journal s website homepage was not accessible wednesday afternoon , shortly after the new york stock exchange had to shut down due to a computer glitch .
+the wsj.com displayed a 504 error , which means the server was acting too slow to process http requests and therefore be visible by users.the error appeared on the desktop version of the site , tested in google chrome and safari .
+the website s homepage still functioned on mobile browsers .
+on desktop , individual pages of the wall street journal were accessible.update , 12:30 p.m. edt : a modified version of the homepage went online shortly after the glitch .
+the site now reads , wsj.com is having technical difficulties .
+the full site will return shortly .
+we reached out to dow jones , the wall street journal s parent company , for comment on the glitch , and are waiting to hear back.the wall street journal s website homepage was not accessible wednesday afternoon , shortly after the new york stock exchange had to shut down due to a computer glitch .
+the wsj.com displayed a 504 error , which means the server was acting too slow to process http requests and therefore be visible by users.the error appeared on the desktop version of the site , tested in google chrome and safari .
+the website s homepage still functioned on mobile browsers .
+on desktop , individual pages of the wall street journal were accessible.update , 12:30 p.m. edt : a modified version of the homepage went online shortly after the glitch .
+the site now reads , wsj.com is having technical difficulties .
+the full site will return shortly .
+we reached out to dow jones , the wall street journal s parent company , for comment on the glitch , and are waiting to hear back.update , 12:50 p.m. edt : the wall street journal s homepage is back up in full form after wednesday s outage .
+dow jones has yet to issue comment .
+via : ib timesfind updated story on nyse shutdown here : https : //100percentfedup.com/breaking-nyse-shut-down-all-trading-suspended/

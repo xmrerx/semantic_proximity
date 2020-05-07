@@ -1,0 +1,21 @@
+seoul ( reuters ) - north korean hackers stole a large amount of classified military documents , including south korea-u.s. wartime operational plans to wipe out the north korean leadership , a south korean ruling party lawmaker said on wednesday .
+democratic party representative rhee cheol-hee said 235 gigabytes of military documents were taken from the defense integrated data center in september last year , citing information from unidentified south korean defense officials .
+an investigative team inside the defense ministry announced in may the hack had been carried out by north korea , but did not disclose what kind of information had been taken .
+pyongyang has denied responsibility in its state media for the cyber attacks , criticizing seoul for fabricating claims about online attacks .
+separately on wednesday , cyber security firm fireeye said in a statement north korea-affiliated agents were detected attempting to phish u.s. electric companies through emails sent in mid-september , although those attempts did not lead to a disruption in the power supply .
+it did not specify when the attempts had been detected or clarify which companies had been affected .
+rhee , currently a member of the national assembly s committee for national defense , said about 80 percent of the hacked data had not yet been identified , but that none of the information was expected to have compromised the south korean military because it was not top classified intelligence .
+some of the hacked data addressed how to identify movements of members of the north korean leadership , how to seal off their hiding locations , and attack from the air before eliminating them .
+rhee said the north could not have taken the entire operation plans from the database because they had not been uploaded in full .
+these plans had likely not been classified properly but defense ministry officials told rhee the hacked documents were not of top importance , he said .
+whatever the north koreans took , we just need to fix the plans , rhee later told reuters by telephone .
+i disclosed this because the military hasn t been doing that fast enough .
+rhee said on radio the hack had been made possible by a simple mistake after a connector jack linking the military s intranet to the internet had not been eliminated after maintenance work had been done on the system .
+the south korean defense ministry s official stance is that they can not confirm anything the lawmaker said about the hacked content due to the sensitivity of the matter .
+in washington , the pentagon said it was aware of the media reports but would not comment on the potential breach .
+although i will not comment on intelligence matters or specific incidents related to cyber intrusion , i can assure you that we are confident in the security of our operations plans and our ability to deal with any threat from north korea , pentagon spokesman colonel robert manning told reporters .
+fireeye said the phishing attack on the electric companies detected was early-stage reconnaissance and did not indicate north korea was about to stage an imminent , disruptive cyber attack .
+the north has been suspected of carrying out similar cyber attacks on south korean electric utilities , in addition to other government and financial institutions .
+those attempts were likely aimed at creating a means of deterring potential war or sowing disorder during a time of armed conflict , fireeye said .
+north korea linked hackers are among the most prolific nation-state threats , targeting not only the u.s. and south korea but the global financial system and nations worldwide , its statement said .
+their motivations vary from economic enrichment to traditional espionage to sabotage , but all share the hallmark of an ascendant cyber power willing to violate international norms with little regard for potential blowback , it said .

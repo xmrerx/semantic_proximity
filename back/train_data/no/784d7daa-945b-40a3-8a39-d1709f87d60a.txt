@@ -1,0 +1,12 @@
+washington ( reuters ) - the top technology official at the u.s. office of personnel management announced her retirement on monday amid calls for her ouster by some republican lawmakers .
+donna seymour , chief information officer , said in an email to her colleagues that was seen by reuters that leaving was a “ very tough decision. ” she added that she felt it was in the “ agency ’ s best interest that my presence does not distract from the great work this team does every single day. ” house oversight chairman jason chaffetz had repeatedly called for seymour ’ s resignation , lodging complaints that her mistakes helped lead to the opm data breach disclosed last year that exposed the personal information of 22 million individuals .
+in response to the sudden announcement , chaffetz ’ s panel canceled a hearing scheduled for wednesday to examine the breach .
+in a statement , chaffetz called the retirement “ good news ” but said he was disappointed she would no longer testify .
+“ on her watch , whether through negligence or incompetence , millions of americans lost their privacy and personal data , ” chaffetz said .
+representative elijah cummings , the top democrat on the oversight panel , countered that republican efforts to blame seymour for the hack were “ unfair and inaccurate ” and would discourage qualified technical professionals from pursuing public service .
+seymour is the second high-ranking official to leave opm since the breach was disclosed .
+katherine archuleta , the agency ’ s director , resigned in july .
+earlier this month , chaffetz subpoenaed opm for documents related to the hack , which intelligence officials have privately blamed on china .
+the utah republican has accused the agency of not acting in good faith with the committee because it has only provided partially redacted versions of the files , which were described by seymour as “ outdated security documents ” in testimony she gave in june 2015 .
+chaffetz has expressed concern that the manuals could be used to launch another cyber attack .
+beth cobert , the acting head of opm , praised seymour ’ s 37-year career in federal government in a statement and lauded her for helping to modernize the agency ’ s information technology over the past year .

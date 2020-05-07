@@ -1,0 +1,4 @@
+you know what they say about playing with fire here are jindal s comments about trump : here is trump s epic response to jindal s comments : // < !
+[ cdata [ ( function ( d , s , id ) { var js , fjs = d.getelementsbytagname ( s ) [ 0 ] ; if ( d.getelementbyid ( id ) ) return ; js = d.createelement ( s ) ; js.id = id ; js.src = `` //connect.facebook.net/en_gb/sdk.js # xfbml=1 & # 038 ; version=v2.3 '' ; fjs.parentnode.insertbefore ( js , fjs ) ; } ( document , 'script ' , 'facebook-jssdk ' ) ) ; // ] ] > bobby jindal did not make the debate stage and therefore i have never met him .
+i only respond to people that register more than 1 % in the polls .
+i never thought he had a chance and i ve been proven right.posted by donald j. trump on thursday , 10 september 2015

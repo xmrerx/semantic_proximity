@@ -1,0 +1,18 @@
+austin , texas ( reuters ) - u.s. president barack obama on friday made a passionate case for mobile devices to be built in a way that would allow the government to gain access to personal data if needed to prevent a terrorist attack or enforce tax laws .
+speaking at the south by southwest festival in texas , the president said he could not comment on the legal case in which the federal bureau of investigation is trying to force apple inc. to allow access to an iphone linked to san bernardino , california , shooter rizwan farook .
+but he made clear that despite his commitment to americans ’ privacy and civil liberties , a balance was needed to allow some government intrusion if necessary .
+“ if technologically it is possible to make an impenetrable device or system where the encryption is so strong that there is no key , there ’ s no door at all , then how do we apprehend the child pornographer , how do we solve or disrupt a terrorist plot ? ” he said .
+“ what mechanisms do we have available to even do simple things like tax enforcement because if in fact you can ’ t crack that at all , government can ’ t get in , then everybody is walking around with a swiss bank account in their pocket. ” last month , the fbi obtained a court order requiring apple to write new software and take other measures to disable passcode protection and allow access to farook ’ s iphone .
+apple , which declined to comment on obama ’ s remarks on friday , has not complied .
+it said the government request would create a “ back door ” to phones that could be abused by criminals and governments , and that congress has not given the justice department authority to make such a demand .
+obama ’ s comments were his most expansive on the subject since the dispute .
+he acknowledged skepticism about the government in the wake of the revelations about u.s. surveillance programs by former national security agency contractor edward snowden .
+but he pressed his point that a compromise that respected civil liberties and protected security had to be found .
+that solution would likely be a system with strong encryption and a secure “ key ” that is accessible to the “ smallest number of people possible ” for issues that were agreed to be important .
+“ setting aside the specific case between the fbi and apple ... we ’ re going to have to make some decisions about how do we balance these respective risks , ” obama said .
+“ my conclusion so far is you can not take an absolutist view. ” adding to his argument , the president listed airport security and stops for drunk drivers as examples of measures that were intrusive but accepted .
+he also warned against “ fetishizing ” phones .
+“ this notion that somehow our data is different and can be walled off from those other tradeoffs we make i believe is incorrect , ” he said .
+top white house officials have lobbied the industry aggressively to work with the government on the issue , which was brought to a head by the california shootings .
+the fbi says farook and his wife were inspired by islamist militants when they shot and killed 14 people on dec. 2 at a holiday party in california .
+the couple later died in a shootout with police .

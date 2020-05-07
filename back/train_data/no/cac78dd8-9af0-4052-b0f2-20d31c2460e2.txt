@@ -1,0 +1,7 @@
+( reuters ) - a stock-trading algorithm built for reuters highlights the correlations among gun purchases , mass shootings and the politics of gun regulation .
+with the benefit of hindsight , the boston-based hedge fund quantopian examined how a theoretical investor would have fared by investing equal amounts in smith & wesson holding corp swhc.o and sturm ruger & co ( rgr.n ) after 20 events that impacted the companies ’ sales or stock prices .
+the events , chosen by reuters , included 12 mass shootings , starting with the 2007 virginia tech shooting ; six events involving president barack obama , including two elections and various calls for gun regulation ; and two u.s. supreme court decisions favorable to gun companies .
+hedge funds and other sophisticated investors use computer-driven algorithms to place trades based on a defined set of instructions .
+in the theoretical exercise for reuters , the quantopian algorithm showed that buying the two gun stocks the first trading day after the events and selling them 90 days later would have produced a return of 365 percent over a nine-year period – compared to 66 percent for the s & p 500 index .
+a buy-and-hold bet on smith & wesson stock starting in january 2007 would have produced a return of 137 percent .
+for a graphic showing how the algorithm performed , see tmsnrt.rs/1oshshu

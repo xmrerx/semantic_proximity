@@ -1,0 +1,12 @@
+the woman in the picture above , arlene barnum , of oklahoma , understands that the preservation of our history and culture is essential .
+she is pictured in front of city hall in new orleans holding a confederate flag .
+brave lady !
+her group is called confederate veterans lives matter love it ! city hall became the scene of competing opinions over the removal of prominent confederate monuments along some of new orleans busiest thoroughfares .
+the city council set aside time to let the public voice feelings over a proposal to remove four monuments linked to confederate history .
+impassioned residents heckled each other and at least one man made an inappropriate gesture that got him escorted out of city hall during a heated debate thursday over whether city officials should remove prominent confederate monuments from some of new orleans busiest thoroughfares .
+who s paying the black lives matter protesters ?
+// < !
+[ cdata [ ( function ( d , s , id ) { var js , fjs = d.getelementsbytagname ( s ) [ 0 ] ; if ( d.getelementbyid ( id ) ) return ; js = d.createelement ( s ) ; js.id = id ; js.src = `` //connect.facebook.net/en_gb/sdk.js # xfbml=1 & # 038 ; version=v2.3 '' ; fjs.parentnode.insertbefore ( js , fjs ) ; } ( document , 'script ' , 'facebook-jssdk ' ) ) ; // ] ] > more from black lives matterposted by andrew black rebel duncomb on thursday , 10 december 2015those arguing before the city council to keep the monuments included preservationists who valued them as pieces of history and military veterans who said they were a way to honor american soldiers .
+those opposed included pastors who called them symbols of racism and african-americans who called them offensive .
+opinions often appeared to divide along racial lines.before the meeting , a handful of people held confederate flags in support of the statues while a larger group gathered next to them and held signs demanding removal.the monuments in question include imposing statues of robert e. lee and p.g.t .
+beauregard , confederate generals , and a dedication to jefferson davis , the confederate president.the council has scheduled a vote on the removal plan for next week.read more : miami herald

@@ -1,0 +1,13 @@
+// < !
+[ cdata [ ( function ( d , s , id ) { var js , fjs = d.getelementsbytagname ( s ) [ 0 ] ; if ( d.getelementbyid ( id ) ) return ; js = d.createelement ( s ) ; js.id = id ; js.src = `` //connect.facebook.net/en_gb/sdk.js # xfbml=1 & # 038 ; version=v2.3 '' ; fjs.parentnode.insertbefore ( js , fjs ) ; } ( document , 'script ' , 'facebook-jssdk ' ) ) ; // ] ] > we re here because we re tired of the lies in the social media .
+our federal government has run amuk .
+everybody has guns .
+just because you have guns , doesn t mean that you re violent .
+oregon rancher asking for our help ! posted by bundy ranch on sunday , 3 january 2016// < !
+[ cdata [ ( function ( d , s , id ) { var js , fjs = d.getelementsbytagname ( s ) [ 0 ] ; if ( d.getelementbyid ( id ) ) return ; js = d.createelement ( s ) ; js.id = id ; js.src = `` //connect.facebook.net/en_gb/sdk.js # xfbml=1 & # 038 ; version=v2.3 '' ; fjs.parentnode.insertbefore ( js , fjs ) ; } ( document , 'script ' , 'facebook-jssdk ' ) ) ; // ] ] > come help the ranchers in oregon gain back their rights ! posted by bundy ranch on monday , 4 january 2016 // < !
+[ cdata [ ( function ( d , s , id ) { var js , fjs = d.getelementsbytagname ( s ) [ 0 ] ; if ( d.getelementbyid ( id ) ) return ; js = d.createelement ( s ) ; js.id = id ; js.src = `` //connect.facebook.net/en_gb/sdk.js # xfbml=1 & # 038 ; version=v2.3 '' ; fjs.parentnode.insertbefore ( js , fjs ) ; } ( document , 'script ' , 'facebook-jssdk ' ) ) ; // ] ] > oregon rancher asking for our help ! posted by bundy ranch on sunday , 3 january 2016this rancher traveled from michigan to show his support for the ranchers .
+he s calling for a peaceful resolution to this issue : // < !
+[ cdata [ ( function ( d , s , id ) { var js , fjs = d.getelementsbytagname ( s ) [ 0 ] ; if ( d.getelementbyid ( id ) ) return ; js = d.createelement ( s ) ; js.id = id ; js.src = `` //connect.facebook.net/en_gb/sdk.js # xfbml=1 & # 038 ; version=v2.3 '' ; fjs.parentnode.insertbefore ( js , fjs ) ; } ( document , 'script ' , 'facebook-jssdk ' ) ) ; // ] ] > calling all to come and help the people of harney countyken rhoads , ( 71 ) calling all to come and help the people of harney county .
+come to the malheur wildlife refuge 30 mile from burns oregon .
+we have a warm place for you to lay your head and food to eat .
+we need you to make this happen without violence.posted by bundy ranch on sunday , 3 january 2016

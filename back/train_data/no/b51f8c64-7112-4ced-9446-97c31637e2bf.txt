@@ -1,0 +1,8 @@
+google trends can be very telling .
+these google trends comparing users interest in donald j. trump vs. hillary clinton say a lot about who americans are more interested in learning more about .
+while the results of these searches are likely not based on an oversampled group of democrats , and there s no real way to know how many of the people searching google are registered voters , it is a very good indication of which candidate running for office is more popular .
+let s face it , if voters don t have any enthusiasm for a candidate , they won t be going to the polls on november 8th.in the past two hours , which candidate is the most searched on google ?
+to find out , hover over each state on map below and you ll mostly likely see trump show up .
+this interactive map updated every 2 hours .
+trends.embed.renderwidget ( `` us_cu_n5tktvcbaaacom_en '' , `` fe_geo_color_chart_a76ecf6f-c9a6-4798-b038-568948d46bd0 '' , { } ) ; the graph below shows how frequently trump ( red line ) and hillary ( blue line ) are being searched on google : trends.embed.renderwidget ( `` us_cu_n5tktvcbaaacom_en '' , `` fe_line_chart_4be39b1e-a0dc-4ac0-8c0e-a6be30463edd '' , { } ) ; to see which state is most interested in searching issues related to the 2016 presidential election , hover over each state on image below .
+trends.embed.renderwidget ( `` election2016 '' , `` fe_us_states_c4cd90ef-9673-4bc3-9cd5-bfdfd2ce862d '' , { } ) ;

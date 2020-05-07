@@ -1,0 +1,13 @@
+washington ( reuters ) - american spy chiefs have told congressmen that a plan to allow the national security agency ( nsa ) to share more raw eavesdropping reports with other agencies will not be unlawful and will protect the privacy rights of u.s. citizens .
+in a letter sent on monday to two members of congress and reviewed by reuters , director of national intelligence james clapper said the nsa ’ s proposal to give other spy agencies access to “ unevaluated signals intelligence ” will ensure data is used only for intelligence activities directed at foreigners .
+last week , u.s .
+representatives ted lieu and blake farenthold of the house oversight committee asked the nsa to halt the sharing plan , suggesting it would be “ unconstitutional and dangerous. ” the specifics of the proposal are still secret .
+lieu , a democrat from california and farenthold , a republican from texas , wrote in a march 21 letter to nsa director michael rogers that the proposal would violate fourth amendment privacy protections because the collected data would not require a warrant before being searched for domestic law enforcement purposes .
+monday ’ s reply from the intelligence chief ’ s office said the plan would not allow the use of communications data for domestic law enforcement .
+instead , the proposed rules would limit access to raw nsa data to spy agencies , “ and only for authorized foreign intelligence and counterintelligence purposes , ” said the letter .
+it said it would also not authorize any new collection of private communications .
+civil liberties advocates have interpreted the proposed change as potentially allowing nsa foreign intelligence data , which sometimes can include collection of communications to , from or about americans , to be used for domestic policing purposes .
+under current procedures , nsa analysts are supposed to scrub or black out certain personal information , particularly related to american citizens or residents , before handing any communications data over to other agencies .
+congress last year passed a law curtailing certain aspects of the nsa ’ s spying authority , most notably ending its bulk collection of domestic phone records exposed by former nsa contractor edward snowden in 2013 .
+nsa began that program after the sept. 11 , 2001 attacks on the united states by islamist militants .
+the nsa has presented the plan to a government advisory committee , the privacy and civil liberties oversight board , for review .

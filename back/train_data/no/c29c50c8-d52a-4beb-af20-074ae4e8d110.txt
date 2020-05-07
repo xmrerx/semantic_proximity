@@ -1,0 +1,69 @@
+americans need to know the truth about apple and what the government is asking them to do .
+they need to know what apple has already agreed to do for the incompetent government .
+this article spells it all out before we get into too much detail about the apple vs us government dispute , we thought it was important to share with you a letter from apple ceo tim cook to their customers : february 16 , 2016 the united states government has demanded that apple take an unprecedented step which threatens the security of our customers .
+we oppose this order , which has implications far beyond the legal case at hand.this moment calls for public discussion , and we want our customers and people around the country to understand what is at stake.smartphones , led by iphone , have become an essential part of our lives .
+people use them to store an incredible amount of personal information , from our private conversations to our photos , our music , our notes , our calendars and contacts , our financial information and health data , even where we have been and where we are going.all that information needs to be protected from hackers and criminals who want to access it , steal it , and use it without our knowledge or permission .
+customers expect apple and other technology companies to do everything in our power to protect their personal information , and at apple we are deeply committed to safeguarding their data.compromising the security of our personal information can ultimately put our personal safety at risk .
+that is why encryption has become so important to all of us.for many years , we have used encryption to protect our customers personal data because we believe it s the only way to keep their information safe .
+we have even put that data out of our own reach , because we believe the contents of your iphone are none of our business.we were shocked and outraged by the deadly act of terrorism in san bernardino last december .
+we mourn the loss of life and want justice for all those whose lives were affected .
+the fbi asked us for help in the days following the attack , and we have worked hard to support the government s efforts to solve this horrible crime .
+we have no sympathy for terrorists.when the fbi has requested data that s in our possession , we have provided it .
+apple complies with valid subpoenas and search warrants , as we have in the san bernardino case .
+we have also made apple engineers available to advise the fbi , and we ve offered our best ideas on a number of investigative options at their disposal.we have great respect for the professionals at the fbi , and we believe their intentions are good .
+up to this point , we have done everything that is both within our power and within the law to help them .
+but now the u.s. government has asked us for something we simply do not have , and something we consider too dangerous to create .
+they have asked us to build a backdoor to the iphone.specifically , the fbi wants us to make a new version of the iphone operating system , circumventing several important security features , and install it on an iphone recovered during the investigation .
+in the wrong hands , this software which does not exist today would have the potential to unlock any iphone in someone s physical possession.the fbi may use different words to describe this tool , but make no mistake : building a version of ios that bypasses security in this way would undeniably create a backdoor .
+and while the government may argue that its use would be limited to this case , there is no way to guarantee such control.some would argue that building a backdoor for just one iphone is a simple , clean-cut solution .
+but it ignores both the basics of digital security and the significance of what the government is demanding in this case.in today s digital world , the key to an encrypted system is a piece of information that unlocks the data , and it is only as secure as the protections around it .
+once the information is known , or a way to bypass the code is revealed , the encryption can be defeated by anyone with that knowledge.the government suggests this tool could only be used once , on one phone .
+but that s simply not true .
+once created , the technique could be used over and over again , on any number of devices .
+in the physical world , it would be the equivalent of a master key , capable of opening hundreds of millions of locks from restaurants and banks to stores and homes .
+no reasonable person would find that acceptable.the government is asking apple to hack our own users and undermine decades of security advancements that protect our customers including tens of millions of american citizens from sophisticated hackers and cybercriminals .
+the same engineers who built strong encryption into the iphone to protect our users would , ironically , be ordered to weaken those protections and make our users less safe.we can find no precedent for an american company being forced to expose its customers to a greater risk of attack .
+for years , cryptologists and national security experts have been warning against weakening encryption .
+doing so would hurt only the well-meaning and law-abiding citizens who rely on companies like apple to protect their data .
+criminals and bad actors will still encrypt , using tools that are readily available to them.rather than asking for legislative action through congress , the fbi is proposing an unprecedented use of the all writs act of 1789 to justify an expansion of its authority.the government would have us remove security features and add new capabilities to the operating system , allowing a passcode to be input electronically .
+this would make it easier to unlock an iphone by brute force , trying thousands or millions of combinations with the speed of a modern computer.the implications of the government s demands are chilling .
+if the government can use the all writs act to make it easier to unlock your iphone , it would have the power to reach into anyone s device to capture their data .
+the government could extend this breach of privacy and demand that apple build surveillance software to intercept your messages , access your health records or financial data , track your location , or even access your phone s microphone or camera without your knowledge.opposing this order is not something we take lightly .
+we feel we must speak up in the face of what we see as an overreach by the u.s. government.we are challenging the fbi s demands with the deepest respect for american democracy and a love of our country .
+we believe it would be in the best interest of everyone to step back and consider the implications.while we believe the fbi s intentions are good , it would be wrong for the government to force us to build a backdoor into our products .
+and ultimately , we fear that this demand would undermine the very freedoms and liberty our government is meant to protect.tim cook , apple ceorush limbaugh explains how our incompetent government is responsible for the mess in which they find themselves : the terrorists phones were not owned by the terrorist .
+mr. syed farook skyhook did not own his phone .
+san bernardino county owned the phone.do you know that over the weekend we learned the fbi told san bernardino to change the password on this phone ?
+they thought that they would be able to find out information if they changed the well , not the password .
+the apple id password .
+it s just it s an absolute mess .
+nobody knows what s going on or how to use these things.since san bernardino county owned the phone , they could have had total control over it .
+if you are a business right now and you deploy iphones and i m gon na stick with iphones in this case cause that s what i know , but it s true of any others .
+if you re a small business , a corporation , and you provide phones for your employees and you own those phones , there is something called digital device management .
+it is software that allows you to control everything on their phone.you can put restrictions on what they can do with it .
+you can put restrictions on which apps work and which apps won t. in other words , you can stop them from using the phone personally .
+in addition to that , you , because you own the phone , have the ability to erase it at any time and find out what s on it .
+you can reset the pass code yourself as the owner of the phone .
+you can do it with four clicks.if the people in san bernardino county had ever taken the time to find out what they could do with the phones that they were giving to employees , if they had just taken the time to have somebody come in and teach them , we wouldn t be here .
+because there already is a way for the fbi and san bernardino to get what they want in the circumstance where somebody s using a phone owned by a business : it s called mdm .
+mobile device management .
+and in the case of apple , it s free .
+other software , $ 4 a phone is what it averages out but with os x server which is simply what you would need .
+it s an app , a server operating system .
+you can deploy all you have to do is set up the profiles for the phones that you want that are under your management .
+this is why you have an it guy .
+it s why you hire one .
+and there is a specific opportunity for owners of phones in this like san bernardino county , they could have gone in.it costs about $ 4 per phone and you have your it manager research it and learn how to operate it , and you control and manage every phone that you deploy , remotely .
+you don t have to have it in your possession to set up these restrictions .
+it just has to be signed in to the proper id , apple id , and whatever other identification systems a company uses.the moment this incident happened , they could have locked farook and whoever out of the phone , anybody else , and only allowed themselves in .
+they could have gone in , they could have gotten every bit of data they wanted off that phone via a backup or a dump .
+they could have changed the password themselves .
+they could have done any number of these things .
+but they didn t know they could .
+they had no idea .
+and i ll wager that 95 % of companies or organizations that give away phones or provide them for businesses have no clue about any of this.apple doesn t need to add anything , and the fbi doesn t need to have apple rewrite software for all of us because what they want exists in a large number of circumstances and did exist in this san bernardino situation .
+but i m sure the people at san bernardino were clueless and had no idea how to do this .
+they even confused the passcode to unlock phone and the passport for the apple id connecting the phone to icloud .
+they got confused over that .
+they literally had no idea what they were doing .
+it s stunning what they did not know .

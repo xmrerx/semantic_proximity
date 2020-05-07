@@ -1,0 +1,11 @@
+washington ( reuters ) - a u.s. senator on thursday introduced legislation calling for airlines and aircraft manufacturers to disclose cyber security incidents to federal authorities , saying the aviation system lacks sufficient standards and oversight .
+the measure , introduced by democratic senator edward markey of massachusetts , would also require the federal aviation administration and other federal agencies to identify cyber vulnerabilities within the aviation system and establish standards for addressing them .
+the measure also calls for a study on potential vulnerabilities posed the use of consumer wireless devices aboard flights .
+cyber security has emerged as a major issue for commercial airliners and other aircraft as the u.s. aviation system evolves to technology based on wireless and internet connectivity .
+the industry has stepped up efforts to forge a coordinated response .
+but companies are not required to report attempted or successful attacks in the united states .
+while introducing the measure , markey said his own informal survey of airlines and aircraft manufacturers showed that no successful cyber attack against aircraft has been confirmed .
+but he said hacking attempts are common and efforts to thwart them can be inconsistent and poorly overseen .
+the senator presented his legislation as an amendment to an faa bill that the senate is expected to vote on later this month .
+the measure was quickly endorsed by the association of flight attendants labor union .
+but it was not clear whether lawmakers would accept the measure as part of the faa bill .

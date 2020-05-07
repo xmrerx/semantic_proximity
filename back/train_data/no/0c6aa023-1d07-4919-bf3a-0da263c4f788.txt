@@ -1,0 +1,19 @@
+berlin ( reuters ) - top german intelligence officials on thursday urged lawmakers to give them greater legal authority to hack back in the event of cyber attacks from foreign powers .
+hans-georg maassen , head of the bfv domestic intelligence agency , told the parliamentary oversight committee it should be possible to destroy data stolen from german servers and moved to foreign servers to prevent it from being misused .
+he said it would also make sense to infect foreign servers with software that would enable greater surveillance of any operations directed against german cyber targets , or to extract data , much as human agents are recruited for counter-espionage .
+in the real world , it would be like turning a foreign intelligence agent and getting them to work for us ... something like this should be possible in the cyber world too , maassen told the committee in its first public hearing .
+these are hack back instruments , but they are below the threshold of destroying or incapacitating a foreign server , maassen said .
+german officials have blamed apt28 , a russian hacker group said linked to moscow , for the may 2015 hack of the german lower house of parliament , the bundestag , and other cyber attacks aimed at political groups , individuals or institutions .
+they issued repeated warnings about the possibility that moscow could seek to influence or disrupt the sept. 24 german election , although officials have since said they did not see any major push by russia to do so .
+maassen said it was possible russia decided the political cost was too great after the backlash that ensued in the united states after a similar effort there .
+russia denies seeking to influence any foreign elections .
+germany s bnd foreign intelligence agency already has the expertise , but not the legal authority , to destroy foreign servers , its chief bruno kahl told the committee .
+once the source of attack had been carefully investigated and identified , it could make sense to shut down the source of such an attack and not have to retreat and give the job of going back in and taking care of business , kahl said .
+in the end , however , such decisions had to be made by politicians , kahl said .
+christof gramm , head of germany s mad military counter-espionage agency , said there were questions of domestic and international law to address before empowering the agencies to take such actions .
+this all has to be worked out .
+there are international boundaries .
+we re not just talking about national law , gramm told the committee near the end of a three-hour session .
+he said if such powers were granted , it would be up to the military s cyber command to carry out such actions , not the mad .
+maassen said authorities needed access to streaming data from foreign servers - for instance of videos showing beheadings - to track radicalization of possible islamist attackers .
+he also called for broader powers to track communications between germany and raqqa , the syrian city still under islamic state control , noting that current law only allowed the tracking of individual communications , not broader flows .

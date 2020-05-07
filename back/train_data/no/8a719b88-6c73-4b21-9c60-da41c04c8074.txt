@@ -1,0 +1,27 @@
+rome ( reuters ) - hacking attacks on the web platform used by italy s 5-star movement to select representatives and shape policy threaten to dent confidence in its methods before a parliamentary election it is well placed to win .
+internet-based direct democracy , in which members vote online , is a hallmark of the anti-establishment group that first entered parliament in 2013 and leads many opinion polls before the election , due to be held by may .
+gianroberto casaleggio , the late internet guru who co-founded 5-star in 2009 , believed the web would eventually supplant representative democracy , the system under which all eligible citizens vote on representatives to pass laws for them .
+but in august anonymous hackers broke into 5-star s web platform , called rousseau after the 18th century swiss-born philosopher , and obtained secret data on its members and donors .
+it is unclear whether there will be any impact on 5-star s election performance .
+but if it can not secure its web platforms , it will be hard to continue using the online methods that set it apart from other political groups .
+public worries over theft of personal data could also make it difficult for 5-star to attract new members .
+it already has only a modest membership although it has won millions of votes at the polls with promises to clean up politics and offer universal income support for the poor .
+the hacking problem is very serious for 5-star because it undermines the credibility of their direct democracy message , sociology professor luca ricolfi told reuters .
+it will probably be overshadowed by bigger issues ahead of the election , but it hurts their image and is something they will absolutely have to resolve .
+casaleggio associati , a web consultancy company that runs 5-star s platforms and is headed by gianroberto s son davide , said security would be improved before the online election of the movement s new leader last month .
+despite this , the election was dogged by hacking attacks which hampered voting and contributed to only 37,000 of 5-star s 140,000 members casting an online ballot .
+the voting deadline had to be extended twice as members were unable to log on or connect to necessary web pages .
+one hacker published screenshots showing the system had been infiltrated again and that it had been possible to vote several times using the accounts of certified 5-star members .
+rousseau s content systems are outdated and its level of security is totally inadequate , said david puente , a computer expert and web developer who worked for casaleggio associati for four-and-a-half years until 2011 .
+umberto rapetto , a cyber security expert who used to head the computer crime division of italy s finance police , called rousseau a rudimentary platform with a host of weak points .
+davide casaleggio declined to answer questions for this article .
+puente , a 5-star member , said it would now be hard to update rousseau without sacrificing many functions that have been added recently , meaning the only solution was to dismantle everything and start all over again .
+that would not be easy even if casaleggio agreed .
+hackers around the world have regularly penetrated the computer systems of public agencies and multinational companies with millions of euros to spend on cyber security .
+casaleggio associati has fewer than 20 employees , posted revenues of less than a million euros in 2016 and has run a loss for the last three years .
+5-star s new leader , 31-year-old luigi di maio , says rousseau s problems are understandable as it is a startup launched only last year .
+he says web-based democracy can work not only in 5-star but in all branches of italian politics .
+yet many computer experts are skeptical about both rousseau and internet democracy in general .
+one common criticism is a lack of transparency , as in only two of 5-star s dozens of online votes has casaleggio named an independent company to verify the regularity of the process .
+critics also say there can be no guarantee that voters are anonymous to platform managers , or that the voter casts only one ballot or is not watched or coerced while he votes .
+creating a structure that offers the same guarantees as paper ballots would be incredibly difficult , said cyber security strategist corrado giustozzi , a member of the european union agency for network and information security .

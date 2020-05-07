@@ -1,0 +1,23 @@
+washington ( reuters ) - the u.s. government will set up a new agency to do background checks on employees and contractors , the white house said on friday , after a massive breach of u.s. government files exposed the personal data of millions of people last year .
+as a part of a sweeping overhaul , the obama administration said it will establish a national background investigations bureau .
+it will replace the office of personnel management ’ s ( opm ) federal investigative services ( fis ) , which currently conducts each year more than 2 million background investigations for scores of federal agencies .
+the move , a stiff rebuke for fis and opm , comes after last year ’ s disclosure that a hack of opm computers exposed the names , addresses , social security numbers and other sensitive information of roughly 22 million current and former federal employees and contractors , as well as applicants for federal jobs and individuals listed on background check forms .
+unlike fis , the new agency ’ s information systems will be handled by the defense department , making it even more central to washington ’ s effort to bolster its cyber defenses against constant intrusion attempts by hackers and foreign nationals .
+the white house gave no timeline for implementing the changes , but said some would begin this year .
+it will seek $ 95 million more in its upcoming fiscal 2017 budget for information technology development , according to a white house fact sheet .
+a transition team will develop a plan to migrate existing functions from fis while continuing to provide investigative services , the u.s. director of national intelligence james clapper wrote in a blog on the opm website .
+officials have privately blamed the opm data breach on china , though security researchers and officials have said there is no evidence beijing has maliciously used the data trove .
+the hack prompted several congressional committees to investigate whether opm was negligent in its cyber security practices .
+opm director katherine archuleta resigned last july as the government intensified a broad push to improve cyber defenses and modernize systems .
+“ clearly we ’ re not there yet , ” admiral mike rogers , head of the national security agency , said at a cyber security event in washington this week when asked about u.s. preparedness against hacks .
+the damage done by cyber attacks , he added , “ is going to get worse before it gets better. ” opm has had a large backlog of security clearance files .
+this has prompted it to rely on outside contractors for assistance .
+one of these is keypoint government solutions , which took over the bulk of federal background checks after a competitor , usis , was hacked .
+keypoint , which is owned by veritas capital , later suffered a breach of its own networks .
+no comment was immediately available from keypoint or caci international inc ( caci.n ) , another contractor involved in background checks .
+usis filed for bankruptcy protection last year .
+brian kaveney , who heads the security clearance practice at the armstrong teasdale law firm , said the new agency was expected to take over the 8,800 investigators who now work for fis , including 2,300 government workers and 6,500 contractors .
+the defense department and opm did not respond when asked if the government will still rely on support from contractors .
+representative jason chaffetz , the republican chairman of a house of representatives panel that has been looking into the issue , said friday ’ s announcement fell short .
+“ protecting this information should be a core competency of opm , ” chaffetz said in a statement .
+“ today ’ s announcement seems aimed only at solving a perception problem rather than tackling the reforms needed to fix a broken security clearance process . ”

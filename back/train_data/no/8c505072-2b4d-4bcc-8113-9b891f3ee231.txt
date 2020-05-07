@@ -1,0 +1,27 @@
+mumbai ( reuters ) - symantec corp , a digital security company , says it has identified a sustained cyber spying campaign , likely state-sponsored , against indian and pakistani entities involved in regional security issues .
+in a threat intelligence report that was sent to clients in july , symantec said the online espionage effort dated back to october 2016 .
+the campaign appeared to be the work of several groups , but tactics and techniques used suggest that the groups were operating with similar goals or under the same sponsor , probably a nation state , according to the threat report , which was reviewed by reuters .
+it did not name a state .
+the detailed report on the cyber spying comes at a time of heightened tensions in the region .
+india s military has raised operational readiness along its border with china following a face-off in bhutan near their disputed frontier , while indo-pakistan tensions are also simmering over the disputed kashmir region .
+a spokesman for symantec said the company does not comment publicly on the malware analysis , investigations and incident response services it provides clients .
+symantec did not identify the likely sponsor of the attack .
+but it said that governments and militaries with operations in south asia and interests in regional security issues would likely be at risk from the malware .
+the malware utilizes the so-called ehdoor backdoor to access files on computers .
+there was a similar campaign that targeted qatar using programs called spynote and revokery , said a security expert , who requested anonymity .
+they were backdoors just like ehdoor , which is a targeted effort for south asia .
+to install the malware , symantec found , the attackers used decoy documents related to security issues in south asia .
+the documents included reports from reuters , zee news , and the hindu , and were related to military issues , kashmir , and an indian secessionist movement .
+the malware allows spies to upload and download files , carry out processes , log keystrokes , identify the target s location , steal personal data , and take screenshots , symantec said , adding that the malware was also being used to target android devices .
+in response to frequent cyber-security incidents , india in february established a center to help companies and individuals detect and remove malware .
+the center is operated by the indian computer emergency response team ( cert-in ) .
+gulshan rai , the director general of cert-in , declined to comment specifically on the attack cited in the symantec report , but added : we took prompt action when we discovered a backdoor last october after a group in singapore alerted us .
+he did not elaborate .
+symantec s report said an investigation into the backdoor showed that it was constantly being modified to provide additional capabilities for spying operations .
+a senior official with pakistan s federal investigation agency said it had not received any reports of malware incidents from government information technology departments .
+he asked not to be named due to the sensitivity of the matter .
+a spokesman for fireeye , another cybersecurity company , said that based on an initial review of the malware , it had concluded that an internet protocol address in pakistan had submitted the malware to a testing service .
+the spokesman requested anonymity , citing company policy .
+another fireeye official said the attack reported by symantec was not surprising .
+south asia is a hotbed of geopolitical tensions , and wherever we find heightened tensions we expect to see elevated levels of cyber espionage activity , said tim wellsmore , fireeye s director of threat intelligence for the asia pacific region .
+the symantec report said the ehdoor backdoor was initially used in late 2016 to target government , military and military-affiliated targets in the middle east and elsewhere .

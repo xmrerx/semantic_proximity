@@ -1,0 +1,25 @@
+singapore/seoul ( reuters ) - a series of recent cyber attacks has netted north korean hackers millions of dollars in virtual currencies like bitcoin , with more attacks expected as international sanctions drive the country to seek new sources of cash , researchers say .
+north korea s government-backed hackers have been blamed for a rising number of cyber attacks , including the so-called wannacry cyber attack that crippled hospitals , banks and other companies across the globe this year .
+analysts say the explosive growth in the value of bitcoin makes it and other cryptocurrencies an attractive target for north korea , which has become increasingly isolated under international sanctions imposed over its nuclear weapons and missile programs .
+bitcoin was trading at over $ 19,104 per bitcoin at one point on tuesday , up from less than $ 1,000 at the beginning of 2017 , according to coinmarketcap.com .
+researchers in south korea , which hosts some of the world s busiest virtual currency exchanges and accounts for 15 to 25 percent of world bitcoin trading on any given day , say attacks this year on exchanges like bithumb , coinis , and youbit have the digital fingerprints of hackers from north korea .
+the researchers findings have not been independently verified .
+north korea has rejected accusations that it has been involved in hacking .
+a spokesman for south korea s unification ministry , which handles north korean affairs , said on monday the government was considering countermeasures , including more sanctions , over the cyber attacks .
+representatives of bithumb and coinis declined to comment .
+on monday , a youbit spokeswoman told reuters the company had not been targeted by north korean hackers , and on tuesday the company announced it had suffered another cyber attack that cost it 17 percent of its assets , forcing the exchange to halt operations and file for bankruptcy .
+the hackers behind the second attack were not identified , but one cyber security researcher , who said he was not authorized to speak about the matter as it was being investigated , said there were similarities between the youbit hack reported on tuesday and the earlier attack on the company , which has been linked to north korea .
+another researcher , who worked with youbit after the first hack in april , said the company has since experienced a consistent string of attacks that used malicious code previously used by north korea .
+south korea s intelligence service reported that some 7.6 billion won ( $ 7 million ) worth of cryptocurrencies were stolen in those previous attacks on multiple exchanges , according to south korea s chosun ilbo newspaper .
+but that amount could now be worth about 90 billion korean won ( $ 82 million ) , moonbeom park , a researcher at the korea internet and security agency , told reuters .
+malicious code used in attacks over the summer was virtually identical to previous attacks connected to north korea , he said .
+the attacks this year began by targeting the companies themselves , stealing customers personal information , including names and email addresses , park said .
+some of those customers were then targeted with so-called spearphishing emails - infected emails designed to look as if they were from south korea s taxation agency , the korean national tax service , he said .
+other researchers said the attackers had impersonated other official bodies .
+the emails told the recipient that the agency was about to conduct a tax investigation of the user .
+an attached document , however , was a korean-language file infected with a trojan horse program that would exploit a vulnerability in the hanword korean-language word processing software to allow the hackers to remotely control the user s computer , park said .
+from there , the attackers would access the user s bitcoin wallet either on the computer , or on the bitcoin exchange s server , he said .
+other researchers said the exchanges were also attacked using fake email accounts .
+cristiana brafman kittner , principal analyst at the cybersecurity firm fireeye , said she could not confirm whether north korea had actually stolen any virtual currencies , but said hackers linked to it had targeted multiple exchanges over the past six to nine months .
+we believe that some of the criminal activity we are observing originating from north korea is a result of the regime looking for alternative sources of revenue , she said .
+north korean cyber threat actors present an immediate risk to the financial services sector worldwide .

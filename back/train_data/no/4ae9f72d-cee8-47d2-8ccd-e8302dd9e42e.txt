@@ -1,0 +1,12 @@
+sydney ( reuters ) - a hacker stole non-classified information about australia s joint strike fighter program and other military hardware last year after breaching the network of a defense contractor , the defense industry minister said on thursday .
+about 30 gigabytes of data was stolen in the cyber attack , including details of the joint strike fighter warplane and p-8 poseidon surveillance plane , according to a presentation on the hack by a government official .
+fortunately the data that has been taken is commercial data , not military data ... it s not classified information , defence industry minister christopher pyne told australian broadcasting corporation ( abc ) radio .
+i don t know who did it .
+in a presentation to a conference in sydney , an official from the australian signals directorate ( asd ) intelligence agency said technical information on smart bombs , the joint strike fighter , the poseidon maritime patrol aircraft and several naval vessels was stolen .
+the compromise was extensive and extreme , said the official , mitchell clarke , in an audio recording made by a zdnet journalist and broadcast by the abc .
+clarke said the attacker accessed the small contractor s systems for five months in 2016 , and the methodical , slow and deliberate , choice of target suggested a nation-state actor could be behind the raid .
+australia has agreed to buy 72 lockheed martin corp joint strike fighter planes .
+a spokesman for the australian cyber security centre ( acsc ) , a government agency , said the government would not release further details about the cyber attack .
+the acsc said in a report on monday that it responded to 734 cyber attacks on systems of national interest for the year ended june 30 , and the defense industry was a major target .
+the attack on the defense contractor was carried out by a malicious cyber adversary , it said .
+in 2016 the agency said it responded to 1,095 cyber attacks over an 18-month period , including an intrusion from a foreign intelligence service on the weather bureau .

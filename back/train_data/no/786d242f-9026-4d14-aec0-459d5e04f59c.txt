@@ -1,0 +1,9 @@
+this is a wake up call .
+even though this isn t the main computer system , there are 100,000 people out there who re at risk now.thieves used an online service provided by the irs to gain access to information from more than 100,000 taxpayers , the agency said tuesday.the information included tax returns and other tax information on file with the irs.the irs said the thieves accessed a system called get transcript .
+in order to access the information , the thieves cleared a security screen that required knowledge about the taxpayer , including social security number , date of birth , tax filing status and street address .
+the irs notes this issue does not involve its main computer system that handles tax filing submission ; that system remains secure , the agency said in a statement.the irs said thieves targeted the system from february to mid-may .
+the service has been temporarily shut down .
+in all , about 200,000 attempts were made from questionable email domains , with more than 100,000 of those attempts successfully clearing authentication hurdles , the agency said .
+during this filing season , taxpayers successfully and safely downloaded a total of approximately 23 million transcripts .
+tax returns can include a host of personal information that can help someone steal an identity , including social security numbers and birthdates of dependents and spouses .
+however , the irs said the thieves appeared to already have a lot of personal information about the victims.via : abc

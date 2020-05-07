@@ -1,0 +1,7 @@
+( reuters ) - hyatt hotels corp ( h.n ) said on thursday it had discovered unauthorized access to payment card information at certain hyatt-managed locations worldwide between march 18 , 2017 and july 2 , 2017 .
+hyatt said the incident affected payment card information , such as , cardholder name , card number , expiration date and internal verification code , from cards manually entered or swiped at the front desk of certain hyatt-managed locations .
+( bit.ly/2yhbsfr ) the owner of andaz , park hyatt and grand hyatt chain of hotels said a total of 41 properties were affected in 11 countries , with china accounting for 18 properties , the most among impacted countries .
+seven hyatt properties were affected at u.s. locations , including three in hawaii , three in puerto rico and one in guam .
+the chicago , illinois-based company said its cyber security team discovered signs of the unauthorized access in july and launched an internal investigation , completed on thursday , that resolved the issue and took steps to prevent this from happening in the future .
+this is not the first time hyatt is facing data breach problem at its hotels .
+in late 2015 hyatt said its payment processing system was infected with credit-card-stealing malware , that had affected 250 hotels in about 50 countries .

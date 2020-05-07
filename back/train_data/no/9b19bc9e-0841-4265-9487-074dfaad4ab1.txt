@@ -1,0 +1,11 @@
+everyone needs to read this letter ( click here ) from apple s ceo tim cook to their customers before they chose sides in this issue if the fbi wins in its case against apple to help it unlock the san bernardino killer s iphone 5c , it won t be long before the government forces apple to turn on users iphone cameras and microphones to spy on them , according to the company s head of services eddy cue.the fbi has demanded that apple creates custom software that bypasses certain security features of the company s ios to allow law enforcement to brute force the passcode of the gunman s iphone 5c.but according to apple , making the modifications necessary in this case would set a dangerous precedent in offering backdoors into users smartphones.cue said to univision : someday they will want [ apple ] to turn on [ a user s ] camera or microphone .
+we can t do that now , but what if we re forced to do that ?
+where will this stop ?
+in a divorce case ?
+in an immigration case ?
+in a tax case ?
+some day , someone will be able to turn on a phone s microphone .
+that should not happen in this country .
+an exerpt from a letter to apple customers from apple ceo tim cook : the fbi may use different words to describe this tool , but make no mistake : building a version of ios that bypasses security in this way would undeniably create a backdoor .
+and while the government may argue that its use would be limited to this case , there is no way to guarantee such control.the fbi may use different words to describe this tool , but make no mistake : building a version of ios that bypasses security in this way would undeniably create a backdoor .
+and while the government may argue that its use would be limited to this case , there is no way to guarantee such control.the fbi is trying to access the locked iphone of one of the san bernardino killers and insists it needs apple s due to the software protections built into ios , which require apple s unique signature.but security expert and nsa surveillance leaker edward snowden recently said that the fbi s assertions that only apple has the capability to unlock the phone is respectfully , bullshit .watch here : for entire story : the guardian

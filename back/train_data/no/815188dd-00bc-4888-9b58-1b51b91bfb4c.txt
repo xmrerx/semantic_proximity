@@ -1,0 +1,12 @@
+21st century wire says for those who still refuse to entertain any michael hastings boston breaks conspiracy theories , this latest story offers yet more proof that hacking a vehicle is not only possible it s relatively easy to do .
+everyone has seen or heard those annoying ads on tv and radio , for those new smart monitoring devices that insurance companies are trying hard to convince you to install in your car .
+they tell us , if you are a safe driver , then we ll be sure to pass on premium discounts to safe drivers .
+to even the most mild skeptic , this little invention reeks of big brother tech.according to crafty insurance moguls , their revolutionary smart plug-in device connects to your car s computer port which is normally located just beneath the steering wheel .
+they claim that it only records drivers when they accelerate , brake and steer .
+they claim that this data will reveal how erratic a driver you are , which in turn will determine your road risk actuary and how much you will have to pay for auto insurance .
+smart ?
+munic box plug-in technology allows an access portal into your car s computer functions.most smart people realize that this smart device will not save you money , as much as it will give insurance companies like progressive an easy metric by which to raise your rates , not lower them.if that isn t bad enough , now cyber researchers in america have shown how hackers can send a simple text message to manipulate your car s functions even interfere your car s brakes.the hack was performed by engineering students karl koscher and ian foster from the university of california , san diego , remotely hijacked a lovely cherry corvette through a smart device used by auto insurer metromile .
+watch the team of researchers presented their findings at the usenix computer conference in washington , d.c .
+mobile devices did not respond to cnnmoney requests for comment .
+however , stefan savage , the college engineering professor that oversaw the research project , said that the device maker has since issued a software update .
+do you agree with us that there is nothing smart about this technology ? let us know your thoughts in the comment section below read more sci-tech news at : 21st century wire sci-tech files

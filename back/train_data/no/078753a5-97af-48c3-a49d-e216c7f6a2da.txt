@@ -1,0 +1,31 @@
+frankfurt ( reuters ) - hackers probably linked to iran s government have hit saudi and western aerospace and petrochemical firms , marking a rise in iranian cyber-spying prowess , security firm fireeye ( feye.o ) said on wednesday , an assessment shared by other u.s. experts .
+a fireeye report on wednesday dubbed the hacker group apt33 and offered evidence of its activities since 2013 in seeking to steal aviation and military secrets , while also gearing up for attacks that might cripple entire computer networks .
+in a separate but related move last week , the u.s. treasury department added two iran-based hacking networks and eight individuals to a u.s. sanctions list , accusing them of taking part in cyber-enabled attacks on the u.s. financial system .
+iran s islamic revolutionary guard corps , elements of which were also added to the u.s. sanctions list , was not immediately available for comment when contacted by phone by reuters on wednesday , the end of the country s working week .
+fireeye identified apt33 after it was called in to investigate cyber attacks on a u.s. aviation organisation , a saudi business conglomerate with aviation holdings and a south korean group with interests in oil refining and petrochemicals .
+fireeye declined to name the companies .
+iranian fingerprints are all over this campaign , and government fingerprints in particular , john hultquist , fireeye s director of cyber espionage analysis , told reuters .
+right now we are seeing a lot of activity that seems to be classic cyber espionage .
+apt33 was the first state-backed group from iran to join a list fireeye has compiled over more than a decade that identifies campaigns by chinese , russian and north korean cyber spies .
+apt stands for advanced persistent threat .
+hultquist said apt33 shared some tools with , but appeared to be distinct from , around 15 different hacking groups with iranian ties that security researchers have identified in recent years , carrying names like shamoon , rocketkitten and charming kitten .
+the kitten nomenclature reflected the low level of respect for iran s hacking capabilities in the past , experts have noted .
+several cyber experts described rising maturity and professionalism in iran s cyber-espionage capabilities .
+in recent years , iran has invested heavily in building out their computer network attack and exploit capabilities , said frank cilluffo , director of george washington university s center for cyber and homeland security .
+cilluffo , a former homeland security advisor to president george w. bush , estimated last year in testimony before the u.s. congress that iran s cyber budget had jumped twelve-fold under president rouhani , making it a top five world cyber-power .
+they are also integrating cyber operations into their military strategy and doctrine , he told reuters on wednesday .
+fireeye said attacks against the saudi and south korean groups hit as recently as may and used phishing techniques that involved posting fake job vacancies for saudi oil jobs to lure corporate victims ( goo.gl/mc1bly ) .
+speaking to reporters in singapore , fireeye chief executive kevin mandia said iranian cyber espionage had grown in sophistication since he first spotted iranians conducting rudimentary attacks on the u.s. state department in 2008 .
+they re good .
+( they ve ) got a real capability there , mandia said of iran .
+in the investigations of attacks on western companies and governments that fireeye is hired to do , iran now ranks with china and russia in terms of frequency , he said .
+iran has been scaling up its cyber capacities since the united states and israel carried out a cyber assault on iran in 2010 , now known as the stuxnet worm , aimed at disabling centrifuges in its nuclear programme , he said .
+fireeye s evidence linking iran to the aviation attacks included the use of the farsi language in malware that mounted attacks and the fact that hackers observed the islamic republic s work week - taking thursdays off , among other evidence .
+fireeye found some ties between apt33 and the nasr institute - which other experts have connected to the iranian cyber army , an offshoot of the revolutionary guards - but it has yet to find any links to a specific government agency , hultquist said .
+he said apt33 had built a destructive attack capacity into the malware used to infect western companies , but there was no evidence so far it had been activated .
+however , fireeye believes it is only a matter of time before the group graduates from intelligence gathering to causing lasting damage .
+adam meyer , vice president of crowdstrike , another top u.s. cyber security firm , said there has been a vast uptick in attacks by iran against saudi arabia since last year .
+five years ago , iran was blamed for a virus attack against oil giant saudi aramco and qatari rasgas , which crippled 30,000 computers at the two organisations .
+but meyer said , in hindsight , the shamoon attack was a narrow , unsustained operation .
+broader-based attacks against saudi arabia since 2016 use similar malware , with some changes , demonstrating iran s ability to mount on-going campaigns , he said .
+this second campaign is being carried out in a sustained way in 2016 and 2017 against the saudi government , related entities and the telecom sector : they are doing it in a way that seeks to destabilise the saudi regime , meyers said .

@@ -1,0 +1,11 @@
+( reuters ) - russian cyber operatives have attacked britain s media , telecommunications and energy sectors over the past year , according to prepared remarks by the head of the government s main cyber defense agency .
+ciaran martin , chief executive of the national cyber security centre ( ncsc ) , declined to provide any details on the attacks in a speech scheduled for wednesday in london .
+the remarks follow comments on monday from prime minister theresa may in which she accused russia of spreading disinformation and meddling in elections , echoing a heated debate in the united states over alleged russian interference in the 2016 presidential election .
+russian has strongly denied any election interference in the united states .
+the russian embassy in washington did not immediately respond when asked after normal business hours for comment on martin s remarks .
+the ncsc , a branch of the gchq , britain s main signals intelligence agency , has been in operation for a year and is charged with shoring up cyber security by working with a wide range of stakeholders .
+martin said in his prepared remarks : i can confirm that russian interference , seen by the national cyber security centre over the past the year , has included attacks on the uk media , telecommunication and energy sectors .
+the agency was actively engaging with international partners , industry and civil society to tackle the threat from russia , he said .
+martin echoed may s comments that russia was trying to undermine the international system with information warfare and cyber attacks .
+cyber security experts have long worried about attacks on electrical grids in particular , but martin offered no evidence that the alleged russian attacks succeeded in penetrating power systems or other critical infrastructure in the uk .
+( this story has been refiled to fix transposed letters in acronym in 5th paragraph )

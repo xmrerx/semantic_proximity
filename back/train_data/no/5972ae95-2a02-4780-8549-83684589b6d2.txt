@@ -1,0 +1,2 @@
+please help us determine who real grassroots conservatives think won the cnbc ( communist news by commies ) debate : // < !
+[ cdata [ ( function ( w , d , s , i ) { w.ldadinit=w.ldadinit|| [ ] ; w.ldadinit.push ( { slot:8161910969215591 , size : [ 0 , 0 ] , id : '' ld-5571-7652 '' } ) ; if ( ! d.getelementbyid ( i ) ) { var j=d.createelement ( s ) , p=d.getelementsbytagname ( s ) [ 0 ] ; j.async=true ; j.src= '' //cdn2.lockerdome.com/_js/ajs.js '' ; j.id=i ; p.parentnode.insertbefore ( j , p ) ; } } ) ( window , document , '' script '' , '' ld-ajs '' ) ; // ] ] >

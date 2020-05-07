@@ -1,0 +1,16 @@
+kiev/moscow ( reuters ) - cyber attacks using malware called badrabbit hit russia and other nations on tuesday , affecting russian interfax news agency and causing flight delays at ukraine s odessa airport .
+while no major outages were reported , the u.s. government issued a warning on the attack , which followed campaigns in may and june that used similar malware and resulted in what some economists estimated are billions of dollars in losses .
+the attacks are disturbing because attackers quickly infected critical infrastructure , including transportation operators , indicating it was a well-coordinated campaign , said robert lipovsky , a researcher with cyber firm eset .
+more than half the victims were in russia , followed by ukraine , bulgaria , turkey and japan , according to eset .
+the u.s. department of homeland security issued a warning on the badrabbit ransomware , a type of virus that locks up infected computers and asks victims to pay a ransom to restore access .
+it did not identify any u.s. victims but advised the public to refrain from paying ransoms and report any infections to the federal bureau of investigation through the government s internet crime complaint center .
+ransomware infections have the potential to halt activity at targeted organizations .
+the may wannacry ransomware shuttered hospitals , factories and other facilities around the globe for days .
+interfax , one of russia s largest news agencies , said some of its services were hit by the attack but expected them to be back online by the end of tuesday .
+an odessa airport spokesman said a few flights were delayed because workers had to process passenger data manually .
+kiev s metro system reported a hack on its payment system but said trains were running normally .
+ukraine s cyber police chief told reuters the country was barely affected .
+russian cyber-security firm kaspersky lab said badrabbit appeared to spread through a mechanism similar to june s destructive notpetya virus , which took down many ukrainian government agencies and businesses .
+it then spread across corporate networks of multinationals with operations or suppliers in eastern europe .
+kaspersky said it was investigating to see whether badrabbit was related to notpetya .
+ukrainian banking services , which have been hit by previous attacks , were unaffected , according to the nation s central bank .

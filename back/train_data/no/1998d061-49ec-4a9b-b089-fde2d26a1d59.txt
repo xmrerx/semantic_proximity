@@ -1,0 +1,12 @@
+seoul ( reuters ) - north korea probably stole south korean warship blueprints after hacking into daewoo shipbuilding & marine engineering co ltd s ( 042660.ks ) database in april last year , a south korean opposition lawmaker said on tuesday .
+north korea has often been implicated in cyber attacks in south korea and elsewhere but pyongyang has either ignored or denied accusations of hacking .
+we are almost 100 percent certain that north korean hackers were behind the hacking and stole the company s sensitive documents , kyung dae-soo of the main opposition liberty korea party told reuters by telephone .
+daewoo shipbuilding has built several south korean warships , including an aegis-class vessel and submarines .
+it was most likely north korea had obtained blueprints for these , he said .
+the hacking was discovered by a division under south korea s ministry of defence in charge of investigating cases of cybercrime , said kyung , who received a briefing on the investigation .
+how sensitive and classified the seized documents were was not known as that was not disclosed by the investigative team , he added .
+a spokeswoman for daewoo shipbuilding said she was unaware of the issue until early tuesday and the company was in the process of confirming the details of kyung s remarks .
+the investigative team came to the conclusion north korea had hacked daewoo shipbuilding because the hacking method was very similar to other attacks that north korea was thought to be behind , kyung said .
+hackers in north korea are believed to have been responsible for a recent cyber heist in taiwan - the latest in a string of hacks targeting the global swift messaging system .
+earlier this month , another south korean lawmaker had said north korean hackers had stolen a large number of classified military documents , including south korea-u.s. wartime operational plans .
+and british authorities said last week they believed north korea was behind the wannacry ransomware attack in may that disrupted businesses and government services worldwide , including the national health service in england .

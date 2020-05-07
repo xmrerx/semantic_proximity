@@ -1,0 +1,23 @@
+( reuters ) - a tax plan by u.s. senate republicans released on thursday diverges in several ways from legislation being pushed by republicans in the house of representatives , complicating republican efforts to fulfill their goal of overhauling the tax code by the end of the year .
+here are the major provisions that differ significantly .
+corporate rate : the house plan would immediately cut the corporate income tax rate to 20 percent from 35 percent .
+the senate would set the same rate , but delay it by one year .
+carried interest : the senate leaves unchanged a loophole that allows private-equity fund managers and other wealthy wall street financiers to pay the capital gains tax rate instead of the higher income tax rate on their “ carried interest ” income .
+the house version narrows the loophole by requiring investments to be held for more than three years instead of one year currently in order to qualify for capital gains treatment .
+net operating losses : the senate version eliminates the carry-back and carry-forward tax strategies by businesses to reduce past and future tax liabilities using net operating losses .
+the house version tightens the rules around their use .
+pass-throughs : the house caps the maximum tax rate on small businesses and other non-corporate enterprises at 25 percent , down from the current top rate on “ pass-through ” income of up to 39.6 percent .
+the senate version has no special pass-through rate but allows business owners to deduct about 17.4 percent of business income from individual taxes .
+that translates to a 30 percent tax rate for high-income filers .
+repatriation of overseas earnings : the senate imposes a tax of 12 percent for liquid assets and 5 percent for illiquid .
+the house sets the rates at 14 percent and 7 percent , respectively .
+tax brackets : the senate version maintains seven tax brackets , with the top bracket ’ s rate at 38.5 percent .
+the house has four brackets with the top one unchanged from current levels at 39.6 percent and lifts qualifying income on that top rate to more than $ 1 million .
+mortgage interest deduction : the house caps the deduction of interest payments on mortgages of up to $ 500,000 , and only on a primary residence .
+the senate version keeps the existing limit at $ 1 million but eliminates the deduction of interest on home-equity loans .
+deducting state and local taxes : the senate bill repeals the state and local tax deduction entirely .
+the house version repeals the deduction for state and local income and sales tax and caps the deduction for state and local property tax paid at $ 10,000 .
+standard deduction : the two versions are in line with each other , with a standard deduction of $ 12,200 for individuals and $ 24,000 for married couples , nearly double the current levels .
+child tax credit : the senate would expand the child tax credit to $ 1,650 from $ 1,000 .
+the house version sets it at $ 1,600 .
+inheritances : while the house wants to double the exemption on inherited assets and repeal the tax over a period of six years , the senate only wants to double the exemption .

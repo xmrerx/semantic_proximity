@@ -1,0 +1,21 @@
+frankfurt ( reuters ) - the far right is making the most noise on twitter during germany s election campaign , but far less fake news is being spread in germany than the united states saw before the election that put donald trump in power , an oxford university study has found .
+of the million tweets tracked in the study , 30 percent were tied to the anti-immigration alternative for germany ( afd ) .
+the party is polling around 10 percent , putting it on track to enter parliament for the first time after the sept. 24 election .
+but more broadly , german users of twitter showed a greater aversion to junk news than their counterparts in the united states before the november presidential election or in britain before its general election in june .
+and twitter itself is used far less by germans than by americans and britons .
+junk news as defined by the researchers includes various forms of propaganda and hyper-partisan or conspiratorial political news , but also more modest community activist content , political satire and links to non-german language content .
+nor have government officials and security experts seen signs of the kind of hacking and suspicious news leaks suspected of playing a role in the u.s. and french presidential elections .
+in any case , the sharing of false or misleading headlines and mass posting by automated bots appears to have had little influence in a placid german campaign , the report s authors said .
+polls predict angela merkel will easily win her fourth term as chancellor .
+the impact of political bots was minor overall , with highly automated accounts generating a small fraction of the twitter traffic about the election , wrote authors lisa-maria neudert , bence kollanyi and philip howard of the project on computational propaganda .
+most of the bots were working in the service of the afd , they added .
+the survey was taken from around 150,000 twitter accounts in the first 10 days of september , using hashtags associated with germany s main political parties , leading candidates and the election itself .
+hashtags are used to flag and search for themes on twitter , which tracks popular trending topics .
+the data showed german twitter users were four times more likely to post links to stories from recognized , professional news organizations than to junk news - a higher ratio than in the united states and britain , but lower than in france .
+merkel warned last november of the potential influence of social bots and digital misinformation on public opinion , and mainstream political parties pledged to refrain from using them in campaigning .
+her own christian democrats , polling around 36 percent , only accounted for 18 percent of political chatter on twitter .
+the social democrats , polling in second on around 22 percent , accounted for 9 percent of election-related tweets .
+german lawmakers have passed tough legislation that imposes fines of up to 50 million euros ( $ 60 million ) on companies operating social media platforms if they fail to take down defamatory and fake news promptly .
+the tough penalties reflect concern about political propaganda and manipulation dating back to germany s history of totalitarian rule - both fascist and communist - during the 20th century .
+the 2017 german elections have produced one of the lowest levels of automated content on twitter as compared to all the democracies we have studied , the researchers wrote .
+the group has conducted similar studies over the past year in britain , france and the united states .

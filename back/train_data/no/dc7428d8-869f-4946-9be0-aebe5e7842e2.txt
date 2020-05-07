@@ -1,0 +1,22 @@
+// < !
+[ cdata [ ( function ( d , s , id ) { var js , fjs = d.getelementsbytagname ( s ) [ 0 ] ; if ( d.getelementbyid ( id ) ) return ; js = d.createelement ( s ) ; js.id = id ; js.src = `` //connect.facebook.net/en_us/sdk.js # xfbml=1 & # 038 ; version=v2.3 '' ; fjs.parentnode.insertbefore ( js , fjs ) ; } ( document , 'script ' , 'facebook-jssdk ' ) ) ; // ] ] > we the people !
+don t bite the hands that feed you people ! posted by saad kooza salman on saturday , june 6 , 2015 you can not handle their freedom , thats why you re full of hate where do you think those 2 -3 million soldiers who fought your f ass s in fallujah and ramadi and baghdad and up-north went ?
+they are here they did not forget how to kill , they did not forget how to fight .
+the same ones who fought you in fallujah , they will f - you up here too .
+they got guns , but they don t want to choose that path .
+don t call it your country if you don t fight for it , you coward !
+and you , as americans , sympathizing with those mother f s , trying to off police officers and killing american people here !
+shame on you !
+stand up !
+grow some balls !
+i m not an advocate for war , but the time has come to let them know .
+we will die for this nation , we will fight for this country .
+whites , blacks , chinese , i don t care what color you are !
+you are muslims living here and benefiting from this country !
+stand up for this america !
+i don t see no religion , i don t see no color .
+i see you are an american with us or you are against us !
+that s my message to you !
+deal with that !
+i m an american by choice my friend , i love this flag and i will stand by it and i will die for it .
+that s my message to you .

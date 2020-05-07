@@ -1,0 +1,63 @@
+it is now a year since the democratic national committee s mail system was compromised a year since events in the spring and early summer of 2016 were identified as remote hacks and , in short order , attributed to russians acting in behalf of donald trump .
+a great edifice has been erected during this time.president trump , members of his family , and numerous people around him stand accused of various corruptions and extensive collusion with russians .
+half a dozen simultaneous investigations proceed into these matters .
+last week news broke that special counsel robert mueller had convened a grand jury , which issued its first subpoenas on august 3 .
+allegations of treason are common ; prominent political figures and many media cultivate a case for impeachment.the president s ability to conduct foreign policy , notably but not only with regard to russia , is now crippled .
+forced into a corner and having no choice , trump just signed legislation imposing severe new sanctions on russia and european companies working with it on pipeline projects vital to russia s energy sector .
+striking this close to the core of another nation s economy is customarily considered an act of war , we must not forget .
+in retaliation , moscow has announced that the united states must cut its embassy staff by roughly two-thirds .
+all sides agree that relations between the united states and russia are now as fragile as they were during some of the cold war s worst moments .
+to suggest that military conflict between two nuclear powers inches ever closer can no longer be dismissed as hyperbole.all this was set in motion when the dnc s mail server was first violated in the spring of 2016 and by subsequent assertions that russians were behind that hack and another such operation , also described as a russian hack , on july 5 .
+these are the foundation stones of the edifice just outlined .
+the evolution of public discourse in the year since is worthy of scholarly study : possibilities became allegations , and these became probabilities .
+then the probabilities turned into certainties , and these evolved into what are now taken to be established truths .
+by my reckoning , it required a few days to a few weeks to advance from each of these stages to the next .
+this was accomplished via the indefensibly corrupt manipulations of language repeated incessantly in our leading media.there was no hack of the democratic national committee s system on july 5 last year not by the russians , not by anyone else.hard science now demonstrates it was a leak a download executed locally with a memory key or a similarly portable data-storage device.in short , it was an inside job by someone with access to the dnc s system .
+this casts serious doubt on the initial hack , as alleged , that led to the very consequential publication of a large store of documents on wikileaks last summer.forensic investigations of documents made public two weeks prior to the july 5 leak by the person or entity known as guccifer 2.0 show that they were fraudulent : before guccifer posted them they were adulterated by cutting and pasting them into a blank template that had russian as its default language .
+guccifer took responsibility on june 15 for an intrusion the dnc reported on june 14 and professed to be a wikileaks source claims essential to the official narrative implicating russia in what was soon cast as an extensive hacking operation .
+to put the point simply , forensic science now devastates this narrative.this article is based on an examination of the documents these forensic experts and intelligence analysts have produced , notably the key papers written over the past several weeks , as well as detailed interviews with many of those conducting investigations and now drawing conclusions from them .
+before proceeding into this material , several points bear noting.qualified experts working independently of one another began to examine the dnc case immediately after the july 2016 events .
+prominent among these is a group comprising former intelligence officers , almost all of whom previously occupied senior positions .
+veteran intelligence professionals for sanity ( vips ) , founded in 2003 , now has 30 members , including a few associates with backgrounds in national-security fields other than intelligence .
+the chief researchers active on the dnc case are four : william binney , formerly the nsa s technical director for world geopolitical and military analysis and designer of many agency programs now in use ; kirk wiebe , formerly a senior analyst at the nsa s sigint automation research center ; edward loomis , formerly technical director in the nsa s office of signal processing ; and ray mcgovern , an intelligence analyst for nearly three decades and formerly chief of the cia s soviet foreign policy branch .
+most of these men have decades of experience in matters concerning russian intelligence and the related technologies .
+this article reflects numerous interviews with all of them conducted in person , via skype , or by telephone.the customary vips format is an open letter , typically addressed to the president .
+the group has written three such letters on the dnc incident , all of which were first published by robert parry at www.consortiumnews.com .
+here is the latest , dated july 24 ; it blueprints the forensic work this article explores in detail .
+they have all argued that the hack theory is wrong and that a locally executed leak is the far more likely explanation .
+in a letter to barack obama dated january 17 , three days before he left office , the group explained that the nsa s known programs are fully capable of capturing all electronic transfers of data .
+we strongly suggest that you ask nsa for any evidence it may have indicating that the results of russian hacking were given to wikileaks , the letter said .
+if nsa can not produce such evidence and quickly this would probably mean it does not have any .
+forensicator s first decisive findings , made public in the paper dated july 9 , concerned the volume of the supposedly hacked material and what is called the transfer rate the time a remote hack would require .
+the metadata established several facts in this regard with granular precision : on the evening of july 5 , 2016 , 1,976 megabytes of data were downloaded from the dnc s server .
+the operation took 87 seconds .
+this yields a transfer rate of 22.7 megabytes per second.these statistics are matters of record and essential to disproving the hack theory .
+no internet service provider , such as a hacker would have had to use in mid-2016 , was capable of downloading data at this speed .
+compounding this contradiction , guccifer claimed to have run his hack from romania , which , for numerous reasons technically called delivery overheads , would slow down the speed of a hack even further from maximum achievable speeds.in addition , there is the adulteration of the documents guccifer 2.0 posted on june 15 , when he made his first appearance .
+this came to light when researchers penetrated what folden calls guccifer s top layer of metadata and analyzed what was in the layers beneath .
+they found that the first five files guccifer made public had each been run , via ordinary cut-and-paste , through a single template that effectively immersed them in what could plausibly be cast as russian fingerprints .
+they were not : the russian markings were artificially inserted prior to posting .
+it s clear , another forensics investigator self-identified as het , wrote in a report on this question , that metadata was deliberately altered and documents were deliberately pasted into a russianified [ w ] ord document with russian language settings and style headings .
+vips has assembled a chronology that imposes a persuasive logic on the complex succession of events just reviewed .
+it is this : on june 12 last year , julian assange announced that wikileaks had and would publish documents pertinent to hillary clinton s presidential campaign.on june 14 , crowdstrike , a cyber-security firm hired by the dnc , announced , without providing evidence , that it had found malware on dnc servers and had evidence that russians were responsible for planting it.on june 15 , guccifer 2.0 first appeared , took responsibility for the hack reported on june 14 and claimed to be a wikileaks source .
+it then posted the adulterated documents just described.on july 5 , guccifer again claimed he had remotely hacked dnc servers , and the operation was instantly described as another intrusion attributable to russia .
+virtually no media questioned this account.it does not require too much thought to read into this sequence .
+with his june 12 announcement , assange effectively put the dnc on notice that it had a little time , probably not much , to act preemptively against the imminent publication of damaging documents .
+did the dnc quickly conjure guccifer from thin air to create a cyber-saboteur whose fingers point to russia ?
+there is no evidence of this one way or the other , but emphatically it is legitimate to pose the question in the context of the vips chronology .
+wikileaks began publishing on july 22 .
+by that time , the case alleging russian interference in the 2016 elections process was taking firm root .
+in short order assange would be written down as a russian agent .
+see wikileaks founder julian assange s interview about the possibility of seth rich being the dnc leaker near bottom of the article .
+behind the ica lie other indefensible realities .
+the fbi has never examined the dnc s computer servers an omission that is beyond preposterous .
+it has instead relied on the reports produced by crowdstrike , a firm that drips with conflicting interests well beyond the fact that it is in the dnc s employ .
+dmitri alperovitch , its co-founder and chief technology officer , is on the record as vigorously anti-russian .
+he is a senior fellow at the atlantic council , which suffers the same prejudice .
+problems such as this are many .
+we continue to stand by our report , crowdstrike said , upon seeing the vips blueprint of the investigation .
+crowdstrike argues that by july 5 all malware had been removed from the dnc s computers .
+but the presence or absence of malware by that time is entirely immaterial , because the event of july 5 is proven to have been a leak and not a hack .
+given that malware has nothing to do with leaks , crowdstrike s logic appears to be circular.click here for the entire the nation article .
+h/t gateway pundit wikileaks founder julian assange has strongly hinted that the source for the dnc emails he released was seth rich .
+in this interview with julian assange , he seems to suggest on dutch television program nieuwsuur that seth rich was the source for the wikileaks-exposed dnc emails and was murdered :

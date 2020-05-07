@@ -1,0 +1,4 @@
+this video is so disturbing but is a great example of zero parenting !
+the kids were riding the subway attacking different passengers .
+patrick coyle started recording after the kids slapped a lady .
+they then turned on him : ( function ( d , s , id ) { var js , fjs = d.getelementsbytagname ( s ) [ 0 ] ; if ( d.getelementbyid ( id ) ) return ; js = d.createelement ( s ) ; js.id = id ; js.src = `` //connect.facebook.net/en_gb/sdk.js # xfbml=1 & version=v2.3 '' ; fjs.parentnode.insertbefore ( js , fjs ) ; } ( document , 'script ' , 'facebook-jssdk ' ) ) ; please show this to the right personposted by patrick coyle on thursday , 24 march 2016

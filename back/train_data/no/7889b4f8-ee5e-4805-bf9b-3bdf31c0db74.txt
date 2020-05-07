@@ -1,0 +1,19 @@
+new york ( reuters ) - a federal appeals court in new york on tuesday revived part of a $ 1.68 billion lawsuit against iran s central bank , bank markazi , by families of soldiers killed in the 1983 bombing of the u.s. marine corps barracks in lebanon .
+by a 3-0 vote , the 2nd u.s .
+circuit court of appeals said a lower court judge erred in dismissing claims against markazi ; banca ubae spa , an italian bank accused of engaging in transactions for iran ; and clearstream banking sa , a luxembourg bank accused of opening accounts for markazi and ubae .
+it upheld the dismissal of claims against jpmorgan chase & co .
+the plaintiffs sought to recoup bond proceeds allegedly owned by markazi and held by clearstream , to partially satisfy $ 3.8 billion of judgments they had won against iran after a federal court deemed them victims of state-sponsored terrorism .
+they accused the banks of fraudulently processing billions of dollars of bond proceeds owed to markazi , and targeted cash held in a clearstream account at jpmorgan in new york .
+iran is one of several countries and organizations ordered by u.s. courts to pay damages to terrorism victims .
+such orders are often difficult to enforce .
+lawyers for the plaintiffs and banks did not immediately respond to requests for comment .
+u.s. district judge katherine forrest had dismissed the case in february 2015 .
+she said she lacked jurisdiction over markazi assets located abroad , the plaintiffs had released claims against clearstream and ubae , and nothing was left in the clearstream account for jpmorgan to turn over .
+in tuesday s 72-page decision , circuit judge robert sack said forrest reasonably assumed she lacked jurisdiction because the main assets in dispute had been recorded on clearstream s books in luxembourg .
+but he said recent court rulings interpreting the federal foreign sovereign immunities act permitted courts in new york to exercise jurisdiction to recall to new york extraterritorial assets owned by a foreign sovereign .
+sack ordered forrest to decide whether she has personal jurisdiction over clearstream , and whether state or federal law prevents the plaintiffs from recovering bond proceeds .
+in april 2016 , the u.s. supreme court said in a separate case that markazi must pay nearly $ 2 billion , which had been frozen , to terrorism victims , and congress had not exceeded its authority by passing a law making it easier to recover damages .
+the 1983 attack , in beirut , killed 241 u.s. service members .
+the case is peterson et al v islamic republic of iran et al , 2nd u.s .
+circuit court of appeals , no .
+15-0690 .

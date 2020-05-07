@@ -1,0 +1,25 @@
+( in 13th paragraph of dec. 18 item , corrects to indicate that a separate attack was launched in june that affected fedex computers ) by dustin volz washington ( reuters ) - the trump administration has publicly blamed north korea for unleashing the so-called wannacry cyber attack that crippled hospitals , banks and other companies across the globe earlier this year .
+the attack was widespread and cost billions , and north korea is directly responsible , tom bossert , homeland security adviser to president donald trump , wrote in a piece published on monday night in the wall street journal .
+north korea has acted especially badly , largely unchecked , for more than a decade , and its malicious behavior is growing more egregious , bossert wrote .
+wannacry was indiscriminately reckless .
+the white house was expected to follow up on tuesday with a more formal statement blaming pyongyang , according to a senior administration official .
+the u.s. government has assessed with a very high level of confidence that a hacking entity known as lazarus group , which works on behalf of the north korean government , carried out the wannacry attack , said the official , who spoke on condition of anonymity to discuss details of the government s investigation .
+lazarus group is widely believed by security researchers and u.s. officials to have been responsible for the 2014 hack of sony pictures entertainment that destroyed files , leaked corporate communications online and led to the departure of several top studio executives .
+north korean government representatives could not be immediately reached for comment .
+the country has repeatedly denied responsibility for wannacry and called other allegations about cyber attacks a smear campaign .
+washington s public condemnation does not include any indictments or name specific individuals , the administration official said , adding the shaming was designed to hold pyongyang accountable for its actions and erode and undercut their ability to launch attacks .
+the accusation comes as worries mount about north korea s hacking capabilities and its nuclear weapons program .
+many security researchers , including the cyber firm symantec , as well as the british government , have already concluded that north korea was likely behind the wannacry attack , which quickly unfurled across the globe in may to infect more than 300,000 computers in 150 countries .
+considered unprecedented in scale at the time , wannacry knocked british hospitals offline , forcing thousands of patients to reschedule appointments and disrupted infrastructure and businesses around the world .
+the attack originally looked like a ransomware campaign , where hackers encrypt a targeted computer and demand payment to recover files .
+some experts later concluded the ransom threat may have been a distraction intended to disguise a more destructive intent .
+a separate but similar attack in june , known as notpetya , hit ukraine and other nations and caused an estimated $ 300 million in damages to international shipper fedex .
+some researchers have said they believed wannacry was deployed accidentally by north korea as hackers were developing the code .
+the senior administration official declined to comment about whether u.s. intelligence was able to discern if the attack was deliberate .
+what we see is a continued pattern of north korea misbehaving , whether destructive cyber attacks , hacking for financial gain , or targeting infrastructure around the globe , the official said .
+wannacry was made possible by a flaw in microsoft s windows software , which was discovered by the u.s. national security agency and then used by the nsa to build a hacking tool for its own use .
+in a devastating nsa security breach , that hacking tool and others were published online by the shadow brokers , a mysterious group that regularly posts cryptic taunts toward the u.s. government .
+the fact that wannacry was made possible by the nsa led to sharp criticism from microsoft president brad smith and others who believe the nsa should disclose vulnerabilities it finds so that they can be fixed , rather then hoarding that knowledge to carry out attacks .
+smith said wannacry provided yet another example of why the stockpiling of vulnerabilities by governments is such a problem .
+u.s. officials have pushed back on those assertions , saying the administration discloses most computer flaws that government agencies detect .
+last month , the white house published its rules for deciding whether to disclose cyber security flaws or keep them secret as part of an effort to be more transparent about the inter-agency process involved in weighing disclosure .

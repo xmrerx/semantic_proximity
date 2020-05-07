@@ -1,0 +1,27 @@
+washington ( reuters ) - members of the house judiciary committee are considering filing a “ friend of the court ” brief in apple inc ’ s [ aapl.o ] encryption dispute with the u.s. government to argue that the case should be decided by congress and not the courts , five sources familiar with the matter said .
+the sources cautioned that no final agreement had been reached on what would be an unusual intervention by congressmen in a legal proceeding .
+any filing would occur after a panel hearing on tuesday that will include fbi director james comey and apple general counsel bruce sewell .
+the court deadline is thursday .
+the filing would argue that the feb. 16 order from a federal court in california that instructs apple to write special software to unlock an iphone 5c used by one of the san bernardino shooters threatens the constitutional separation of powers , the sources said .
+they said the brief would come from individual committee members of both republican and democratic parties but not the judiciary committee itself .
+reuters could not determine which members were likely to be included .
+lawmakers could wait until the appeals process before intervening , the sources said .
+apple last week formally opposed the order in court , calling the case “ unprecedented ” and a violation of free speech rights that would override the will of congress .
+on monday , a judge in a related new york case sided with apple in agreeing that the courts did not have the authority to order apple to unlock a phone .
+the san bernardino case has come to represent a broader debate over how much authority law enforcement should have to compel companies to assist in monitoring digital communications .
+the encryption debate does not divide along party lines , with liberal democrats and libertarian-leaning republicans both supporting apple ’ s stance .
+many pro-law enforcement lawmakers of both parties , and republican presidential front-runner donald trump , support the government ’ s position .
+the unusual congressional intervention would come on top of a wave of support for apple among its silicon valley brethren .
+some two-dozen companies and civil liberties groups are expected to weigh in on apple ’ s side .
+relatives of some of the shooting victims are planning to back the government ’ s case , said their lawyer , stephen larson .
+the federal bureau of investigation earlier this month sought and obtained a court order requiring that apple write new software and take other steps to unlock an iphone 5c that was used by rizwan farook , who along with his wife went on a shooting rampage on dec. 2 in san bernardino that killed 14 and wounded 22 .
+the government has said the attack was inspired by islamist militants and the fbi wants to read data from the phone to investigate any links the couple might have had with militant groups .
+apple is concerned that the order would lead to endless similar requests in the u.s. and overseas and ultimately undermine the security of all apple phone .
+a number of large tech firms have publicly said they will file briefs supporting apple .
+google , facebook and microsoft are expected to file jointly and be represented by neal katyal , a georgetown law professor and former acting u.s. solicitor general for the obama administration , according to a source familiar with the companies ’ plans .
+amazon , linkedin , twitter , the mozilla foundation , and the cloud storage firm box , along with advocacy groups including the electronic frontier foundation and the center for democracy and technology , are also expected to support apple .
+still , some major companies , including ibm , are expected to sit out the fight .
+telecom carriers have also been notably reluctant to get involved ; verizon is unlikely to file a friend of the court brief , despite comments from its ceo that the company supports encryption with no backdoors , sources familiar with the matter said .
+a justice department spokeswoman declined comment on sunday about what other briefs were expected .
+apple ’ s high-profile standoff with the u.s. government is being played out as many of the obama administration ’ s most senior officials are traveling to san francisco this week to attend the world ’ s largest cyber security conference .
+u.s. attorney general loretta lynch , national security director michael rogers and defense secretary ash carter are all scheduled to speak at rsa conference , where the iphone fight and encryption more broadly are expected to dominate conversation .

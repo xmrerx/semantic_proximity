@@ -1,0 +1,4 @@
+san francisco ( reuters ) - the u.s. national security agency chief said on tuesday it was a “ matter of when , not if ” a foreign nation-state attempts to launch a cyber attack on the u.s. critical infrastructure , citing the recent hack on ukraine ’ s power grid as a cause for concern .
+speaking at the rsa cyber security conference in san francisco , admiral michael rogers said he was also worried about data manipulation and potential offensive cyber threats posed by non-nation-state actors such as islamic state .
+the u.s. government said last week a december blackout in ukraine that affected 225,000 customers was the result of a cyber attack , supporting what most security researchers had already concluded .
+some private researchers have linked the incident to a russian hacking group known as “ sandworm . ”

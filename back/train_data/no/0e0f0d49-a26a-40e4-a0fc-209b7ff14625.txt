@@ -1,0 +1,21 @@
+washington ( reuters ) - security researchers and civil liberties advocates on friday condemned draft legislation leaked from the u.s. senate that would let judges order technology companies to assist law enforcement agencies in breaking into encrypted data .
+the long-awaited bill is emerging just as the u.s. justice department redoubles its efforts to use the courts to force apple to help unlock encrypted iphones .
+the senate proposal is an attempt to resolve long-standing disagreements between the technology community , which believes strong encryption is essential to keep hackers and others from disrupting the internet , and law enforcement officials worried about being unable to pry open encrypted devices and communications of criminal suspects .
+but the draft bill , leaked online thursday evening , was planned as an overly vague measure that added up to a ban on strong encryption .
+kevin bankston , director of the open technology institute , said in a statement it was the “ most ludicrous , dangerous , technically illiterate tech policy proposal of the 21st century. ” the leaked 9-page bill is the most current draft of the proposal , a source familiar with the language said .
+it would give judges broad authority to order tech companies to hand over data in “ an intelligible format ” or provide “ technical assistance ” to access locked data .
+it does not spell out what form the data must take or under what circumstances a company would be forced to help .
+it also does not create specific penalties for noncompliance .
+in a joint statement , the authors of the bill , senators richard burr and dianne feinstein , said they were still working with stakeholders to finalize the bill , which has repeatedly been delayed .
+“ the underlying goal is simple : when there ’ s a court order to render technical assistance to law enforcement or provide decrypted information , that court order is carried out , ” they said .
+“ no individual or company is above the law. ” president obama is expected to be personally briefed by white house chief of staff denis mcdonough on the proposal on monday , sources said .
+but the administration remains deeply divided over encryption and views it as too controversial to offer public support or opposition for the bill as it is currently written , according to sources .
+a white house spokesman told reporters thursday the administration had not decided whether to support the measure , as it is still in a draft stage .
+the fight over encryption has been at the center of a months long dispute between apple and the fbi over a phone linked to one of the san bernardino , calif. , shooters .
+though the justice department withdrew its request in that case after a secret third party provided a way to unlock the phone , it announced friday it would move ahead with an appeal of a court ruling blocking the government from forcing apple to help unlock an iphone in a separate new york drug case .
+the bill from burr and feinstein would make it much more difficult if not impossible for apple to refuse to comply in such cases .
+an apple attorney declined to comment about the draft legislation on a call with reporters .
+the proposal from burr and feinstein , the top republican and democrat on the senate intelligence committee respectively , is expected to face a steep climb in a gridlocked u.s. congress during an election year .
+“ for the first time in america , companies that want to protect their customers with stronger security will not have that choice , ” senator ron wyden , an oregon democrat and vocal privacy advocate told reporters friday .
+“ they will be required by federal law per this statute to decide how to weaken their products to make americans less safe. ” matt blaze , a professor and computer security expert at the university of pennsylvania , said on twitter that the bill was worse than a failed effort by president bill clinton ’ s administration in the 1990s to require a special computer chip in phones to give the u.s. government a way to monitor encrypted conversations .
+the clinton-era push crumbled amid stiff opposition from the technology sector that included a crucial security flaw in the proposal detected by blaze .

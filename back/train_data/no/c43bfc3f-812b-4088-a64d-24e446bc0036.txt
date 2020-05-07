@@ -1,0 +1,8 @@
+( reuters ) - the internal revenue service said on friday an investigation into a hacking attack revealed in may found that cyber criminals had made attempts to gain access to about 390,000 additional taxpayer accounts .
+the tax agency said 295,000 taxpayer transcripts were also targeted but access was not successful .
+( 1.usa.gov/1lj1ira ) the agency said in may the tax return information of about 114,000 u.s. taxpayers had been illegally accessed by cyber criminals over the preceding four months , with another 111,000 unsuccessful attempts made .
+the irs then revealed in august a new review had identified 220,000 additional incidents where data was breached and another 170,000 suspected failed attempts to gain access to taxpayer data .
+from february to may , attackers had sought to gain access to personal tax information through the agency ’ s “ get transcript ” online application , which calls up information from previous returns , the tax collection agency said in may .
+the nine-month long review , which looked into incidents dating back to the launch of the “ get transcript ” application in january 2014 through may 2015 , was conducted by treasury inspector general for tax administration , the irs said on friday .
+the “ get transcript ” web application has been offline since the incident was discovered , the agency said on friday , adding that mailings to the affected taxpayers will start on feb. 29 .
+cnn reported in may that the irs believed that the data theft originated in russia .

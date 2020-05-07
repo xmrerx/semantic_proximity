@@ -1,0 +1,9 @@
+london ( reuters ) - a year after a wave of denial-of-service attacks knocked out major websites around the world , millions of unsecured printers , network gear and webcams remain undefended against attack across major european cities , a report published on tuesday said .
+computer security company trend micro ( 4704.t ) said that berlin has more than 2.8 million insecure devices , followed closely by london with more than 2.5 million exposed gadgets .
+among the top 10 capitals , rome was lowest with nearly 300,000 visible unsecured devices , the researchers said .
+the study was based on calculating the number of exposed devices in major european cities using shodan , a search engine that helps to identify internet-linked equipment .
+trend micro said that electronics users must take responsibility for managing their own internet-connected devices because of the failure by many gadget manufacturers to build in up-front security by default in their products .
+the warning comes one year after a wave of attacks using so-called botnets of infected devices caused outages on popular websites and knocked 900,000 deutsche telekom ( dtegn.de ) users off the internet .
+( reut.rs/2bjdrii ) computer experts say the failure to patch millions of insecure devices after last year s mirai denial-of-service attacks means it is only a question of time before further broad-based outages occur .
+research company gartner recently forecast that there would be 8.4 billion connected products or devices in 2017 , up 31 percent from 2016 , and expects the number to triple by 2020 .
+( goo.gl/thr54q )

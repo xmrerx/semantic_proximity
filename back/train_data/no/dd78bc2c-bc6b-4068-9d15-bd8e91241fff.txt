@@ -1,0 +1,29 @@
+new york/san francisco ( reuters ) - apple inc ( aapl.o ) will likely seek to invoke the united states ’ protections of free speech as one of its key legal arguments in trying to block an order to help unlock the encrypted iphone of one of the san bernardino shooters , lawyers with expertise in the subject said this week .
+the company on thursday was granted three additional days by the court to file a response to the order .
+apple will now have until feb. 26 to send a reply , a person familiar with matter told reuters .
+the tech giant and the obama administration are on track for a major collision over computer security and encryption after a federal magistrate judge in los angeles handed down an order on tuesday requiring apple to provide specific software and technical assistance to investigators .
+apple chief executive tim cook called the request from the federal bureau of investigation unprecedented .
+other tech giants such as facebook inc ( fb.o ) , twitter inc ( twtr.n ) and alphabet inc ’ s ( googl.o ) google have rallied to support apple .
+apple has retained two prominent , free-speech lawyers to do battle with the government , according to court papers : theodore olson , who won the political-speech case citizens united v. federal election commission in 2010 , and theodore boutrous , who frequently represents media organizations .
+government lawyers from the u.s. justice department have defended their request in court papers by citing various authorities , such as a 1977 u.s. supreme court ruling that upheld an order compelling a telephone company to provide assistance with setting up a device to record telephone numbers .
+the high court said then that the all writs act , a law from 1789 , authorized the order , and the scope of that ruling is expected to be a main target of apple when it files a response in court by early next week .
+but apple will likely also broaden its challenge to include the first amendment ’ s guarantee of speech rights , according to lawyers who are not involved in the dispute but who are following it .
+compared with other countries , the united states has a strong guarantee of speech rights even for corporations , and at least one court has ruled that computer code is a form of speech , although that ruling was later voided .
+apple could argue that being required to create and provide specific computer code amounts to unlawful compelled speech , said riana pfefferkorn , a cryptography fellow at stanford university ’ s center for internet and society .
+the order against apple is novel because it compels the company to create a new forensic tool to use , not just turn over information in apple ’ s possession , pfefferkorn said .
+“ i think there is a significant first amendment concern , ” she said .
+a spokesman for the u.s. attorney ’ s office in los angeles declined to comment on the possible free-speech questions on thursday .
+a speech-rights argument from apple , though , could be met with skepticism by the courts because computer code has become ubiquitous and underpins much of the u.s. economy .
+“ that is an argument of enormous breadth , ” said stuart benjamin , a duke university law professor who writes about the first amendment .
+he said apple would need to show that the computer code conveyed a “ substantive message. ” in a case brought by a mathematician against u.s. export controls , a three-judge panel of the 9th u.s .
+circuit court of appeals , which covers california , found in 1999 that the source code behind encryption software is protected speech .
+the opinion was later withdrawn so the full court could rehear the case , but that rehearing was canceled and the appeal declared moot after the government revised its export controls .
+the fbi and prosecutors are seeking apple ’ s assistance to read the data on an iphone 5c that had been used by rizwan farook , who along with his wife , tashfeen malik , carried out the san bernardino shootings that killed 14 people and wounded 22 others at a holiday party .
+u.s. prosecutors were smart to pick the mass shooting as a test case for an encryption fight with tech companies , said michael froomkin , a university of miami law professor .
+that is because the shooting had a large emotional impact while also demonstrating the danger posed by armed militants , he said .
+in addition , the iphone in dispute was owned not by farook but by his employer , a local government , which has consented to the search of the iphone .
+the federal magistrate who issued the order , sheri pym , is also a former federal prosecutor .
+“ this is one of the worst set of facts possible for apple .
+that ’ s why the government picked this case , ” froomkin said .
+froomkin added , though , that the fight was enormously important for the company because of the possibility that a new forensic tool could be easily used on other phones and the damage that could be done to apple ’ s global brand if it can not withstand government demands on privacy .
+“ all these demands make their phones less attractive to users , ” he said .

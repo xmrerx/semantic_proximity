@@ -1,0 +1,32 @@
+san francisco ( reuters ) - even as the department of justice battles apple in court over access to encrypted data , the obama administration remains split over backing requirements that tech manufacturers provide law enforcement with a “ back door ” into their products , according to a dozen people familiar with the internal debate .
+fbi director james comey and the doj - who are fighting to access an iphone tied to the san bernardino attacks – have long tried and failed to convince other departments to join the broader battle against unbreakable encryption , the current and former government officials said .
+federal justice officials argue that strong encryption makes it harder to track criminals , a central contention in the iphone case .
+but officials in other departments - including commerce , state and the white house office of science and technology policy - counter that encryption is integral to protecting u.s. secrets and the technology industry .
+the issue has been discussed in meetings of the interagency national security council and elsewhere .
+some government officials also worry that confronting the tech sector on the issue could heighten distrust of american products overseas and drive terrorists and top criminals to seek foreign-made encryption .
+several key officials in the national security agency and the department of homeland security opposed the fight with apple based on those concerns , the sources said .
+luke dembosky - until recently the deputy assistant attorney general for national security and the senior cybersecurity prosecutor on some of the biggest hacking cases in recent years - cast the broader disagreements over encryption as “ very healthy. ” “ it ’ s a very big government , and everyone is trying to do the right thing , ” said dembosky , who last week joined the law firm debevoise & plimpton llp .
+“ there are countries where they don ’ t have these debates. ” nsa director michael rogers has taken a middle ground , saying that strong encryption is important but compromise is desirable .
+years of interagency debates over encryption have left the obama administration lacking a cohesive policy stance on the issue , many tech industry leaders have said .
+the justice department last month persuaded a federal judge to order apple inc ( aapl.o ) to write software to help unlock an iphone used by shooter rizwan farook in the december attack in san bernardino .
+apple is fighting the order , calling the case an overreach by prosecutors that threatens the security of all iphones .
+a hearing on the matter is scheduled for later this month .
+as is customary in such cases , the decision to take action against apple was made without consulting the white house , said two sources familiar with the matter .
+“ the doj and fbi pursue all such matters independent of the white house , ” a senior administration official said .
+the official added that the white house does not intend to seek legislation mandating back doors .
+in an interview , john carlin , assistant attorney general for national security , dismissed suggestions that some administration officials did not support the justice department ’ s action in the apple case .
+the effort was never intended to settle the encryption debate , he said , but rather to assist san bernardino county , which asked for help in unlocking farook ’ s county-owned iphone 5c .
+the tech industry has united behind apple , with more than 40 companies this week submitting legal briefs arguing that compliance with the judge ’ s order would undermine encryption and public trust in internet security .
+by contrast , the division among government agencies has left some administration officials in an awkward position of publicly supporting the justice department ’ s case against apple while also acknowledging the need for strong encryption .
+they have been more vocal about their concerns behind closed doors , according to four people who have spoken with them or their subordinates .
+“ just to cut to the chase , i ’ m not a believer in back doors or a single technical approach , ” defense secretary ash carter told a largely pro-apple crowd at the rsa security conference on wednesday .
+“ i don ’ t think we ought to let one case drive a single solution. ” congress is also divided on the issue , with liberal democrats joining libertarian republicans in opposing government back doors .
+the lack of consensus prompted the white house last year to abandon a push for legislation that would require u.s. technology firms to provide law enforcement a way around encryption .
+privately , however , president obama sought a compromise , asking large telecommunications and technology firms , including apple and microsoft , to work toward an “ exceptional access ” agreement that would provide investigators access to content that is typically encrypted , said two sources with knowledge of the discussion .
+an apple spokesman said that the company never seriously considered installing a back door and tried to shift the discussion to a broader conversation about law enforcement cooperation .
+either way , apple ceo tim cook lambasted the white house for not publicly affirming support for strong encryption at a january summit in san jose , calif. between technology executives and senior national security officials convened largely to discuss online extremism , sources familiar with the meeting said .
+cook ’ s comments aggravated white house chief of staff denis mcdonough , who thought the iphone maker was backtracking on its earlier commitment to work collaboratively on resolving law enforcement ’ s encryption concerns , according to one person with knowledge of the situation .
+that confrontation helps explain why , after months of apparent respectful disagreement in public and private pursuit of compromise , both sides suddenly came to battle heavily armed .
+amid the hostilities between apple and the fbi , some have called for president obama to weigh in to help resolve the standoff .
+“ i ’ m waiting to hear what the president has to say about it , ” democratic senator ron wyden , who supports apple , said in an interview .
+“ i know [ white house press secretary ] josh earnest has said he is for the justice department , [ but ] i want to hear from the president . ”

@@ -1,0 +1,16 @@
+berlin ( reuters ) - germany s election chief has urged state officials to address vulnerabilities in vote collation software , just weeks before a sept. 24 election that officials fear could be subject to foreign interference .
+germans will vote on paper at polling stations or by mail in advance and the ballots will be counted and entered into a computer system , but two news reports published on thursday cited concerns about the software , particularly the lack of an authentication step when results are transmitted .
+die zeit said martin tschirsich , a 29-year-old computer expert , had been able to find passwords on the internet to gain access to the maintenance program for the pc-wahl ( pc-election ) software , which would allow it to be manipulated .
+the election is not secure .
+it can be hacked , he told the weekly newspaper .
+similar concerns were raised by another it expert in the online version of der spiegel magazine .
+the reports come after repeated warnings from government officials that russia could try to interfere in the election .
+french and u.s. intelligence officials say moscow sought to influence recent votes there .
+russia denies the accusations .
+responding to the media reports , federal election director dieter sarreither said he was familiar with the problems identified and had asked state officials and the software company , vote-it , to take steps to shore up security .
+vote-it had no immediate comment .
+the measures sarreither demanded include the mandatory installation of software patches and the development of new steps aimed at ensuring the authenticity of the election results sent digitally , perhaps through telephone calls .
+that would ensure that any errors in data transmission are recognized and corrected before preliminary election results are released , sarreither said , adding that actual results could not be manipulated as they were based on paper ballots .
+the security of the data was more important than the speed with which results were released , his office said .
+germany s federal cyber protection agency , bsi , said it had worked closely with election officials and the software manufacturer to improve the security of election results .
+in the future , only information technology based on bsi-certified software should be used for election processes , bsi chief arne schoenbohm said .

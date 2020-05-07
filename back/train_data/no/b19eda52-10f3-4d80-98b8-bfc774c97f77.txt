@@ -1,0 +1,4 @@
+london ( reuters ) - britain said north korea was behind the wannacry cyber attack that infected computers around the globe earlier this year on tuesday , joining the united states in blaming pyongyang for the ransomware incident .
+britain s national cyber security centre had assessed it was highly likely that north korea s lazarus hacking group was behind the one of the most significant cyber attacks to hit the uk in terms of scale of disruption , the foreign office said .
+we condemn these actions and commit ourselves to working with all responsible states to combat destructive criminal use of cyber space , foreign office minister tariq ahmad said .
+the indiscriminate use of the wannacry ransomware demonstrates north korean actors using their cyber program to circumvent sanctions , ahmad said .

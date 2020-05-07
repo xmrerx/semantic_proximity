@@ -1,0 +1,26 @@
+washington ( reuters ) - russian government-backed hackers stole highly classified u.s. cyber secrets in 2015 from the national security agency after a contractor put information on his home computer , two newspapers reported on thursday .
+as reported first by the wall street journal , citing unidentified sources , the theft included information on penetrating foreign computer networks and protecting against cyber attacks and is likely to be viewed as one of the most significant security breaches to date .
+in a later story , the washington post said the employee had worked at the nsa s tailored access operations unit for elite hackers before he was fired in 2015 .
+the nsa declined to comment , citing agency policy never to comment on our affiliates or personnel issues .
+reuters was not able to independently verify the reports .
+if confirmed , the hack would mark the latest in a series of breaches of classified data from the secretive intelligence agency , including the 2013 leaks of data on classified u.s. surveillance programs by contractor edward snowden .
+another contractor , harold martin , is awaiting trial on charges that he took classified nsa material home .
+the washington post reported that martin was not involved in the newly disclosed case .
+republican u.s .
+senator ben sasse , a member of the senate armed services committee , said in a statement responding to the journal report that , if true , the details were alarming .
+the nsa needs to get its head out of the sand and solve its contractor problem , sasse said .
+russia is a clear adversary in cyberspace and we can t afford these self-inflicted injuries .
+tensions are already high in washington over u.s. allegations of a surge in hacking of american targets by russians , including the targeting of state election agencies and the hacking of democratic party computers in a bid to sway the outcome of the 2016 presidential election in favor of republican donald trump .
+citing unidentified sources , both the journal and the post also reported that the contractor used antivirus software from moscow-based kaspersky lab , the company whose products were banned from u.s. government networks last month because of suspicions they help the kremlin conduct espionage .
+kaspersky lab has strongly denied those allegations .
+russian government officials could have used flaws in kaspersky software to hack into the machine in question , security experts told reuters .
+they could also have intercepted traffic from the machine to kaspersky computers .
+kaspersky said in a statement on thursday that it found itself caught in the middle of a geopolitical fight .
+kaspersky lab has not been provided any evidence substantiating the company s involvement in the alleged incident reported by the wall street journal , it said .
+it is unfortunate that news coverage of unproven claims continue to perpetuate accusations about the company .
+the department of homeland security on sept. 13 banned kaspersky products in federal networks , and the u.s. senate approved a bill to ban them from use by the federal government , citing concerns the company may be a pawn of the kremlin and poses a national security risk .
+james lewis , a cyber expert with the washington-based center for strategic and international studies , said the report of the breach sounded credible , though he did not have firsthand information on what had transpired .
+the baffling parts are that he was able to get stuff out of the building and that he was using kaspersky , despite where he worked , lewis said .
+he said that intelligence agencies have considered kaspersky products to be a source of risk for years .
+democratic senator jeanne shaheen , who led calls in congress to purge kaspersky lab products from government networks , on thursday called on the trump administration to declassify information about threats posed by kaspersky lab .
+it s a disservice to the public and our national security to continue withholding this information , shaheen said in a statement .

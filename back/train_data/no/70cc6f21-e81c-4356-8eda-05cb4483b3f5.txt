@@ -1,0 +1,26 @@
+new york ( reuters ) - soon after hillary clinton ’ s arrival at the state department in 2009 , officials in the information technology office were baffled when told that a young technician would join them as a political appointee , newly disclosed emails show .
+the technician , bryan pagliano , was running the off-grid email server that clinton had him set up in her new york home for her work as secretary of state .
+but even as years passed , pagliano ’ s supervisors never learned of his most sensitive task , according to the department and one of his former colleagues .
+pagliano ’ s immediate supervisors did not know the private server even existed until it was revealed in news reports last year , the colleague said , requesting anonymity because of a department ban on unauthorized interviews .
+clinton ’ s decision to side-step the official state.gov email system has since shrouded her campaign for the u.s. presidency this year in controversy and legal uncertainty .
+the federal bureau of investigation is conducting one of several inquiries into the arrangement , which saw classified information passing through her unsecured clintonemail.com account .
+the newly disclosed emails show patrick kennedy , the department ’ s under secretary for management , oversaw the hiring of pagliano .
+but clinton and the department continued to decline this week to say who , if anyone , in the government was aware of the email arrangement .
+“ there was no permission to be asked , ” clinton said earlier this month .
+state department spokesman john kirby declined to say whether this was correct , citing the ongoing inquiries .
+before joining the department , pagliano had worked on clinton ’ s unsuccessful presidential campaign the previous year , and clinton paid him separately to maintain the server , her campaign staff have said .
+pagliano is cooperating with the fbi in exchange for a promise of a form of prosecutorial immunity , but it remains unclear whether even he knew clinton was using the server for her work as the nation ’ s most senior diplomat .
+clinton spokesman brian fallon declined to answer questions , but said in an email he was glad that pagliano was speaking with the fbi because “ there was nothing inappropriate about the it services he provided. ” the department gave copies of the emails to the senate ’ s republican-led judiciary committee , which is investigating the email arrangement , and they are cited in a five-page letter that the committee chairman , senator chuck grassley , sent last week to kennedy , who remains the department ’ s most senior manager .
+kennedy shared pagliano ’ s résumé in 2009 with susan swart , then the head of the department ’ s bureau of information resource management and chief adviser to the secretary on the department ’ s information technology systems , and her deputy , charlie wisecarver .
+“ how did the conversation go and have you reached an arrangement ? ” he asked them , referring to pagliano , in another email , according to the letter the committee shared with reuters .
+wisecarver and swart , who had worked in the department for decades , were soon swapping emails expressing confusion and surprise that a political appointee , a so-called schedule c employee who is more commonly hired to work in the secretary of state ’ s offices , should be joining the it department ’ s ranks .
+schedule c employees , who help presidential appointees and agency heads make policy , can only report to people appointed by the u.s. president or other senior executive officials .
+but no one like that worked in the it office , so kennedy ended up being pagliano ’ s designated supervisor .
+the department told reuters that pagliano and kennedy had little contact , and that kennedy was unaware of the server or his subordinate ’ s role in running it .
+nor did wisecarver , pagliano ’ s day-to-day boss , or swart know , according to the former colleague , who said the it office should have been informed .
+people who worked with pagliano did not respond to messages .
+pagliano ’ s lawyer declined to comment .
+grassley ’ s letter also indicates that at least some department officials had learned of the server ’ s existence by the end of the second year of clinton ’ s tenure .
+pagliano received an it security briefing in late 2010 or early 2011 “ in connection with his work on the secretary ’ s non-government server , ” according to grassley ’ s letter .
+grassley ’ s staff , who have been interviewing officials as part of their inquiry , declined to provide more details .
+the state department declined to confirm whether the meeting happened .

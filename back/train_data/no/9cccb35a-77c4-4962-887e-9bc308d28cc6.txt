@@ -1,0 +1,16 @@
+san francisco ( reuters ) - facebook inc ( fb.o ) and twitter inc ( twtr.n ) , two of silicon valley ’ s most powerful companies , on thursday backed apple inc ’ s ( aapl.o ) refusal to help the fbi break into an iphone used by a shooter in the san bernardino attack , saying that complying would set a dangerous precedent for privacy .
+it took two days , but the companies ’ entry solidifies a small but powerful band of tech giants supporting apple in its quest to buck government demands that it says would irreparably damage security and erode consumer trust .
+among the first to come to apple ’ s defense was its chief rival .
+chief executive officer sundar pichai of alphabet inc ’ s ( googl.o ) google tweeted in support of apple on wednesday .
+but other companies are staying mum .
+yahoo inc yhoo.o and microsoft corp ( msft.o ) have yet to weigh in on the case .
+in characteristic fashion , twitter ceo jack dorsey used the service itself to lend support to apple ceo tim cook , tweeting `` we stand with @ tim_cook and apple ( and thank him for his leadership ) . ''
+( bit.ly/1rbfi5j ) in a statement , facebook said , “ we will continue to fight aggressively against requirements for companies to weaken the security of their systems. ” the case has intensified the rift between tech companies and law enforcement over the limits of encryption .
+and law enforcement groups have been vocal about their support for the justice department .
+although some firms have remained silent , the industry is firmly on apple ’ s side , said aaron levie , ceo of cloud-based storage provider box inc ( box.n ) .
+“ companies choose to use their political capital when it is really important or relevant to them , ” levie said .
+“ if individually pressed you would see the same message from essentially any internet or hardware or enterprise software ceo or company , and that ’ s because the fundamental security model of our technology would break if you were to comply with this kind of order. ” levie said he unequivocally supports cook ’ s stance .
+“ the whole grounds on which apple is standing on are just super important , ” he said .
+at the center of the case is an iphone used by rizwan farook , who along with his wife , tashfeen malik , killed 14 people and wounded 22 in a shooting rampage in san bernardino , california .
+the young married couple sympathized with islamic state militants , and government investigators want the data on the phone to learn more about their activities the day of the shooting and their contacts with either accomplices or islamic state .
+apple ’ s cook had said the court ’ s demand threatened the security of apple ’ s customers and had “ implications far beyond the legal case at hand . ”
