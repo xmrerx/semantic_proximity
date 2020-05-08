@@ -63,7 +63,10 @@ SortBy = IntEnum('SortBy', 'name date_desc')
 
 
 def list_dir_files(dir_path: pathlib.Path, sort: SortBy = SortBy.name) -> t.List:
-    files = next(os.walk(dir_path))[2]
+    try:
+        files = next(os.walk(dir_path))[2]
+    except StopIteration:
+        files = []
     if sort == SortBy.name:
         files.sort()
     else:

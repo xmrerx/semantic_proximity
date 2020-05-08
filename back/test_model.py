@@ -153,6 +153,14 @@ if __name__ == '__main__':
                 if ' '.join(predict_words) == ' '.join(words):
                     ok += 1
                 else:
-                    logging.info(f"{tag} {sim_doc}" +
+                    logging.info(f"{tag} {sim_doc} || " +
                                  ' '.join(predict_words) + ' <> ' + ' '.join(words))
         print(f"{args.model} {model} " + str(round(ok / al, 2)) + f" ({ok} of {al})")
+
+        # dbow| spacy  (14600 of 14906)
+        # dbow| nltk   (14651 of 14906)
+        # dbow| no     (14759 of 14906)
+
+        # dm| spacy    (13220 of 14906)          13.99% (1372 of 9806)
+        # dm| nltk     (13243 of 14906)          11.62% (1425 of 12264)
+        # dm| no       (13761 of 14906)   quest: 13.39% (2100 of 15686)

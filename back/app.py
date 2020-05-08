@@ -27,7 +27,7 @@ model = Doc2Vec.load(str(conf.path('train', conf.APP['use_name'])))
 
 @app.route('/')
 def hello_world():
-    return 'Hello, World!'
+    return 'It works!'
 
 
 @cross_origin()
@@ -142,5 +142,4 @@ def page_not_found(error):
 
 
 if __name__ == '__main__':
-    app.run(debug=True, host='0.0.0.0')
-    # app.run(host=conf.APP['host'])
+    app.run(debug=True, host=conf.APP['host'], port=int(conf.APP['port']))

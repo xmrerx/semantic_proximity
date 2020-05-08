@@ -26,3 +26,17 @@ init_data
 train_data/nltk
 train_data/no
 train_data/spacy
+train_data/d2v-dbow-nltk.model
+train_data/d2v-dbow-nltk.model.docvecs.vectors_docs.npy
+train_data/d2v-dbow-no.model
+train_data/d2v-dbow-no.model.docvecs.vectors_docs.npy
+train_data/d2v-dbow-no.model.trainables.syn1neg.npy
+train_data/d2v-dbow-no.model.wv.vectors.npy
+train_data/d2v-dbow-spacy.model
+train_data/d2v-dbow-spacy.model.docvecs.vectors_docs.npy
+train_data/d2v-dm-nltk.model
+train_data/d2v-dm-nltk.model.docvecs.vectors_docs.npy
+train_data/d2v-dm-spacy.model
+train_data/d2v-dm-spacy.model.docvecs.vectors_docs.npy
+
+
