@@ -127,6 +127,8 @@ def get_text_ids():
     file_names = list_dir_files(conf.path('texts'), SortBy.date_desc)
     files_with_titles = []
     for file_name in file_names:
+        if file_name.startswith('.'):
+            continue
         file = File(*file_name.split('.'))
         files_with_titles.append({
             'id': file.name,
