@@ -10,3 +10,6 @@ In front app the communcation host is specified in `front/src/main.js`
 
 `docker-compose up`
 
+---
+
+Example of app you can find [here](http://semantic.alien-cafe.net/).
