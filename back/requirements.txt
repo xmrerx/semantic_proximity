@@ -43,7 +43,7 @@ mypy==0.770
 mypy-extensions==0.4.3
 nltk==3.5
 num2words==0.5.10
-numpy==1.18.2
+numpy==1.22.0
 packaging==20.3
 pandas==1.0.3
 parso==0.7.0
